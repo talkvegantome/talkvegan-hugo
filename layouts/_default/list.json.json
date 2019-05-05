@@ -1,0 +1,14 @@
+{{- define "response" }}
+[
+    {{- range $index, $element := .Data.Pages }}
+      {{ if $index}}, {{ end }}
+      {
+          "friendlyName": {{ .Title | jsonify}},
+          "machineName": {{.Params.machine_name | jsonify}},
+          "rawContent": {{.RawContent | jsonify}},
+          "permalink" : "{{ .Permalink }}"
+      }
+
+    {{- end }}
+]
+{{- end }}

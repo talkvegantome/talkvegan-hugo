@@ -2,3 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
+[outputs]
+  home = ["HTML", 'JSON', "AMP", "RSS"]
+  section = ['HTML', 'JSON']
+  page = ["HTML", "JSON"]

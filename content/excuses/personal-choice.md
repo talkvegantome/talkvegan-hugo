@@ -2,6 +2,7 @@
 title: "Personal Choice"
 date: 2019-05-05T10:23:52+01:00
 draft: true
+machine_name: "personalChoice"
 ---
 
 Eating Animals is My Personal Choice
