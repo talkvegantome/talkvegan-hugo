@@ -6,6 +6,12 @@
           "friendlyName": {{ .Title | jsonify}},
           "machineName": {{.Params.machine_name | jsonify}},
           "rawContent": {{.RawContent | jsonify}},
+          {{- with .Site.GetPage .Section }}
+          "section": {
+            "friendlyName": {{.Title |jsonify}},
+            "machineName": {{.Params.machine_name | jsonify}}
+          },
+          {{- end}}
           "permalink" : "{{ .Permalink }}"
       }
 

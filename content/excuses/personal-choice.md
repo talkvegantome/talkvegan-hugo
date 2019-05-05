@@ -5,7 +5,7 @@ draft: true
 machine_name: "personalChoice"
 ---
 
-Eating Animals is My Personal Choice
+## Eating Animals is My Personal Choice
 “Respect my opinion!”, “It's my personal choice to eat meat, don't force your views on to me!” - of all the excuses used to defend eating animal products, this could well be the most common. So is eating animals a personal choice or is it a little more complex than that?
 This is quite an interesting excuse as arguably it is a choice, one does actively choose to eat dead flesh and animal secretions, the same way that a racist actively chooses to be racist or a rapist actively chooses to commit rape. Using this logic it would then be morally justifiable to beat a dog or kick a cat, as it is a personal choice to do so. In this situation ask the person, “if someone makes the personal choice to abuse a dog, does that make it morally justifiable?”.
 The problem is when non-vegans use this argument they have either become so detached from the fact that their animal products came from a living being, or they hold animals with such little regard that they don't consider the lives of their food worthy of contemplation because they think the consumption of animal products only affects them as individuals.
