@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "ananke"
+title = "VegBook"
+theme = "hugo-theme-techdoc"
 [outputs]
   home = ["HTML", 'JSON', "AMP", "RSS"]
   section = ['HTML', 'JSON']

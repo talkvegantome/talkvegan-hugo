@@ -5,7 +5,8 @@ draft: true
 machine_name: "animalProductsForNutrition"
 ---
 
-# Animals for Nutrition
+# Animal Products for Nutrition
+
 Hearing that we need to eat animal products in order to be healthy is a very frustrating excuse for a vegan to hear, after all, we’re living evidence that this simply isn’t true. However the majority of people truly believe that animal products contain nutritional elements that we cannot get elsewhere and that we need for our health and longevity, after all, there has to be a real reason why we’re doing all of these horrific things to animals, right?
 The main nutritional factors that come up in conversations with non-vegans are protein, iron, calcium and if they’re a bit more clued up, B12. I would strongly recommend watching and memorising the points in these four videos by Bite Size Vegan and M.D Michael Greger.
 
