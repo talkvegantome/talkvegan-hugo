@@ -35,29 +35,21 @@ It's easy to be lulled into a false sense of security by products made from vege
 
 ### Gotchas
 
-* Honey
-
-* Beer/Wine
-
-* Bread (Regional. particularly in the UK often contains milk)
-
-* Smoothies (Often contain yogurt)
-
-* Chocolate (Dark chocolate is usually fine, but always check the packaging for milk!)
+- Honey
+- Beer/Wine
+- Bread (Regional. particularly in the UK often contains milk)
+- Smoothies (Often contain yogurt)
+- Chocolate (Dark chocolate is usually fine, but always check the packaging for milk!)
 
 ## Clothes
 
 Often less thought about than food, the following products on clothes will not be vegan.
 
-* Leather (including Suede)
-
-* Wool
-
-* Silk
-
-* Fur
-
-* Feathers
+- Leather (including Suede)
+- Wool
+- Silk
+- Fur
+- Feathers
 
 ### Gotchas
 
@@ -69,9 +61,8 @@ With all items, but particularly makeup, some research is required to determine 
 
 ### Gotchas
 
-* Bar soap is usually made with animal fat
-
-* 'Cruelty free' does not mean it is free from animal products
+- Bar soap is usually made with animal fat
+- 'Cruelty free' does not mean it is free from animal products
 
 ## Household items
 
@@ -79,7 +70,7 @@ Everything from household cleansers to pillows may contain animal products, as a
 
 ### Gotchas
 
-* Pillows often contain feathers
+- Pillows often contain feathers
 
 ## Resources
 
