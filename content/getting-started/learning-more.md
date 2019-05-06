@@ -17,7 +17,7 @@ machine_name: learningMore
 ## Films
 
 - [Land of Hope and Glory](https://www.landofhopeandglory.org/) **VIOLENT FOOTAGE**
-- [Dominion](https://www.youtube.com/watch?v=LQRAfJyEsko) **VIOLENT FOOTAGE**
+- [Dominion]({{< ref "documentaries/dominion" >}})
 - [Earthlings](http://www.nationearth.com/) **VIOLENT FOOTAGE**
 - [What the Health](http://www.whatthehealthfilm.com/) Available on Netflix, some statistics may be disputed.
 
