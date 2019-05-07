@@ -4,16 +4,18 @@
       {{ if $index}}, {{ end }}
       {
           "friendlyName": {{ .Title | jsonify}},
-          "machineName": {{.Params.machine_name | jsonify}},
           "rawContent": {{.RawContent | jsonify}},
           "relativePermalink": {{.RelPermalink |  jsonify}},
+          "weight": {{.Params.weight | jsonify}},
+          "permalink" : {{ .Permalink | jsonify }},
           {{- with .Site.GetPage .Section }}
           "section": {
             "friendlyName": {{.Title |jsonify}},
-            "machineName": {{.Params.machine_name | jsonify}}
-          },
+            "relativePermalink": {{.RelPermalink |  jsonify}},
+            "weight": {{.Params.weight | jsonify }}
+          }
           {{- end}}
-          "permalink" : "{{ .Permalink }}"
+
       }
 
     {{- end }}
