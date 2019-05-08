@@ -6,7 +6,7 @@ machine_name: splash
 ---
 
 
-# Welcome to VegBook
+# TalkVeganToMe
 
 This app provides a resource of information to help new and old vegans navigate the world.
 

@@ -1,7 +1,19 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "VegBook"
+baseURL = "http://talkvegantome.com/"
+DefaultContentLanguage = "en"
 theme = "hugo-theme-techdoc"
+defaultContentLanguageInSubdir = true
+[languages]
+  [languages.en]
+    title = "TalkVeganToMe"
+    contentDir = "content/english"
+    languageName = "English"
+    weight = 10
+  [languages.fr]
+    title = "TalkVeganToMe"
+    contentDir = "content/french"
+    languageName = "French"
+    weight = 20
+
 [outputs]
   home = ["HTML", 'JSON', "AMP", "RSS"]
   section = ['HTML', 'JSON']
