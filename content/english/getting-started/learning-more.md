@@ -17,7 +17,7 @@ draft: false
 
 - [Land of Hope and Glory]({{< ref "/documentaries/land-of-hope-and-glory" >}})
 - [Dominion]({{< ref "/documentaries/dominion" >}})
-- [Earthlings]([Dominion]({{< ref "/documentaries/earthlings" >}}))
+- [Earthlings]({{< ref "/documentaries/earthlings" >}})
 
 ## Podcasts
 
