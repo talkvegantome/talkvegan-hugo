@@ -1,8 +1,7 @@
 ---
-title: "Splash"
+title: "Home"
 date: 2019-05-05T17:41:23+01:00
 draft: false
-machine_name: splash
 ---
 
 
