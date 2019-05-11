@@ -10,4 +10,4 @@ Cette application fournit une ressource d'informations pour aider les nouveaux e
 
 ## Contributors
 
-La grande majorité du contenu provient de Earthling Ed of Surge Activism. Qui a aimablement accepté de nous laisser reproduire le travail de son livre [30 excuses non-végétaliennes] (https://earthlinged.org/ebook).
+La grande majorité du contenu provient de Earthling Ed of Surge Activism. Qui a aimablement accepté de nous laisser reproduire le travail de son livre [30 excuses non-végétaliennes](https://earthlinged.org/ebook).
