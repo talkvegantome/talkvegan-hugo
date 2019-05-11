@@ -1,7 +1,7 @@
 ---
 title: "Apprendre plus"
 date: 2019-05-05T16:50:16+01:00
-draft: true
+draft: false
 ---
 
 # Apprendre plus
@@ -15,9 +15,9 @@ draft: true
 
 ## Films
 
-- [Terre d'espoir et de gloire](https://www.landofhopeandglory.org/) ** VIOLENT FOOTAGE **
-- [Earthlings](http://www.nationearth.com/) ** FOOTAGE VIOLENT **
-- [What the Health](http://www.whatthehealthfilm.com/) Disponible sur Netflix, certaines statistiques peuvent être contestées.
+- [Terre of hope and glory]({{ <<ref "/documentaries/land-of-hope-and-glory" > }})
+- [Dominion]({{<ref "/documentaries/dominion">}})
+- [Terriens]([Dominion]({{<ref "/documentaries/earthlings">}}))
 
 ## Podcasts
 
