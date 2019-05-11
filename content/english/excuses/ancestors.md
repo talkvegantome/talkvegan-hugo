@@ -2,7 +2,6 @@
 title: "Ancestors"
 date: 2019-05-05T13:00:23+01:00
 draft: true
-machine_name: "ancestors"
 ---
 
 # Our Ancestors Ate Animals / We Evolved by Eating Animals

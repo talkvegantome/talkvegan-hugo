@@ -2,7 +2,6 @@
 title: "I Like the Taste"
 date: 2019-05-05T11:51:01+01:00
 draft: true
-machine_name: 'iLikeTheTaste'
 ---
 
 

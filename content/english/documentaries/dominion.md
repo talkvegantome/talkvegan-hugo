@@ -2,7 +2,6 @@
 title: "Dominion"
 date: 2019-05-06T16:08:53+01:00
 draft: true
-machine_name: dominion
 ---
 
 # Dominion

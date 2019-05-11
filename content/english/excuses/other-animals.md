@@ -2,7 +2,6 @@
 title: "Other Animals Eat Other Animals"
 date: 2019-05-05T12:38:21+01:00
 draft: true
-machine_name: 'otherAnimals'
 ---
 
 # Other Animals Eat Other Animals

@@ -2,7 +2,6 @@
 title: "Learning More"
 date: 2019-05-05T16:50:16+01:00
 draft: true
-machine_name: learningMore
 ---
 
 # Learning More

@@ -2,7 +2,6 @@
 title: "Animal Products Tradition and Culture"
 date: 2019-05-05T12:59:14+01:00
 draft: true
-machine_name: animalProductsForTradition
 ---
 
 # Eating Animals For Tradition & Culture
