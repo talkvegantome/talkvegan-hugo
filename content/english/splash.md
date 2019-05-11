@@ -1,15 +1,27 @@
 ---
 title: "Splash"
 date: 2019-05-05T17:41:23+01:00
-draft: true
+draft: false
 machine_name: splash
 ---
 
 
-# Welcome to VegBook
+# Welcome to TalkVeganToMe
 
-This app provides a resource of information to help new and old vegans navigate the world.
+TalkVeganToMe is an intersectional, compassionate, collaborative project intended to provide vegans old and new alike a central resource for commonly required information about veganism.
 
-## Contributors
+## Our Mission
 
-The vast majority of the content comes from Earthling Ed of Surge Activism. Who has kindly agreed to let us reproduce the work from his book [30 Non-Vegan Excuses](https://earthlinged.org/ebook).
+1) Make the day-to-day lives of vegans easier by making information easily accessible
+2) Make vegan advocacy in all its forms easier to learn about, understand, and do
+3) Ensure we do not promote messaging which harm any other justice movements
+4) Embody the compassion that veganism typifies in all our material and interactions
+5) Ensure the accuracy of our information and provide _full disclosure_ of mitigating information even if it undermines the argument being presented
+6) Not to engage in the gatekeeping of veganism (no-one can take away your V card)
+7) Not to use the platform to further the personal agenda or profit of the individual contributors
+8) Use the platform to promote inclusion and intersectional messaging wherever possible
+
+
+## Collaborating
+
+Want to add content, or just correct a typo? You can visit the [Github Repo](https://github.com/talkvegantome/talkvegan-hugo) where you will find a full guide on how to contribute.

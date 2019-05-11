@@ -1,4 +1,4 @@
-baseURL = "http://talkvegantome.com/"
+baseURL = "http://talkveganto.me/"
 DefaultContentLanguage = "en"
 theme = "hugo-theme-techdoc"
 defaultContentLanguageInSubdir = true
@@ -15,6 +15,6 @@ defaultContentLanguageInSubdir = true
     weight = 20
 
 [outputs]
-  home = ["HTML", 'JSON', "AMP", "RSS"]
+  home = ["HTML", 'JSON']
   section = ['HTML', 'JSON']
   page = ["HTML", "JSON"]
