@@ -24,3 +24,5 @@ draft: false
 - [The Bearded Vegans](https://www.thebeardedvegans.com/)
 
 ## YouTube Channels
+
+- [Earthling Ed](https://www.youtube.com/channel/UCVRrGAcUc7cblUzOhI1KfFg)
