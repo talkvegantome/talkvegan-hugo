@@ -1,4 +1,4 @@
-baseURL = "http://talkveganto.me/"
+baseURL = "https://talkveganto.me/"
 DefaultContentLanguage = "en"
 theme = "hugo-theme-techdoc"
 defaultContentLanguageInSubdir = true
