@@ -1,3 +1,4 @@
 {
-    "data" : {{ block "response" .}}{{ end }}
+    "data" : {{ block "response" .}}{{ end }},
+    "date": {{ now  | jsonify }}
 }
