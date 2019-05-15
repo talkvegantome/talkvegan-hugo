@@ -1,10 +1,10 @@
 ---
-title: "Eating Out"
+title: "Dealing with Groups"
 date: 2019-05-05T16:41:34+01:00
 draft: false
 ---
 
-# Eating Out
+# Dealing with Groups
 
 The ease of eating out varies hugely depending on where you are in the world, and also who you're with.  
 

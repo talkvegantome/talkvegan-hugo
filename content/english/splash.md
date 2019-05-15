@@ -11,7 +11,7 @@ TalkVeganToMe is an intersectional, compassionate, collaborative project intende
 
 ## Getting Started
 
-Check out our [Learning More]({{< ref "/getting-started/learning-more" >}}) section.
+TODO
 
 ## Our Mission
 

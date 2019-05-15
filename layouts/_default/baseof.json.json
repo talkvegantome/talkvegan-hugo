@@ -1,4 +1,13 @@
 {
     "data" : {{ block "response" .}}{{ end }},
+    "languages": [
+      {{- range  $index, $element :=  $.Site.Languages }}
+        {{ if $index}}, {{ end }}
+        {
+          "shortCode": {{.Lang | jsonify }},
+          "name": {{.LanguageName | jsonify }}
+        }
+      {{ end }}
+    ],
     "date": {{ now  | jsonify }}
 }
