@@ -9,21 +9,15 @@ draft: false
 
 TalkVeganToMe is an intersectional, compassionate, collaborative project intended to provide vegans old and new alike a central resource for commonly required information about veganism.  
 
-## Getting Started
+This app is intended to act as a repository of quick access information for vegans to handle everyday situations.
 
-TODO
+- [What was that stat about land usage?]({{< ref "vegan-statistics/land-usage/">}})
+- [Which E Numbers aren't vegan?]({{< ref "shopping/e-numbers/">}})
+- [How do I get vegan food at a work function?]({{< ref "eating-out/dealing-with-groups/">}})
 
-## Our Mission
+# Our Mission
 
-1. Make the day-to- day lives of vegans easier by making information easily accessible
-2. Make vegan advocacy in all its forms easier to learn about, understand, and do
-3. Ensure we do not promote messaging which harm any other justice movements
-4. Embody the compassion that veganism typifies in all our material and interactions
-5. Ensure the accuracy of our information and provide _full disclosure_ of mitigating information even if it undermines the argument being presented
-6. Not to engage in the gatekeeping of veganism (no-one can take away your V card)
-7. Not to use the platform to further the personal agenda or profit of the individual contributors
-8. Use the platform to promote inclusion and intersectional messaging wherever possible
-
+You can read more about us on the [Our Mission]({{< ref "our-mission" >}}) page.
 
 ## Collaborating
 
