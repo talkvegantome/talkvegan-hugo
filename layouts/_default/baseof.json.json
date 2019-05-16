@@ -4,8 +4,8 @@
       {{- range  $index, $element :=  $.Site.Languages }}
         {{ if $index}}, {{ end }}
         {
-          "shortCode": {{.Lang | jsonify }},
-          "name": {{.LanguageName | jsonify }}
+          "languageShortCode": {{.Lang | jsonify }},
+          "languageName": {{.LanguageName | jsonify }}
         }
       {{ end }}
     ],
