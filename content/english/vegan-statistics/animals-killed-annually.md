@@ -15,11 +15,10 @@ The smaller number pertains to land animals (sometimes only mammals) and the lat
 ## Primary Source
 
 While the [Food and Agriculture Organization of the United Nations](http://www.fao.org/faostat/en/#data/QL) database is an incredible resource for information, it does not provide bite sized information.
-http://www.bitesizevegan.org/bite-size-vegan-nuggets/qa/quantifying-suffering-cruelty-by-the-numbers/
 
 [Eurostat](http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=apro_mt_pann&lang=en) shows easier to digest numbers for the European Union, though broken down by animal type so you need to do some maths yourself.
 
-## Meta summaries
+## Meta Summaries
 
 [BiteSizeVegan](http://www.bitesizevegan.org/bite-size-vegan-nuggets/qa/quantifying-suffering-cruelty-by-the-numbers/) has an excellent article covering the difficulties in calculating these numbers and the guesswork that goes into it.
 
