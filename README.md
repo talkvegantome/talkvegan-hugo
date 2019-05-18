@@ -24,6 +24,6 @@ Submit a Pull Request with your new update, bearing in mind our mission statemen
 5. Be charitable in interpreting other people's arguments, even if you don't like them.
 6. If an argument (charitably interpreted) is flawed, bigoted, or misleading, it is _not_ your responsibility to represent it as equally valid.
 
-# Deployment
+# Deployment
 
 Deployment is performed automatically by Travis CI to the Github Pages site. As this is also the source for the app's refresh url, it will also ensure the app's content gets updated as soon as a refresh occurs.
