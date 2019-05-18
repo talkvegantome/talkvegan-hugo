@@ -2,11 +2,15 @@ dist: xenial
 env:
   global:
     secure: hgNZviioEdu6wSLRs3fVmPfLCZX3ig/1ArbfSvOAA2VtLd+MKsS+HgzQ96Dr330TVa/1nxzUof69Vtz5vEBbfujmGhCEmoVi9vG+Ben8IHywh6br9l44iIZKiD+klST9COcRxAuvLb3bR5uLbvRsYAN1lq5pQomsa79TWGrWRNsgD72GDi/vxOeaWbubOy/TN0Swx+CPPFhVJOztqjfcA+vT07KZgv77xevK/rwYa3kWWM9GhHRnj/LW08TCKQy9pZLaGAUGpD7N7nd+iJ1RpLgJv/hWKWoROwoY8L3Mvhw1mgoF195m1WApVJi/q39dMljxVeK/FHljSpKKbMfXbU8/R2O05EC9yZQT3EsBLy5cADJiGXvxWo+aZyzZynHiFMtAfsPC5QjButIkZSng6uzHiZP1Medd0Zi5sMlHA4A22vhuY3FhXv61CjKQTRrA8nbUXUaplZlSx+u0+UI9LyyCe0kPhXFgeDldLo93z4eqQfgmhE0BTQ3TyeKt6XtdTcOsobsktXZdlHwQBY6F47YWDNtwQYyld8wWWZLolMtFNs3xy9fe+HMRwhqwf4/OoqaRQAp82K5Wwfd5KgPAcTKQwc2M//eaeBqv1dcfstHWx09HXnSefVCYzi4ImfBTLOF43K7GLHr21TLwQlvQ+TeWm1cMLikJLePvtX7wlMc=
+git:
+    submodules: false
+# Use sed to replace the SSH URL with the public URL, then initialize submodules
 before_install:
-- sudo apt-get update
-- sudo apt-get install -y hugo
+  - sed -i 's/git@github.com:/https:\/\/github.com\//' .gitmodules
+  - sudo apt-get update
+  - sudo apt-get install -y hugo
 script:
-- hugo
+  - hugo
 deploy:
   provider: pages
   local_dir: public
