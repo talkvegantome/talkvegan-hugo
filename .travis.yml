@@ -22,7 +22,7 @@ deploy:
   github_token: "$GITHUB_TOKEN"
   verbose: true
   keep_history: true
-  repo: https://github.com/talkvegantome/talkvegan-hugo.git
+  repo: talkvegantome/talkvegan-hugo
   target_branch: master
   on:
     branch: master
