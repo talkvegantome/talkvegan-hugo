@@ -1,0 +1,21 @@
+header {
+  background: #235789
+}
+
+.sidebar .active >  a, .sidebar a, .sidebar a:hover {
+  background: inherit;
+  color: inherit;
+  border-left: 0
+}
+.sidebar > nav > ul > li {
+  background: #3371AA;
+  color: #E8E9EB;
+}
+ul > li > ul > li {
+   background: #E8E9EB;
+   color: #313638;
+}
+
+h1, h2, h3, h4, h5, h6{
+  color: #235789
+}
