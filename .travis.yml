@@ -9,8 +9,8 @@ before_install:
   - sed -i 's/git@github.com:/https:\/\/github.com\//' .gitmodules
   - git submodule update --init --recursive
   # Install Hugo
-  - sudo apt-get update
-  - sudo apt-get install -y hugo
+  - wget https://github.com/gohugoio/hugo/releases/download/v0.55.6/hugo_0.55.6_Linux-64bit.deb -O /tmp/hugo.deb
+  - sudo dpkg -i /tmp/hugo.deb
   - hugo version
 script:
   - hugo
