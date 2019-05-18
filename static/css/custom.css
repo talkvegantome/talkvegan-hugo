@@ -16,6 +16,10 @@ ul > li > ul > li {
    color: #313638;
 }
 
+.sidebar{
+  background: #E8E9EB
+}
+
 h1, h2, h3, h4, h5, h6{
   color: #235789
 }
