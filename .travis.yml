@@ -22,5 +22,6 @@ deploy:
   github_token: "$GITHUB_TOKEN"
   verbose: true
   keep_history: true
+  target_branch: master
   on:
     branch: master
