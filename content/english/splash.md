@@ -7,7 +7,7 @@ draft: false
 
 # Welcome to TalkVeganToMe
 
-TalkVeganToMe is an intersectional, compassionate, collaborative project intended to provide vegans old and new alike a central resource for commonly required information about veganism.  
+TalkVeganToMe is a pro-intersectional, compassionate, collaborative project intended to provide vegans old and new alike a central resource for commonly required information about veganism.  
 
 This app is intended to act as a repository of quick access information for vegans to handle everyday situations.
 
