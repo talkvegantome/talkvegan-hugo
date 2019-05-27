@@ -21,10 +21,10 @@ weight: 5
 
 - Broiler chickens (raised for meat) are slaughtered at between 5 and 7 weeks old, in comparison to a natural lifespan of up to 8 years [CIWF](https://www.ciwf.org.uk/media/3818904/welfare-of-broilers-in-the-eu.pdf), [BBC News](https://www.bbc.co.uk/news/magazine-29219843)
 - Egg Laying Hens are slaughtered after 12-18 months due to declining productivity [CIWF](https://www.ciwf.org.uk/farm-animals/chickens/egg-laying-hens/), [RSPCA](https://www.rspca.org.uk/adviceandwelfare/farm/layinghens/farming)
-- Male chicks are useless for egg laying and are killed in the billions the day the are born [Poultry Science](https://academic.oup.com/ps/article/97/3/749/4780252)
+- Male chicks are useless for egg laying and are killed in the billions the day they are born [Poultry Science](https://academic.oup.com/ps/article/97/3/749/4780252)
 
 ## Pigs
-- Pigs live over ten years [moderfarmer.com](https://modernfarmer.com/2014/03/pig-find-next-pig-thing/) and are typically slaughtered at about 6 months
+- Pigs live over ten years [modernfarmer.com](https://modernfarmer.com/2014/03/pig-find-next-pig-thing/) and are typically slaughtered at about 6 months
 [Pork.org](https://www.pork.org/facts/pig-farming/life-cycle-of-a-market-pig/)
 
 
