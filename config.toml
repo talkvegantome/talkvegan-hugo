@@ -2,6 +2,8 @@ baseURL = "https://talkveganto.me/"
 DefaultContentLanguage = "en"
 theme = "hugo-theme-techdoc"
 defaultContentLanguageInSubdir = true
+googleAnalytics = "UA-140915796-1"
+
 [languages]
   [languages.en]
     title = "TalkVeganToMe"
@@ -18,3 +20,10 @@ defaultContentLanguageInSubdir = true
   home = ["HTML", 'JSON']
   section = ['HTML', 'JSON']
   page = ["HTML", "JSON"]
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = false
+    disable = false
+    respectDoNotTrack = false
+    useSessionStorage = false
