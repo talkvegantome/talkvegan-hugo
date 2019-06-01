@@ -13,7 +13,16 @@
 
 # Contributing
 
-Submit a Pull Request with your new update, bearing in mind our mission statement.
+## High level steps
+
+1. Fork the repository
+2. Create the new page using `hugo new category-name/page-name.md` 
+3. Write your content in Markdown (don't forget to swap `draft` to false!)
+4. Preview the website by running `hugo server` and navigating to `http://localhost:1313`
+5. Commit and push your update
+6. Raise a Pull Request against this repo with your changes.
+
+For more details on these steps see our [CONTRIBUTING.md](CONTRIBUTING.md) page.
 
 ## Writing Good content
 
