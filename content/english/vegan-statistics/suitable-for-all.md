@@ -13,11 +13,13 @@ weight: 5
 
 ## American Dietetic Association
 > It is the position of the American Dietetic Association that appropriately planned vegetarian diets, including total vegetarian or vegan diets, are healthful, nutritionally adequate, and may provide health benefits in the prevention and treatment of certain diseases. Well-planned vegetarian diets are appropriate for individuals during all stages of the life cycle, including pregnancy, lactation, infancy, childhood, and adolescence, and for athletes.  
+>
 > - [American Dietetic Association](https://www.ncbi.nlm.nih.gov/pubmed/19562864)
 
 ## NHS
 
 > A vegetarian or vegan diet can be suitable for everyone, regardless of their age.  
+>
 > - [NHS UK](https://www.nhs.uk/live-well/eat-well/healthy-eating-vegetarians-vegans/)
 
 ## British Dietetic Association.
@@ -31,14 +33,15 @@ The full quote is from a memorandum between the BDA and The Vegan Society as bel
 > - Work together to show that it is possible to follow a well-planned, plant-based, vegan friendly diet that supports healthy living in people of all ages, and during pregnancy and breastfeeding.   
 > - [British Dietetic Association](https://www.bda.uk.com/about/workwithus/bda_and_vegan_society_mou)
 
-Their [associated fact sheet](https://www.bda.uk.com/foodfacts/plant-based_diet) talks about 'Plant Based Diets' covering everything between pescetarianism to veganism.
+Their [associated fact sheet](https://www.bda.uk.com/foodfacts/plant-based_diet) talks about 'Plant Based Diets' which it defines as everything between pescetarianism to veganism.
 
 > A plant-based diet is based on foods derived from plants, [...] with few or no animal products.
 > [...]  
 > Well-planned plant-based diets can support healthy living at every age and life-stage.   
+>
 > - [British Dietetic Association - Plant Based Diets](https://www.bda.uk.com/foodfacts/plant-based_diet)
 
-Ultimately the BDA is not quite as quotable as other sources, but appears commited to the idea that a well planned vegan diet is healthy.
+As their statement refers to plant-based diets (where they mean merely primarily but not necessarily _excusively_ plant-based) the BDA is not quite as quotable as other sources. Nonetheless it appears that they are commited to the idea that a well planned vegan diet is healthy.
 
 ## World Health Organisation
 
