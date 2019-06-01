@@ -41,12 +41,12 @@ Their [associated fact sheet](https://www.bda.uk.com/foodfacts/plant-based_diet)
 >
 > - [British Dietetic Association - Plant Based Diets](https://www.bda.uk.com/foodfacts/plant-based_diet)
 
-As their statement refers to plant-based diets (where they mean merely primarily but not necessarily _excusively_ plant-based) the BDA is not quite as quotable as other sources. Nonetheless it appears that they are commited to the idea that a well planned vegan diet is healthy.
+As their statement refers to plant-based diets (where they mean merely primarily but not necessarily _excusively_ plant-based) the BDA is not quite as quotable as other sources. Nonetheless it appears that they are committed to the idea that a well planned vegan diet is healthy.
 
 ## World Health Organisation
 
 > For adults, protein from two or more plant groups daily is like to be adequate. For children, however, and especially those aged 6-24 months, each meal should contain wherever possible two complementary sources of plant protein.  
->  Vegan diets (those with no source of animal proteins and especially no milk) may have serious adverse effects on infant developmentand should be discouraged.  
+>  Vegan diets (those with no source of animal proteins and especially no milk) may have serious adverse effects on infant development and should be discouraged.  
 > [WHO - Feeding and nutrition of infants and young children](http://www.euro.who.int/__data/assets/pdf_file/0004/98302/WS_115_2000FE.pdf)
 
 ----
@@ -62,7 +62,7 @@ It is important to remember when discussing this topic that _it is not always po
 ## Seeking Nutritional Advice
 
 The operative words in most of the quotes above are 'well-planned'. As with any diet, it is possible to become nutritionally deficient on a vegan diet if it's not suitably varied, supplemented, or if there are additional health concerns.  
-If you have any questions about planning your diet, seek out the experise of a registered dietician or appropriate health professional as licenced in your country.
+If you have any questions about planning your diet, seek out the expertise of a registered dietician or appropriate health professional as licenced in your country.
 
 ## Resources
 
