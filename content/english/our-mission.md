@@ -9,7 +9,7 @@ weight: 5
 
 # Our Mission
 
-1. Make the day-to- day lives of vegans easier by making information easily accessible
+1. Make the day-to-day lives of vegans easier by making information easily accessible
 2. Make vegan advocacy in all its forms easier to learn about, understand, and do
 3. Ensure we do not promote messaging which harm any other justice movements
 4. Embody the compassion that veganism typifies in all our material and interactions
@@ -17,3 +17,4 @@ weight: 5
 6. Not to engage in the gatekeeping of veganism (no-one can take away your V card)
 7. Not to use the platform to further the personal agenda or profit of the individual contributors
 8. Use the platform to promote inclusion and intersectional messaging wherever possible
+9. Remind ourselves and everyone else that veganism is about the animals, not the vegans.
