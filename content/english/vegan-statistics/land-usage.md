@@ -15,8 +15,14 @@ weight: 5
 >Meat Eater: 18x as much as a vegan  
 > - [Cowspiracy](http://www.cowspiracy.com/facts)
 
-This cites [EarhSave](http://www.earthsave.org/pdf/ofof2006.pdf) and [Eishel, Gordon, et al.]((https://www.pnas.org/content/111/33/11996.full)).   
-Scroll down to the section about 'Eishel, Gordon, et al.' if you want the most defensible source.
+This cites [EarthSave](http://www.earthsave.org/pdf/ofof2006.pdf) and [Eishel, Gordon, et al.]((https://www.pnas.org/content/111/33/11996.full)).   
+
+We regard the quality of sources on the dietary comparison as poor (see below for why!) and suggest the following instead:
+
+> Beef consumed in the United States requires around 160x as much land as potatoes, wheat, or rice for the same number of calories, and nearly 100x as much land for the same amount of protein.  
+> - TalkVeganToMe 
+
+Scroll down to the section about 'Eishel, Gordon, et al.' for the original source of the the numbers above.
 
 ## EarthSave
 
