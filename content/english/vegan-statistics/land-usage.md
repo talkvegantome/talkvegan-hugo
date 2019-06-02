@@ -64,7 +64,8 @@ The 18-20 times land usage statistic _specifically_ is pretty untenable to quote
 
 We would suggest a much more supportable statement would be 
 
-> Beef requires 160x as much land as potatoes, wheat, or rice for the same number of calories, and nearly 100x as much for the same amount of protein.
+> Beef consumed in the United States requires around 160x as much land as potatoes, wheat, or rice for the same number of calories, and nearly 100x as much land for the same amount of protein.  
+> - TalkVeganToMe 
 
 This information is based on the other source, 'Eishel, Gordon et al.' which you can find the details of below.
 
