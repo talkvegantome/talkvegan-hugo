@@ -92,7 +92,7 @@ In simple terms, even if you exclude the land the cattle grazes on it uses 15 sq
 
 ## Citations
 
--  [Eishel, Gordon, et al. "Land, irrigation water, greenhouse gas, reactive nitrogen burdens of meat, eggs and dairy production in the United States". Proceedings of the National Academy of Sciences. Vol. 111 No. 33 June 2014](https://www.pnas.org/content/111/33/11996.full) and the [Referenced Supporting Information Sheet](https://www.pnas.org/content/pnas/suppl/2014/07/19/1402183111.DCSupplemental/pnas.201402183SI.pdf), and the [Dataset S1 Excel Spreadsheet](http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1402183111/-/DCSupplemental/pnas.1402183111.sd01.xlsx).
+-  [Eishel, Gordon, et al. "Land, irrigation water, greenhouse gas, reactive nitrogen burdens of meat, eggs and dairy production in the United States". Proceedings of the National Academy of Sciences. Vol. 111 No. 33 June 2014](https://www.pnas.org/content/111/33/11996.full) and the [Referenced Supporting Information Sheet](https://www.pnas.org/content/pnas/suppl/2014/07/19/1402183111.DCSupplemental/pnas.201402183SI.pdf), and the [Dataset S1 Excel Spreadsheet](http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1402183111/-/DCSupplemental/pnas.1402183111.sd01.xlsx)
 - [John Robbins - Diet for a new America - 1987](https://archive.org/details/JohnRobbinsDietForANewAmerica/)
 - [Frances Moore Lappe - Diet for a Small Planet - 1975](https://archive.org/details/dietforsmallplan00lapp)
 - [Frances Moore Lappe - Diet for a Small Planet - 1979](https://archive.org/details/dietforsmallplan00fran)
