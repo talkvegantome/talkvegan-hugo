@@ -27,7 +27,7 @@ Scroll down to the section about 'Eishel, Gordon, et al.' for the original sourc
 ## EarthSave
 
 > Amount of land needed to feed a pure [vegan] for a year: ⅙ acre    
-> Amount of land needed to feed a meat-eater for a year: 3¼	 acres (about 20 times as much)  
+> Amount of land needed to feed a meat-eater for a year: 3¼	acres (about 20 times as much)  
 > - [EarthSave](http://www.earthsave.org/pdf/ofof2006.pdf)
 
 Their source for this statistic is 'Robbins, John. Diet for a New America, StillPoint Publishing, 1987, p. 352'.
