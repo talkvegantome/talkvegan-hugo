@@ -1,5 +1,6 @@
 header {
-  background: #235789
+  background: #235789;
+  padding: .75em;
 }
 
 .sidebar .active >  a, .sidebar a, .sidebar a:hover {
@@ -7,13 +8,21 @@ header {
   color: inherit;
   border-left: 0
 }
+
 .sidebar > nav > ul > li {
+  font-size: 1.2em;
   background: #3371AA;
   color: #E8E9EB;
 }
 ul > li > ul > li {
+   font-size: .8em;
+   
    background: #E8E9EB;
    color: #313638;
+}
+
+.sidebar a{
+  padding: .5em, .5em, .2 5em, .5em;
 }
 
 .sidebar{
@@ -21,5 +30,9 @@ ul > li > ul > li {
 }
 
 h1, h2, h3, h4, h5, h6{
-  color: #235789
+  color: #235789;
+  margin: .1em 0em;
+}
+.md-icon{
+  fill: "red"
 }
