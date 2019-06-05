@@ -16,7 +16,7 @@ When you first start checking labels on products in the supermarket it can seem 
 It's amazing what can contain animal products, here are a few of the things that surprise new vegans and can catch them out.
 
 - Honey (It is an animal product)
-- [E-numbers]({{ ref: "shopping/e-numbers"}}) (Animal products hide behind some e numbers)
+- [E-numbers]({{< ref "shopping/e-numbers">}}) (Animal products hide behind some e numbers)
 - Beer/Wine (Fish swim bladders are often used in the filtering process)
 - Bread (Regional. particularly in the UK often contains milk)
 - Smoothies (Often contain yogurt)

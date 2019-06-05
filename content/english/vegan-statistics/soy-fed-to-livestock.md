@@ -7,13 +7,15 @@ description: ""
 weight: 5
 ---
 
+
+# Popular Fact
 > 75% of soybeans grown worldwide are fed to livestock
 
 This statistic is variously quoted as anything from 70% to 90%.
 
-The most recent statistics from the [USDA's World Agricultural Supply and Demand Estimates - May 2019](https://www.usda.gov/oce/commodity/wasde/wasde0519.pdf) show **77%** of global soybean production is used for animal feed. (See the section on the USDA below for more information.)
+# Reality
 
-# Original Sources
+The most recent statistics from the [USDA's World Agricultural Supply and Demand Estimates - May 2019](https://www.usda.gov/oce/commodity/wasde/wasde0519.pdf) show **77%** of global soybean production is used for animal feed. (See the section on the USDA below for more information.)
 
 ## Yale School of Forestry and Environmental Studies
 

@@ -34,4 +34,4 @@ You may encounter some resistance if you choose a vegan place for a group of pri
 
 ## Resources
 
-- [HappyCow](https://happycow.com) Is a wonderful website and app helping you to find vegan restaurants and vegan options near you
+- [HappyCow](https://happycow.net) Is a wonderful website and app helping you to find vegan restaurants and vegan options near you
