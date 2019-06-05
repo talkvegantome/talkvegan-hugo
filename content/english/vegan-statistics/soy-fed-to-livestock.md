@@ -13,7 +13,7 @@ weight: 5
 
 This statistic is variously quoted as anything from 70% to 90%.
 
-# Reality
+# Reality
 
 The most recent statistics from the [USDA's World Agricultural Supply and Demand Estimates - May 2019](https://www.usda.gov/oce/commodity/wasde/wasde0519.pdf) show **77%** of global soybean production is used for animal feed. (See the section on the USDA below for more information.)
 
