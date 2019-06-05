@@ -11,7 +11,7 @@ weight: 5
 
 This statistic is variously quoted as anything from 70% to 90%.
 
-A reliable figure of **77%** has been sourced based on information from the 
+The most recent statistics from the [USDA's World Agricultural Supply and Demand Estimates - May 2019](https://www.usda.gov/oce/commodity/wasde/wasde0519.pdf) show **77%** of global soybean production is used for animal feed. (See the section on the USDA below for more information.)
 
 # Original Sources
 
@@ -30,11 +30,13 @@ Which in turn cites 'Worldwatch Institute (2006)', which appears to refer to [St
 
 This in turn cites 'Mark Ash, Economic Research Service, USDA, e-mail to author, May 2005'.  
 
-I reached out to Mr Ash via email myself and he replied (_incredibly_ quickly) saying that he would most likely have used the [USDA’s Production, Supply and Distribution database](https://apps.fas.usda.gov/psdonline/app/index.html#/app/advQuery) or the [Agricultural Supply and Demand Estimates report](https://www.usda.gov/oce/commodity/wasde/index.htm) as a source for this statistic and that further more:  
+## USDA World Agricultural Supply and Demand Estimates
+
+I reached out to Mr Ash from the USDA Economic Research Service myself and he replied (_incredibly_ quickly) saying that he would most likely have used the [USDA’s Production, Supply and Distribution database](https://apps.fas.usda.gov/psdonline/app/index.html#/app/advQuery) or the [Agricultural Supply and Demand Estimates report](https://www.usda.gov/oce/commodity/wasde/index.htm) as sources for this statistic and that furthermore:  
 
 >  If the question really is how much soybean meal is consumed for feed from the processing of soybeans, then the percentage is closer to 77 percent.
 
-In order to calculate the figure you take the world total use for soybean meal (232.74 million metric tons) [WASDE - p29](https://www.usda.gov/oce/commodity/wasde/wasde0519.pdf) and divide it by the world domestic crush for soybeans (301.63 million metric tons) [WASDE - p28](https://www.usda.gov/oce/commodity/wasde/wasde0519.pdf) which gives you 77%!  
+In order to calculate the figure, you take the world total use for soybean meal (232.74 million metric tons) [WASDE May 2019 - p29](https://www.usda.gov/oce/commodity/wasde/wasde0519.pdf) and divide it by the world domestic crush for soybeans (301.63 million metric tons) [WASDE May 2019- p28](https://www.usda.gov/oce/commodity/wasde/wasde0519.pdf) which gives you 77%.  
 According to Mr Ash, nearly all of the domestic use of soybean meal is for animal feed.
 
 Here we are comparing statistics about global **soybean** production vs global **soybean meal** consumption. The amount of meal consumed by ton is 77% of the total soybean production globally. Assuming that only trace amounts of soybean meal is used for anything other than animal feed (as suggested by Mr Ash, an expert in the field), we can rest our figure for animal feed consumption at 77% of total global soybean production.
@@ -44,5 +46,6 @@ Here we are comparing statistics about global **soybean** production vs global *
 - [Global Forest Atlas - Yale School of Forestry and Environmental Studies](https://globalforestatlas.yale.edu/amazon/land-use/soy)
 - [Greenpeace - Eating up the Amazon](http://www.greenpeace.org/usa/research/eating-up-the-amazon/)
 - [State of the World 2006 - Worldwatch Institute](https://archive.org/details/stateofworld200600nier)
-- [USDA’s Production, Supply and Distribution database](https://apps.fas.usda.gov/psdonline/app/index.html#/app/advQuery)
-- [Agricultural Supply and Demand Estimates report](https://www.usda.gov/oce/commodity/wasde/index.htm) 
+- [USDA’s Production, Supply and Distribution Database](https://apps.fas.usda.gov/psdonline/app/index.html#/app/advQuery)
+- [World Agricultural Supply and Demand Estimates Reports](https://www.usda.gov/oce/commodity/wasde/index.htm) 
+- [World Agricultural Supply and Demand Estimates - May 2019](https://www.usda.gov/oce/commodity/wasde/wasde0519.pdf)
