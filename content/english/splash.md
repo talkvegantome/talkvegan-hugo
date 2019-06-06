@@ -13,7 +13,7 @@ This app is intended to act as a repository of quick access information for vega
 
 - [What was that stat about land usage?]({{< ref "vegan-statistics/land-usage/">}})
 - [Which E Numbers aren't vegan?]({{< ref "shopping/e-numbers/">}})
-- [How do I get vegan food at a work function?]({{< ref "eating-out/dealing-with-groups/">}})
+- [Does almond milk really use 1,600 US Gallons per litre?]({{< ref "/anti-vegan-arguments/almond-milk-water-usage">}})
 
 # Our Mission
 
