@@ -37,7 +37,7 @@ In simpler terms:
 1. Even if you exclude the land the cattle grazes on it uses 15 square metres of land per thousand calories to raise beef due to the harvested hay and silage (compacted grass feed). 
 2. Removing the cattle from the pastureland would promote biodiversity even if it was unsuitable for growing crops.
 3. There are 0.62 _million_ square kilometeres (which is slightly larger than then entirety of France) of pastureland that are suitable for crops in the United States.
-4. We don't _need_ beef, or any other animal products to shore up our calorie or protein intake, as [acre for acre plants are on average 100 to 160 times more efficient]({{<ref "/vegan-facts/land-usage.md">}}).
+4. We don't _need_ beef, or any other animal products to shore up our calorie or protein intake, as [acre for acre plants are on average 100 to 160 times more efficient]({{<ref "/facts/land-usage.md">}}).
 
 The stats from the quote cite land usage, but the argument stands (though the numbers differ) for water usage.
 

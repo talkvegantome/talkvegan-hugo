@@ -11,9 +11,9 @@ TalkVeganToMe is a pro-intersectional, compassionate, collaborative project inte
 
 This app is intended to act as a repository of quick access information for vegans to handle everyday situations.
 
-- [What was that stat about land usage?]({{< ref "vegan-facts/land-usage/">}})
+- [What was that stat about land usage?]({{< ref "facts/land-usage/">}})
 - [Which E Numbers aren't vegan?]({{< ref "shopping/e-numbers/">}})
-- [Does almond milk really use 1,600 US Gallons per litre?]({{< ref "/anti-vegan-facts/almond-milk-water-usage">}})
+- [Does almond milk really use 1,600 US Gallons per litre?]({{< ref "/facts/almond-milk-water-usage">}})
 
 # Our Mission
 
