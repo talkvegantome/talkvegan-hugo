@@ -20,19 +20,11 @@ We describe organisations based on:
 # Global
 
 ## Animal Equality
-**Website:** [peta.org](https://animalequality.org/)  
+**Website:** [animalequality.org](https://animalequality.org/)  
 **Activism Style:** Direct  
 **Inclusivity History:** No Known Controversies  
 **Typical Citation Quality:** Unknown  
-**Carnist Palatability:** Unknown
-
-## Direct Action Everywhere
-**Website:** [directactioneverywhere.com](https://www.directactioneverywhere.com)  
-**Activism Style:** Direct  
-**Animal Exploitation Stance:** Abolitionist  
-**Inclusivity History:** Recent Controversy  
-**Typical Citation Quality:** Unknown  
-**Carnist Palatability:** Shocking
+**Carnist Palatability:** Unknown  
 
 ## Anonymous for the Voiceless  
 **Website:** [anonymousforthevoiceless.org](https://www.anonymousforthevoiceless.org/)  
@@ -41,6 +33,14 @@ We describe organisations based on:
 **Inclusivity History:** Unknown  
 **Typical Citation Quality:** Unknown  
 **Carnist Palatability:** Direct
+
+## Direct Action Everywhere
+**Website:** [directactioneverywhere.com](https://www.directactioneverywhere.com)  
+**Activism Style:** Direct  
+**Animal Exploitation Stance:** Abolitionist  
+**Inclusivity History:** Recent Controversy  
+**Typical Citation Quality:** Unknown  
+**Carnist Palatability:** Shocking
 
 ## The Humane League  
 **Website:** [thehumaneleague.org](https://thehumaneleague.org)  
