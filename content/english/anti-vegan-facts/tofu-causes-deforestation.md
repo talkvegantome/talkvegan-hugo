@@ -22,7 +22,7 @@ This fact appears to have become popular through the following New York Times qu
 > Further, globally 77% of the annual soybean harvest is fed to livestock, meaning that the vast majority of soybean production is driven by meat production.  
 > - TalkVeganToMe
 
-The above quote is a combination of the findings of the below Nature article by David M. Lapola, Luiz A. Martinelli, et al. and the USDA statistics you can find in our article [Soy Fed to Livestock]({{< ref "/vegan-statistics/soy-fed-to-livestock">}}).
+The above quote is a combination of the findings of the below Nature article by David M. Lapola, Luiz A. Martinelli, et al. and the USDA statistics you can find in our article [Soy Fed to Livestock]({{< ref "/vegan-facts/soy-fed-to-livestock">}}).
 
 ## Nature - David M. Lapola, Luiz A. Martinelli, et al. - Pervasive transition of the Brazilian land-use system
 
