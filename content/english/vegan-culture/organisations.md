@@ -11,6 +11,7 @@ weight: 5
 
 We describe organisations based on:   
 **Activism Style:** Informational/Active/Direct  
+**Animal Exploitation Stance:** Abolitionist/Welfareist
 **Inclusivity History:** Recent Controversy/Historic Controversy/No Known Controversies   
 **Typical Citation Quality:** Anecdotal/News/Academic/Original Sources  
 **Carnist Palatability:** Inoffensive/Direct/Shocking  
@@ -18,41 +19,118 @@ We describe organisations based on:
 
 # Global
 
-## PETA
-**Website:** [peta.org](https://www.peta.org/)  
-**Activism Style:** Active  
-**Inclusivity History:** Historic Controversy  
-**Typical Citation Quality:** News  
-**Carnist Palatability:** Direct/Shocking
+## Animal Equality
+**Website:** [peta.org](https://animalequality.org/)  
+**Activism Style:** Direct  
+**Inclusivity History:** No Known Controversies  
+**Typical Citation Quality:** Unknown  
+**Carnist Palatability:** Unknown
 
 ## Direct Action Everywhere
 **Website:** [directactioneverywhere.com](https://www.directactioneverywhere.com)  
 **Activism Style:** Direct  
-**Inclusivity History:** [Recent Controversy](https://www.bbc.co.uk/news/world-us-canada-48487984)  
+**Animal Exploitation Stance:** Abolitionist  
+**Inclusivity History:** Recent Controversy  
 **Typical Citation Quality:** Unknown  
 **Carnist Palatability:** Shocking
 
-# UK
+## Anonymous for the Voiceless  
+**Website:** [anonymousforthevoiceless.org](https://www.anonymousforthevoiceless.org/)  
+**Activism Style:** Direct  
+**Animal Exploitation Stance:** Abolitionist  
+**Inclusivity History:** Unknown  
+**Typical Citation Quality:** Unknown  
+**Carnist Palatability:** Direct
 
-## The Vegan Society
-**Website:** [vegansociety.com](https://www.vegansociety.com/)  
+## The Humane League  
+**Website:** [thehumaneleague.org](https://thehumaneleague.org)  
+**Activism Style:** Direct  
+**Animal Exploitation Stance:** Abolitionist  
+**Inclusivity History:** Unknown  
+**Typical Citation Quality:** Unknown  
+**Carnist Palatability:** Direct
+
+## The Humane Society International  
+**Website:** [thehumaneleague.org](https://www.hsi.org/)  
 **Activism Style:** Informational  
-**Inclusivity History:** No Known Controversies  
-**Typical Citation Quality:** Academic  
+**Animal Exploitation Stance:** Welfareist  
+**Inclusivity History:** Unknown  
+**Typical Citation Quality:** Unknown  
 **Carnist Palatability:** Inoffensive
 
-## Surge
-**Website:** [surgeactivism.org](https://surgeactivism.org/)  
+## PETA
+**Website:** [peta.org](https://www.peta.org/)  
 **Activism Style:** Active  
-**Inclusivity History:** No Known Controversies  
+**Animal Exploitation Stance:** Abolitionist  
+**Inclusivity History:** Historic Controversy  
 **Typical Citation Quality:** News  
+**Carnist Palatability:** Direct/Shocking
+
+## Save Movement
+**Website:** [thesavemovement.org](http://thesavemovement.org)  
+**Activism Style:** Direct  
+**Animal Exploitation Stance:** Abolitionist  
+**Inclusivity History:** Unknown  
+**Typical Citation Quality:** Unknown  
 **Carnist Palatability:** Direct
+
+## Veganuary  
+**Website:** [veganuary.com](https://veganuary.com/)  
+**Activism Style:** Informational  
+**Animal Exploitation Stance:** Abolitionist  
+**Inclusivity History:** Unknown  
+**Typical Citation Quality:** Unknown  
+**Carnist Palatability:** Inoffensive
+
+
+# UK
+
+## Animal Aid  
+**Website:** [animalaid.org.uk](https://www.animalaid.org.uk/)  
+**Activism Style:** Informational  
+**Animal Exploitation Stance:** Abolitionist  
+**Inclusivity History:** No Known Controversies  
+**Typical Citation Quality:** Unknown  
+**Carnist Palatability:** Inoffensive
 
 ## Hunt Saboteurs Association
 **Website:** [huntsab.org.uk](https://www.huntsabs.org.uk/)  
 **Activism Style:** Direct  
+**Animal Exploitation Stance:** Abolitionist  
 **Inclusivity History:** No Known Controversies  
 **Typical Citation Quality:** Unknown  
 **Carnist Palatability:** Shocking
 
+## Surge
+**Website:** [surgeactivism.org](https://surgeactivism.org/)  
+**Activism Style:** Active  
+**Animal Exploitation Stance:** Abolitionist  
+**Inclusivity History:** No Known Controversies  
+**Typical Citation Quality:** News  
+**Carnist Palatability:** Direct
 
+## The Vegan Society
+**Website:** [vegansociety.com](https://www.vegansociety.com/)  
+**Activism Style:** Informational  
+**Animal Exploitation Stance:** Abolitionist  
+**Inclusivity History:** No Known Controversies  
+**Typical Citation Quality:** Academic  
+**Carnist Palatability:** Inoffensive
+
+## Viva
+**Website:** [viva.org.uk](https://www.viva.org.uk/)  
+**Activism Style:** Informational  
+**Animal Exploitation Stance:** Abolitionist  
+**Inclusivity History:** No Known Controversies  
+**Typical Citation Quality:** Unknown  
+**Carnist Palatability:** Inoffensive
+
+# USA
+
+## Mercy For Animals  
+**Website:** [mercyforanimals.org](https://mercyforanimals.org/)  
+**Activism Style:** Direct  
+**Animal Exploitation Stance:** Abolitionist  
+**Inclusivity History:** No Known Controversies  
+**Typical Citation Quality:** Unknown  
+**Carnist Palatability:** Unknown
