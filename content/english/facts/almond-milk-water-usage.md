@@ -77,9 +77,9 @@ Out of curiousity however, we can use the data the authors provided to make two 
 
 > Almond Farming + Soybean Processing = Approximate Total gallons per litre of milk  
 >   0.20113 kgal [p13](https://web.archive.org/web/20181003201254/https://www.ioes.ucla.edu/wp-content/uploads/cow-vs-almond-milk-1.pdf) + 0.136 kgals [p12](https://web.archive.org/web/20181003201254/https://www.ioes.ucla.edu/wp-content/uploads/cow-vs-almond-milk-1.pdf) = Approximate Total  
-> Approximate Total = 0.20113 kgals  
+> Approximate Total = 0.33713 kgals  
 
-So our total would be 201 gallons of water per litre of almond milk rather than their cited 1,611. This makes the assumption that almond processing takes exactly as much water as soybean processing, but that seems a more defensible assumption than the _wild_ speculation of the figures based on the model. (See the 4 bullet points above for why.)
+So our total would be 337 gallons of water per litre of almond milk rather than their cited 1,611. This makes the assumption that almond processing takes exactly as much water as soybean processing, but that seems a more defensible assumption than the _wild_ speculation of the figures based on the model. (See the 4 bullet points above for why.)
 
 **Use the [Almond Eco­Efficiency Analysis](http://www.nsfturkey.com/newsroom_pdf/Almond_EEA_Study_Verification_Final_August_2011.pdf) figure with the 0.83 ratio**
 
