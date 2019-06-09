@@ -1,10 +1,10 @@
 ---
-title: "Suitable for All Ages"
+title: "Vegan Diet is Suitable for All"
 date: 2019-06-01T14:09:20+01:00
 lastmod: 2019-06-01T14:09:20+01:00
 draft: false
 description: ""
-weight: 5
+weight: 100
 ---
 
 # A well planned vegan diet is suitable for people of all ages.

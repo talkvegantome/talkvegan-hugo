@@ -14,26 +14,34 @@ We describe documentaries based on:
 **Typical Citation Quality:** Anecdotal/News/Academic/Original Sources  
 **Carnist Palatability:** Inoffensive/Uncomfortable/Hateful  
 
-## Earthlings
-[Watch on on Vimeo](https://vimeo.com/209647801)  
-**Release Date:** 2005  
-**Website:** [nationearth.com](http://www.nationearth.com/)  
-**Activism Style:** Emotive  
-**Typical Citation Quality:** ?  
-**Carnist Palatability:** Uncomfortable  
+## Cowspiracy
+[Watch on Netflix](https://www.netflix.com/watch/80033772) [Paid Download](https://cowspiracy.vhx.tv/buy)  
+**Release Date:** 2014  
+**Website:** [cowspiracy.com](http://www.cowspiracy.com/)  
+**Activism Style:** Statistical  
+**Typical Citation Quality:** News (we have corrected at least [one fact]({{<ref "/facts/land-usage">}}))  
+**Carnist Palatability:** Inoffensive  
 
 ## Dominion
-[Watch on on Youtube](https://youtu.be/LQRAfJyEsko)  
+[Watch on Youtube](https://youtu.be/LQRAfJyEsko)  
 **Release Date:** 2018  
 **Website:** [dominionmovement.com](https://www.dominionmovement.com/)  
 **Activism Style:** Emotive  
 **Typical Citation Quality:** ?  
 **Carnist Palatability:** Uncomfortable  
 
-## Cowspiracy
-[Watch on on Netflix](https://www.netflix.com/watch/80033772) [Paid Download](https://cowspiracy.vhx.tv/buy)  
-**Release Date:** 2014  
-**Website:** [cowspiracy.com](http://www.cowspiracy.com/)  
-**Activism Style:** Statistical  
-**Typical Citation Quality:** News  
-**Carnist Palatability:** Inoffensive  
+## Earthlings
+[Watch on Vimeo](https://vimeo.com/209647801)  
+**Release Date:** 2005  
+**Website:** [nationearth.com](http://www.nationearth.com/)  
+**Activism Style:** Emotive  
+**Typical Citation Quality:** ?  
+**Carnist Palatability:** Uncomfortable  
+
+## Land of Hope and Glory
+[Watch on Youtube](https://www.youtube.com/watch?v=dvtVkNofcq8)  
+**Release Date:** 2017  
+**Website:** [landofhopeandglory.org](https://www.landofhopeandglory.org/)  
+**Activism Style:** Emotive  
+**Typical Citation Quality:** Academic  
+**Carnist Palatability:** Uncomfortable 

@@ -1,10 +1,10 @@
 ---
-title: "Soy Fed to Livestock"
+title: "Soy Mostly Fed to Livestock"
 date: 2019-06-03T21:32:56+01:00
 lastmod: 2019-06-03T21:32:56+01:00
 draft: false
 description: ""
-weight: 5
+weight: 100
 ---
 
 
@@ -39,7 +39,10 @@ I reached out to Mr Ash from the USDA Economic Research Service myself and he re
 >  If the question really is how much soybean meal is consumed for feed from the processing of soybeans, then the percentage is closer to 77 percent.
 
 In order to calculate the figure, you take the world total use for soybean meal (232.74 million metric tons) [WASDE May 2019 - p29](https://www.usda.gov/oce/commodity/wasde/wasde0519.pdf) and divide it by the world domestic crush for soybeans (301.63 million metric tons) [WASDE May 2019- p28](https://www.usda.gov/oce/commodity/wasde/wasde0519.pdf) which gives you 77%.  
-According to Mr Ash, nearly all of the domestic use of soybean meal is for animal feed.
+According to Mr Ash, nearly all of the domestic use of soybean meal is for animal feed and this is backed up by this archived summary article from SoyaTech, which, while unsourced itself, is from independent technical resource in the soy industry..
+
+> About 85 percent of the world’s soybeans are processed, or "crushed," annually into soybean meal and oil.  Approximately 98 percent of the soybean meal that is crushed is further processed into animal feed with the balance used to make soy flour and proteins.  
+> - [SoyaTech 2017](https://web.archive.org/web/20170112075924/http://www.soyatech.com/soy_facts.htm)
 
 Here we are comparing statistics about global **soybean** production vs global **soybean meal** consumption. The amount of meal consumed by ton is 77% of the total soybean production globally. Assuming that only trace amounts of soybean meal is used for anything other than animal feed (as suggested by Mr Ash, an expert in the field), we can rest our figure for animal feed consumption at 77% of total global soybean production.
 
@@ -51,3 +54,4 @@ Here we are comparing statistics about global **soybean** production vs global *
 - [USDA’s Production, Supply and Distribution Database](https://apps.fas.usda.gov/psdonline/app/index.html#/app/advQuery)
 - [World Agricultural Supply and Demand Estimates Reports](https://www.usda.gov/oce/commodity/wasde/index.htm) 
 - [World Agricultural Supply and Demand Estimates - May 2019](https://www.usda.gov/oce/commodity/wasde/wasde0519.pdf)
+- [SoyaTech - Soya Facts - 2017](https://web.archive.org/web/20170112075924/http://www.soyatech.com/soy_facts.htm

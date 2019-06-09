@@ -4,8 +4,22 @@ date: 2019-05-27T19:47:28+01:00
 lastmod: 2019-05-27T19:47:28+01:00
 draft: false
 description: ""
-weight: 5
+weight: 100
 ---
+
+# Popular fact
+
+> Animals live a life worth living prior to being slaughter
+
+# Reality
+
+Animals live for as little as 1.6% of their natural lifespan (7 weeks vs 12 years for broiler (meat) chickens). And even dairy cows get only of 20% of their 20 year lifespan.
+
+Regardless of whether you regard 20% of a life as "good enough", unnecessary death is indefensible ethically, regardless of length or quality of life.
+
+See below for sources.
+
+## Sources
 
 ## Cows
 > Maximum lifespan in domestic cows may exceed 20 years. However, lifespan is often limited by human culling.  

@@ -1,10 +1,10 @@
 ---
-title: "Land Usage"
+title: "Vegan Diet Land Usage"
 date: 2019-05-16T21:24:39+01:00
 lastmod: 2019-05-16T21:24:39+01:00
 draft: false
 description: ""
-weight: 5
+weight: 100
 ---
 
 # Vegan vs Omnivore Land Usage
