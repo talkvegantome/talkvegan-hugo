@@ -40,4 +40,4 @@ Trying to trip vegans up by exposing real or imagined inconsistencies is a commo
 
 Each person's 'possible and practicable' is a line they have to draw for themselves. It is not necessary to be perfect to be vegan. 
 
-This is not an excuse to have a steak when there isn't a vegan option at the restaurant. It is only that it is necessary to recognise that it is nearly impossible to without cruelty to animals or people while still participating in a 21st century society, and to forgive ourselves for the things we cannot avoid.
+This is not an excuse to have a steak when there isn't a vegan option at the restaurant. Eating a boring salad is a very minor discomfort in comparison to choosing to endorse the horrors animals face in slaughterhouses. It is only that it is necessary to recognise that it is nearly impossible to without cruelty to animals or people while still participating in a 21st century society, and to forgive ourselves for the things we cannot avoid.

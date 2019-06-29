@@ -1,5 +1,5 @@
 ---
-title: "Anti Vegan"
+title: "Anti Vegan Arguments"
 date: 2019-06-26T20:05:06+01:00
 lastmod: 2019-06-26T20:05:06+01:00
 draft: false
