@@ -37,47 +37,27 @@ Their source for this statistic is 'Robbins, John. Diet for a New America, Still
 > To supply one person with a meat habit food for a year requires three and a quarter acres. To supply one lacto-ovo vegetarian with food for a year requires one-half acre. To supply one pure vegetarian requires only one-sixth of an acre. In other words, a given acreage can feed 20 times as many people eating a pure vegetarian diet-style as it could people eating the standard American diet-style [Diet for a new American p344 as PDF](https://ia802904.us.archive.org/21/items/JohnRobbinsDietForANewAmerica/John_Robbins_Diet_for_a_New_America.pdf)
 
 This in turn cites 
--  'Frances Moore Lappé, Diet for a Small Planet, 10th ed. (New York: Ballantine Books, 1982), p69'. 
+- Aaron Altschul - Proteins: Their Chemistry and Politics - 1965 - p264. 
 
-## Frances Moore Lappé, Diet for a Small Planet
-The 10th edition of Diet for a Small Planet is surprisingly hard to find, and we have been unable to find anyone who provides a verbatim quote of the relevant section from the book.
+## Aaron Altschul - Proteins: Their Chemistry and Politics - 1965
 
-The 1976 revised edition contains the following:
+Due to its age, this book was quite hard to track down. Fortunately we were able to secure a copy from the British Library.
 
-> An acre of cereeals can produce _five times_ more protein than an acre devoted to meat production; legumes (beans, peas, lentils) can produce _ten times_ more; and leafy vegetables _fifteen times_ more. These figures are averages; some plants in each category produce even more. Spinach, for example, can produce up to _twenty six times_ more protein per acre than can beef.  
-> - [Diet for a Small Planet 1976 p10](https://archive.org/details/dietforsmallplan00lapp_2/page/10)
+> A meat and milk-based diet may require as much as 3 1/2 acres to provide one Standard Nutrition Unit.  
+> [...W]hile six to seven standard Nutrition Units of a rice-and-beans diet in Japan are produced per acre. Therefore, depending upon the type of diet, the capacity of the land to support a population ranges from 20:1.  
+> - Aaron Altschul - Proteins: Their Chemistry and Politics - 1965 - p264. 
 
-But this does not mention our 1/6th acre or 3 and 1/4 acre figures.  
-The closest we can find is page 405 of the 2002 edition which reads:
-
-> Chemical, mechanized farming in the U.S. uses about three-fourths of an acre to feed one person, but the Jeavons group reports that Grow Biointensive can provide a healthy, diverse plant-food diet without chemicals using as little as one-fifth to one-tenth of an acre.  
-> - [Hope's edge: The next diet for a small planet 2002 - p405](https://archive.org/details/hopesedgenextdie00lapp/page/286)
-
-This is not exactly the 1/6th figure that John Robbins cites, but it's certainly the closest we can find. [Grow Biointensive](http://www.growbiointensive.org/about_history.html) looks to be an organisation about intensive crop farming on a small scale, so they are likely the original source of the statistic from a plant-based side at least.  
-Their [FAQ](http://www.growbiointensive.org/FAQ/FAQ_RawFood.html) states:
-
-> A complete diet for one person realistically takes 4,000 sq ft, when grown at GROW BIOINTENSIVE® intermediate yields.  
-> - [Grow Biointensive FAQ - Raw Food](http://www.growbiointensive.org/FAQ/FAQ_RawFood.html)
-
-4,000 sqft = 0.91 acres, which is _still_ not our 1/6th, 1/5th, or 1/10th figures, but the FAQ is from 2010 and the closest citation we can find from Frances Moore Lappé is from 2002, so changes are understandable.
-
-Here we are firmly past the pale of charitable interpretation though. We definitely do not have a reliable original source even for the one-sixth figure for a plant based diet, much less the three and a quarter acres that a meat eater requires! The closest the Grow Biointensive site has is the page on livestock which states:
-
-> Generally, in conventional farming, two gallons of milk daily may be produced by one cow (or two goats) on about one acre (43,560 sq. ft.)
-> - [Grow Biointensive FAQ - Livestock](http://www.growbiointensive.org/FAQ/FAQ_Livestock.html)
-
-Unfortunately this is both unsourced and does not make any claims about what a typical meat eating diet requires, just provides figures based on individual animal requirements and so our journey ends unresolved and on a tangent.
-
-If anyone is able to provide access to the relevant original source (the 10th Anniversary edition, p69) please [contact us](https://talkvegantome.freshdesk.com/support/tickets/new).
+For a source, this cites 'Land Use and Food Production - Stamp, L.D, in Hunger: Can It Be Averted? 1961'
 
 ### Conclusion
 
 The 18-20 times land usage statistic _specifically_ is pretty untenable to quote so simplisticly today for the following reasons:
 
 1. Comparing "average diets" is complex due to the huge variety in what people eat globally and even within the same country.
-2. Comparing meat and vegetable sources for efficiency needs to be heavily caveated with the regions the statistics were gathered from and the time period those statistics cover as these vary by region and year.
-3. The source is from 1981 (so far as we can trace it with accuracy, but the original source of information if it is indeed from Grow Biointesive may go back to the 1970s as the organisation was formed in '72).
-4. There are much better, much more recent statistics we can draw upon.
+2. This specific stat originally referred not to an average vegan diet but a specific 1960s Japanese Rice and Beans diet.
+3. Comparing meat and vegetable sources for efficiency needs to be heavily caveated with the regions the statistics were gathered from and the time period those statistics cover as these vary by region and year.
+4. The source is from 1961 (so far as we can trace).
+5. There are much better, much more recent statistics we can draw upon.
 
 We would suggest a much more supportable statement would be 
 
