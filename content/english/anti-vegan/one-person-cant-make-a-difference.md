@@ -18,7 +18,7 @@ weight: 5
 > Just because we cannot stop animal cruelty does not mean we should be part of it.  
 > It is our responsibility as consumers to vote with our wallet for the things we support.
 
-## Detail - Analytic
+## Detail - Analytic - Our Actions are our Ethics
 
 In a capitalist framework, one of the only ways to influence companies is through 'voting with your dollar'. This has already lead to the blossoming of vegan options in supermarkets around the world with companies rushing to take advantage of increasing vegan market.  
 Even if supply and demand didn't have an impact on companies production choices (e.g. milk subsidies in the US) we implicitly take a position on the morality of these industries by deciding whether or not we participate in them. Just because we cannot stop animal cruelty does not mean we should be part of it.
@@ -39,7 +39,7 @@ In the Yulin dog festival scenario there are two things wrong with this:
 1. You will be supporting the industry by paying for the meal, that money goes back into next year's festival to breed more dogs for slaughter.
 2. There is a disconnect here between the ethics of your actions and the ethics of the consequences of your actions.
 
-## Thought Experiment - Dead Body at the Side of the Road
+### Thought Experiment - Dead Body at the Side of the Road
 Let's look at the aforementioned ethical disconnect between actions and consequences through the light of another thought experiment.  
 
 Suppose you find a body on the side of the road, killed by a hit and run. Rather morbidly you rifle through the journal you find in their pocket learning they are entirely alone in this world and unmissed by anyone. You are miles away from any jurisdiction, on a disused logging road deep in the forest, the police will never find the body.  
@@ -54,8 +54,18 @@ It is this internalisation of rightness or wrongness that most vegans hinge on w
 
 It is, at its core, about the fact that an animal had to die in order for you to be able to eat them.
 
-## Monetary support
+## Detail - Analytic - Monetary Support
 
 The second problem with saying "it's okay to eat a dog in the Yulin dog festival" when you disagree with the concept of killing dogs for food, is that irrespective of whether your purchasing the dog meat makes the dog any less dead, that purchasing decision _is_ the demand that business owners take into account when they make stock decisions. 
 
 Your money from purchasing the dog meat will go towards breeding more dogs for next year's festival, and even if the amount you pay is paltry, it has to be considered in aggregate. If every tourist supports the dog meat industry, it will grow to accommodate that demand. If none of them do, it will shrink accordingly. 
+
+## Detail - Motive - Impact of Individual's Actions - All Actions are Activism in an Oppressive System
+
+All political movements engaged with righting a wrong throughout history have been composed of individuals. Without individuals there is no movement, and every action you take in service of animal liberation is an act of resistance against the status quo. The waiter whom you ask for the vegan option, might just think 'huh, so many people are ordering that these days, I should check it out'. Your conversation with your friend might plant the seed of receptivity to veganism, and they might inspire others in turn to go vegan. The animal rights march you take part in might be the biggest ever and make the news. You might inspire, or get inspired through activism to be, a driving force in the animal rights movement.  
+
+Every action, no matter how small, matters. You don't have to boil the ocean, you just have to make a splash.
+
+Whatever you do, just don't forget, veganism is not for vegans.  
+
+**Veganism is for the animals.**
