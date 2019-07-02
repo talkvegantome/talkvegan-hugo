@@ -49,15 +49,28 @@ Due to its age, this book was quite hard to track down. Fortunately we were able
 
 For a source, this cites 'Land Use and Food Production - Stamp, L.D, in Hunger: Can It Be Averted? 1961'
 
+# Land Use and Food Production - Stamp, L.D, - Hunger: Can It Be Averted? - 1961
+
+Again this book required a trip to the British Library, and even they had to pull it from their offsite location in Yorkshire to bring it to the reading rooms.
+
+> Some diets (meat and milk for example) are very extravagant of land; it may require as much as 3.5 acres to produce one [Standard Nutrition Unit (1,000,000 calories)] whereas a mainly wheat-bread basic diet requires under efficient cultigation only 0.25 acre, whilst the very intensive rice culture together with oceans in Japan produces 6-7 Units per acre. In 'carrying capacity' there is thus a range from at least 20 to 1.  
+> - Land Usage and Food Production - Stamp, L.D. - Hunger: Can It Be Averted? - 1961 - p38
+
+And... that's it.. There's no further citation.  Only a message at the end of the article saying that 'Stamp, L. Dudley - Our Developing World, Faber' treats many of the topics mentioned above in more detail.
+
+It is *not even vegan* because it includes fish (as per the 'together with oceans' comment).
+
 ### Conclusion
 
 The 18-20 times land usage statistic _specifically_ is pretty untenable to quote so simplisticly today for the following reasons:
 
 1. Comparing "average diets" is complex due to the huge variety in what people eat globally and even within the same country.
 2. This specific stat originally referred not to an average vegan diet but a specific 1960s Japanese Rice and Beans diet.
-3. Comparing meat and vegetable sources for efficiency needs to be heavily caveated with the regions the statistics were gathered from and the time period those statistics cover as these vary by region and year.
-4. The source is from 1961 (so far as we can trace).
-5. There are much better, much more recent statistics we can draw upon.
+3. The Japanese Rice and Beans diet in question included _fish_.
+4. Comparing meat and vegetable sources for efficiency needs to be heavily caveated with the regions the statistics were gathered from and the time period those statistics cover as these vary by region and year.
+5. The source is from 1961 (so far as we can trace).
+6. The original source is uncited for statistics or methodology.
+7. There are much better, much more recent statistics we can draw upon.
 
 We would suggest a much more supportable statement would be 
 
