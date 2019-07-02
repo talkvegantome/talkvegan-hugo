@@ -49,7 +49,7 @@ Due to its age, this book was quite hard to track down. Fortunately we were able
 
 For a source, this cites 'Land Use and Food Production - Stamp, L.D, in Hunger: Can It Be Averted? 1961'
 
-# Land Use and Food Production - Stamp, L.D, - Hunger: Can It Be Averted? - 1961
+## Land Use and Food Production - Stamp, L.D, - Hunger: Can It Be Averted? - 1961
 
 Again this book required a trip to the British Library, and even they had to pull it from their offsite location in Yorkshire to bring it to the reading rooms.
 
