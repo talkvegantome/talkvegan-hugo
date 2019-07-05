@@ -60,7 +60,7 @@ It is *not even vegan* because it includes fish (as per the 'together with ocean
 
 While there is no explicit citation, there is a note at the end of the article saying that 'Stamp, L. Dudley - Our Developing World, Faber, 1960' treats many of the topics mentioned above in more detail.
 
-## Stamp, L. Dudley - Our Developing World, Faber, 1960
+## Stamp, L. Dudley - Our Developing World, Faber, 1960
 
 > On each acre of farmed land - essentially on a dietary base of rice, double or treble cropped where possible, beans, sweet potatoes and other high Calorie foods - Japan can produce 6 or 7 [Standard Nutrition Units] or support that number of people per acre. Under American conditions, and with a meat-milk-fruit diet essentially extravagant of land, it takes some 2 1/2 acres or more to produce one SNU or support one person. It [sic] we then wish to stimulate an argument we can then say Japanese agriculture is 15 to 18 times as efficient as American!  
 > - Stamp, L. Dudley - Our Developing World - 1960 - p113
