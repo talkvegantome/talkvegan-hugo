@@ -13,12 +13,13 @@ before_install:
   - wget https://github.com/gohugoio/hugo/releases/download/v0.55.6/hugo_0.55.6_Linux-64bit.deb -O /tmp/hugo.deb
   - sudo dpkg -i /tmp/hugo.deb
   - hugo version
-script:
+before_script:
   -  |
       if [[ $(grep -R " " content) ]]; 
         then echo "There is a non breaking space in $(grep -R " " content)"; 
         exit 1
       fi
+script:
   - hugo
 deploy:
   provider: pages
