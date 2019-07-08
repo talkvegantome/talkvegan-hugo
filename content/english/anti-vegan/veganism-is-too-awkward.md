@@ -2,7 +2,7 @@
 title: "Veganism Is Too Awkward"
 date: 2019-07-08T20:48:29+01:00
 lastmod: 2019-07-08T20:48:29+01:00
-draft: true
+draft: false
 description: ""
 weight: 5
 ---
