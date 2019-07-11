@@ -3,6 +3,7 @@ DefaultContentLanguage = "en"
 theme = "hugo-theme-techdoc"
 defaultContentLanguageInSubdir = true
 googleAnalytics = "UA-140915796-1"
+sectionPagesMenu = "main"
 
 [params]
   ordersectionsby = "title"
