@@ -7,7 +7,7 @@ description: ""
 weight: 100
 ---
 
-# Vegan vs Omnivore Land Usage
+# Popular Fact
 
 >Land required to feed 1 person for 1 year:  
 >Vegan: 1/6th acre  
@@ -17,12 +17,16 @@ weight: 100
 
 This cites [EarthSave](http://www.earthsave.org/pdf/ofof2006.pdf).
 
+
+# Reality
 We regard the quality of sources on the dietary comparison as poor (see below for why!) and suggest the following instead:
 
 > Beef consumed in the United States requires around 160x as much land as potatoes, wheat, or rice for the same number of calories, and nearly 100x as much land for the same amount of protein.  
 > - TalkVeganToMe 
 
 Scroll down to the section about 'Eishel, Gordon, et al.' for the original source of the the numbers above.
+
+# Original Sources
 
 ## EarthSave
 
