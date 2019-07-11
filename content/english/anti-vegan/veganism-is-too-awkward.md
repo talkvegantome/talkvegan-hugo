@@ -25,8 +25,10 @@ This was a big part of the reason that I (Sam Martin) was vegetarian for a year 
 
 1. Opting out of what I believed as a moral conviction because I was scared to associate with it was not the best version of myself. It was a betrayal of my core values.
 2. You get to choose how to act as a vegan. You can be as quiet or as loud as you like, you can be as compassionate or outraged at carnists as you like. Be the vegan you wish you had met. No-one can take your v-card away.
-3. You don't have to approve of all actions of all other vegans. There is tonnes of internal debate and saying "I don't agree with that" is absolutely fine so long as you still don't use animal products!
-4. You being the vegan you want to see in the world is a chance to change people's mind about veganism, it is an act of activism in itself to share your form of compassion and discussion with other people, even on a very low-key level.
+3. The impression you have of veganism almost certainly comes from the most vocal/controversial portions of the community. If you don't identify with that, that's fine, there's the vast majority of the vegan community you haven't heard from.
+4. The outrage you see from the most controversial activists is very justified. If [40-60 billion]({{< ref "../facts/animals-killed-annually/">}}) humans were being killed needlessly every year we would judge people who _weren't_ outraged.
+5. You don't have to approve of all actions of all other vegans. There is tonnes of internal debate and saying "I don't agree with that" is absolutely fine so long as you still don't use animal products!
+6. You being the vegan you want to see in the world is a chance to change people's mind about veganism, it is an act of activism in itself to share your form of compassion and discussion with other people, even on a very low-key level.
 
 # Advice 
 
