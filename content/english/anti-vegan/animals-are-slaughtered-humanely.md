@@ -13,10 +13,12 @@ weight: 5
 
 # Rebuttal
 
-## Quick Response
-
+## Definition of Humane
 > Humane, Adjective: Showing kindness, care, and sympathy towards others.  
-> - [Cambridge English Dictionary](https://dictionary.cambridge.org/dictionary/english/humane)  
+> - [Cambridge English Dictionary](https://dictionary.cambridge.org/dictionary/english/humane) 
+
+## Quick Response
+ 
 > Taking animals into a building called a slaughter house, to wait in a single file while listening to the panic stricken cries of their brethren with the stench of blood in the air to be (in the best case scenario) shot through the head while they scream for their lives can in no way be described as humane.
 
 Alternatively 
