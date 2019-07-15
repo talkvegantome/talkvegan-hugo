@@ -19,6 +19,11 @@ before_script:
       then echo "There is a non breaking space in $(grep -R " " content)"; 
       exit 1;
     fi
+  - |
+    if [[ $(grep -R '"../' content) ]]; 
+      then echo "There is a relative internal link in $(grep -R '"../' content)"; 
+      exit 1;
+    fi
 script:
   - hugo
 deploy:
