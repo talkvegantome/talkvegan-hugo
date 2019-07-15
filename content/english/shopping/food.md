@@ -24,7 +24,7 @@ It's amazing what can contain animal products, here are a few of the things that
 - Food fortified with Vitamin D are often fortified with Vitamin D3 which is [only vegan if derived from lichen](https://www.vegansociety.com/resources/nutrition-and-health/nutrients/vitamin-d). Vitamin D2 is [always vegan](https://www.vegansociety.com/resources/nutrition-and-health/nutrients/vitamin-d).
 -  L-cysteine (aka E920) is often [not vegan](https://www.vegansociety.com/whats-new/blog/how-avoid-buying-non-vegan-products)
 - Sugarcane Sugar in the US is often made [using bone char](https://web.archive.org/web/20190215180609/https://www.huffingtonpost.co.uk/entry/sugar-vegan-bone-char-yikes_us_6391496) but this is not the case in the UK with the exception of icing sugar which is often made using egg whites [BBC News](https://www.bbc.co.uk/bbcthree/article/578edf2d-9c22-453e-ab33-48f7a0568c0b).
-- Carmine [(aka E120)]({{< ref "../shopping/e-numbers/">}}) is often used as a food colouring and is made from crushed insects.
+- Carmine [(aka E120)]({{< ref "shopping/e-numbers">}}) is often used as a food colouring and is made from crushed insects.
 
 ## E-numbers
 
