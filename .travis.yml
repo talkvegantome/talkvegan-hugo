@@ -24,6 +24,11 @@ before_script:
       then echo "There is a relative internal link in $(grep -R '"../' content)"; 
       exit 1;
     fi
+  - |
+    wget https://github.com/errata-ai/vale/releases/download/v1.6.0/vale_1.6.0_Linux_64-bit.tar.gz
+    tar -xvf vale_1.6.0_Linux_64-bit.tar.gz
+    chmod +x vale_1.6.0_Linux_64-bit.tar.gz
+    ./vale content/english
 script:
   - hugo
 deploy:
