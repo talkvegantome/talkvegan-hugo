@@ -13,7 +13,7 @@ weight: 5
 
 or 
 
-> I'm not going to ask my mum what's in her cooking and refuse to eat it if it's not vegan, she'll crucify me!
+> I'm not going to ask my mum what's in zir cooking and refuse to eat it if it's not vegan, ze will crucify me!
 
 # Rebuttal  
 

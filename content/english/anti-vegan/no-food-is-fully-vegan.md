@@ -22,7 +22,7 @@ weight: 5
 
 ### Intention vs Accident
 
-Ed Winters (aka Earthling Ed) hits the nail on the head with his comparison in his book '30 Non Vegan Excuses'.
+Ed Winters (aka Earthling Ed) hits the nail on the head with zis comparison in zis book '30 Non Vegan Excuses'.
 
 > If someone was driving their car and they accidentally hit a dog, that would not be the same as if they purposefully drove after the dog until they ran them over.  
 > - Ed Winters - 30 Non Vegan Excuses - p72

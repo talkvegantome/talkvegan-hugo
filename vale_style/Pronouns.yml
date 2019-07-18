@@ -1,6 +1,7 @@
 message: "Use %s instead of %s"
 extends: substitution
 level: warning
+scope: paragraph
 swap:
   he: ze
   him: zir

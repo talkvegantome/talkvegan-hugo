@@ -34,7 +34,7 @@ This in turn cites 'Mark Ash, Economic Research Service, USDA, e-mail to author,
 
 ## USDA World Agricultural Supply and Demand Estimates
 
-I reached out to Mr Ash from the USDA Economic Research Service myself and he replied (_incredibly_ quickly) saying that he would most likely have used the [USDA’s Production, Supply and Distribution database](https://apps.fas.usda.gov/psdonline/app/index.html#/app/advQuery) or the [Agricultural Supply and Demand Estimates report](https://www.usda.gov/oce/commodity/wasde/index.htm) as sources for this statistic and that furthermore:  
+I reached out to Mr Ash from the USDA Economic Research Service myself and ze replied (_incredibly_ quickly) saying that ze would most likely have used the [USDA’s Production, Supply and Distribution database](https://apps.fas.usda.gov/psdonline/app/index.html#/app/advQuery) or the [Agricultural Supply and Demand Estimates report](https://www.usda.gov/oce/commodity/wasde/index.htm) as sources for this statistic and that furthermore:  
 
 >  If the question really is how much soybean meal is consumed for feed from the processing of soybeans, then the percentage is closer to 77 percent.
 
