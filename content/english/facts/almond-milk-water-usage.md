@@ -14,9 +14,22 @@ This cites [Almond Milk vs. Cow Milk Life Cycle Assessment - Jacqueline Ho, Ingr
 
 # Reality
 
-A reliable source has not yet been found for this statistic.
+> Almond milk uses around 99 US Gallons of water per litre in comparison to cow's 158 US Gallons per litre.  
+> - TalkVeganToMe summary via Poore and Nemecek 
 
 # Original Sources
+
+## Reducing food’s environmental impacts through producers and consumers - Poore and Nemecek - 2018
+
+While the [original article](http://science.sciencemag.org/cgi/rapidpdf/360/6392/987?ijkey=ffyeW1F0oSl6k&keytype=ref&siteid=sci) does not address almond milk specifically, Joesph Poore (one of the authors) provided comparative statistics for different milks water usages to the BBC for their article [Climate change: Which vegan milk is best? - 2019](https://www.bbc.co.uk/news/science-environment-46654042). In the graph it suggests that it takes 70-80L of water per 200ml of Almond Milk. Taking the middle point (75L) that gives us **375L** of water to produce 1L of Almond Milk (or 99 US Gallons per litre).  
+
+To understand this figure better I reached out to Joseph Poore via email and ze explained that zir figures were based on an confidential Life Cycle Analysis (LCA) from an almond milk production company and based on that LCA confirmed that:
+
+> [I used] the post-farm data for soymilk (almond milk processing isn’t a major user of water, so this is a good proxy)  
+> - Joseph Poore - Email to Author - 2019
+
+Joseph also pointed out that there was a huge difference in the footprint between US and European sourced almonds because the Floridian almonds sourced in the US are predominantly irrigated and the Spanish almonds sourced in Europe and rainfed. For the statistics in the BBC article ze took global data for almond water usage.
+
 
 ## Almond Milk vs. Cow Milk Life Cycle Assessment - Jacqueline Ho, Ingrid Maradiaga, et al. - 2016
 
@@ -100,3 +113,5 @@ Which would make our total (Almond Farming + Almond Processing): 0.44 kgallons, 
 - [Almond Milk vs. Cow Milk Life Cycle Assessment - 2016](https://web.archive.org/web/20181003201254/https://www.ioes.ucla.edu/wp-content/uploads/cow-vs-almond-milk-1.pdf)
 - [EICLA Tutorial](https://web.archive.org/web/20190606115219/http://www.eiolca.net/tutorial-new/tut_3.html)
 - [EIOCLA US 2002 Benchmark Producer Price Model - Tree Nut Farming](http://www.eiolca.net/cgi-bin/dft/display.pl?hybrid=no&first_level_sector=-1&second_level_sector=111335&newmatrix=US430CIDOC2002&key=7216147368&value=0244216612&incdemand=0.0000017858&selectvect=water&select_button1=Run+Model)
+- [Reducing food’s environmental impacts through producers and consumers - Poore and Nemecek - 2018](http://science.sciencemag.org/cgi/rapidpdf/360/6392/987?ijkey=ffyeW1F0oSl6k&keytype=ref&siteid=sci) via [josephpoore.com](https://josephpoore.com/)
+- [BBC News - Climate change: Which vegan milk is best? - 2019](https://www.bbc.co.uk/news/science-environment-46654042)
