@@ -10,9 +10,12 @@ before_install:
   - sed -i 's/git@github.com:/https:\/\/github.com\//' .gitmodules
   - git submodule update --init --recursive
   # Install Hugo
-  - wget https://github.com/gohugoio/hugo/releases/download/v0.55.6/hugo_0.55.6_Linux-64bit.deb -O /tmp/hugo.deb
-  - sudo dpkg -i /tmp/hugo.deb
-  - hugo version
+  - |
+    echo -e "travis_fold:start:$1\033[33;1m$2\033[0m"
+    wget https://github.com/gohugoio/hugo/releases/download/v0.55.6/hugo_0.55.6_Linux-64bit.deb -O /tmp/hugo.deb &> /dev/null
+    sudo dpkg -i /tmp/hugo.deb &> /dev/null
+    hugo version
+    echo -e "\ntravis_fold:end:$1\r"
 before_script:
   - |
     if [[ $(grep -R " " content) ]]; 
@@ -25,7 +28,7 @@ before_script:
       exit 1;
     fi
   - |
-    wget https://github.com/errata-ai/vale/releases/download/v1.6.0/vale_1.6.0_Linux_64-bit.tar.gz
+    wget https://github.com/errata-ai/vale/releases/download/v1.6.0/vale_1.6.0_Linux_64-bit.tar.gz &> /dev/null
     tar -xvf vale_1.6.0_Linux_64-bit.tar.gz
     chmod +x vale_1.6.0_Linux_64-bit.tar.gz
     ./vale content/english
