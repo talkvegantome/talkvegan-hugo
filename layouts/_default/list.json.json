@@ -8,6 +8,7 @@
           "relativePermalink": {{.RelPermalink |  jsonify}},
           "weight": {{.Params.weight | jsonify}},
           "permalink" : {{ .Permalink | jsonify }},
+          "displayInApp": {{.Params.displayInApp | jsonify}},
           {{- with .Site.GetPage .Section }}
           "section": {
             "friendlyName": {{.Title |jsonify}},
