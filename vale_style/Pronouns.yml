@@ -1,0 +1,12 @@
+message: "Use %s instead of %s"
+extends: substitution
+level: warning
+swap:
+  he: ze
+  him: zir
+  his: zirs
+  himself: zirself
+  she: ze
+  her: zir
+  hers: zirs
+  herself: zirself
