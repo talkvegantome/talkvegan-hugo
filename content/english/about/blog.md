@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-# 2018-07-13
+# 2019-07-13
 
 ## Progress this week
 This week has actually been extremely productive! I carved out 2 days to focus on the app and do nothing else, which helped immensely. 
@@ -69,7 +69,7 @@ I had two people reach out to me this week with suggestions for content and the 
 I can't overstate how much it means to hear from people using the app, so please keep reaching out by replying to this email, even if it's just a tiny suggestion or piece of feedback it means a great deal!
 As always, you can see the pipeline for content on the [Trello board](https://trello.com/b/7ecEPfjW/talkvegantome-content)!
 
-# 2016-06-29
+# 2019-06-29
 
 ## The Past Two Weeks
 The past two weeks have been quiet as expected due to a week's holiday! 
