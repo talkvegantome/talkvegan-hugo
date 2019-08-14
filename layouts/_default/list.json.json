@@ -4,6 +4,7 @@
       {{ if $index}}, {{ end }}
       {
           "friendlyName": {{ .Title | jsonify}},
+          "description": {{.Description |jsonify}},
           "rawContent": {{.RawContent | jsonify}},
           "relativePermalink": {{.RelPermalink |  jsonify}},
           "weight": {{.Params.weight | jsonify}},
@@ -12,6 +13,7 @@
           {{- with .Site.GetPage .Section }}
           "section": {
             "friendlyName": {{.Title |jsonify}},
+            "description": {{.Description |jsonify}},
             "relativePermalink": {{.RelPermalink |  jsonify}},
             "weight": {{.Params.weight | jsonify }}
           }
