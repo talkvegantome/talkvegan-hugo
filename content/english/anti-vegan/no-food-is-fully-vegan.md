@@ -3,7 +3,7 @@ title: "No Food Is Fully Vegan"
 date: 2019-06-26T21:09:16+01:00
 lastmod: 2019-06-26T21:09:16+01:00
 draft: false
-description: ""
+description: "'It's impossible to have completely vegan food. Fertilizers are derived from animal waste and bones, pesticides are used on crops to kill insects, bees are kept in hives to pollinate almonds, worms are killed by tilling fields. All food involves death.'"
 weight: 5
 ---
 

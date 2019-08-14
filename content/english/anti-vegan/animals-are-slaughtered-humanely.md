@@ -3,7 +3,7 @@ title: "Animals Are Slaughtered Humanely"
 date: 2019-07-08T18:55:09+01:00
 lastmod: 2019-07-08T18:55:09+01:00
 draft: false
-description: ""
+description: "'Animals don't suffer when they're slaughtered because we do it humanely.'"
 weight: 5
 ---
 
