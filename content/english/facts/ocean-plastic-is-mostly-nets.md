@@ -3,7 +3,7 @@ title: "Ocean Plastic is Mostly Nets"
 date: 2019-06-07T22:17:14+01:00
 lastmod: 2019-06-07T22:17:14+01:00
 draft: false
-description: ""
+description: "Is it true that \"[F]ishing nets account for 46 percent of the trash, with the majority of the rest composed of other fishing industry gear.\""
 weight: 100
 ---
 

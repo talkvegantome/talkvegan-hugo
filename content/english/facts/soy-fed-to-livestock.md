@@ -3,7 +3,7 @@ title: "Soy Mostly Fed to Livestock"
 date: 2019-06-03T21:32:56+01:00
 lastmod: 2019-06-03T21:32:56+01:00
 draft: false
-description: ""
+description: "Is it true that \"75% of soybeans grown worldwide are fed to livestock\""
 weight: 100
 ---
 

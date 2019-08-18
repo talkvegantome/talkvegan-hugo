@@ -3,7 +3,7 @@ title: "Animal Life Expectancy"
 date: 2019-05-27T19:47:28+01:00
 lastmod: 2019-05-27T19:47:28+01:00
 draft: false
-description: ""
+description: "Is it true that: \"Animals live a life worth living prior to being slaughter\""
 weight: 100
 ---
 

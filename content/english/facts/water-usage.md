@@ -3,7 +3,7 @@ title: "Vegan Diet Water Usage"
 date: 2019-05-27T21:25:43+01:00
 lastmod: 2019-05-27T21:25:43+01:00
 draft: false
-description: ""
+description: "Is it true that \"2,500 gallons of water are needed to produce 1 pound of beef.\""
 weight: 100
 ---
 

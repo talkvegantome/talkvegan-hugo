@@ -3,7 +3,7 @@ title: "Number of Animals Killed Annually"
 date: 2019-05-16T21:35:14+01:00
 lastmod: 2019-05-16T21:35:14+01:00
 draft: false
-description: ""
+description: "Is it true that \"between 40 billion and 3 trillion animals are slaughtered anually\""
 weight: 100
 ---
 

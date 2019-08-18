@@ -3,7 +3,7 @@ title: "E Numbers"
 date: 2019-05-16T21:12:55+01:00
 lastmod: 2019-05-16T21:12:55+01:00
 draft: false
-description: ""
+description: "What e-numbers should you look out for when checking ingredients lists?"
 weight: 5
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Almond Milk Water Usage"
 date: 2019-06-06T11:43:43+01:00
+description: "Is it true that \"It takes a bonkers 1,611 US gallons (6,098 litres) to produce 1 litre of almond milk,\""
 draft: false
 weight: 100
 ---

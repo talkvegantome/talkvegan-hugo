@@ -3,7 +3,7 @@ title: "Protein is Hard to Get"
 date: 2019-05-28T18:27:58+01:00
 lastmod: 2019-05-28T18:27:58+01:00
 draft: false
-description: ""
+description: "Is it true that \"you can't get enough protein on a vegan diet!\""
 weight: 100
 ---
 

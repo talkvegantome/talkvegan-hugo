@@ -2,6 +2,7 @@
 title: "Blog"
 description: "All about the making of TalkVeganToMe!"
 date: 2019-07-18T21:21:51+01:00
+displayInApp: false
 draft: false
 ---
 

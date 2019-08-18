@@ -3,7 +3,7 @@ title: "Animal Slaughter Methods"
 date: 2019-05-27T20:52:26+01:00
 lastmod: 2019-05-27T20:52:26+01:00
 draft: false
-description: ""
+description: "Is it true that \"Animals are humanely slaughtered\""
 weight: 100
 ---
 

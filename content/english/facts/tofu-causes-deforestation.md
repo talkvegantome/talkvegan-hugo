@@ -3,7 +3,7 @@ title: "Tofu Causes Deforestation"
 date: 2019-06-05T19:51:40+01:00
 lastmod: 2019-06-05T19:51:40+01:00
 draft: false
-description: ""
+description: "Is it true that \"As much as 70 percent of areas newly cleared for agriculture in Mato Grosso State in Brazil is being used to grow soybeans.\""
 weight: 100
 ---
 
@@ -18,8 +18,8 @@ Unhelpfully this article provides no citation, so we are forced to consult Googl
 
 # Reality
 
-> Deforestation of the Amazon Rainforest dropped by 75% between the 1990s and 2012, and 60-80% of the deforested land is used for cattle grazing.
-> Further, globally 77% of the annual soybean harvest is fed to livestock, meaning that the vast majority of soybean production is driven by meat production.  
+> Recent deforestation in the Legal Amazon was predominantly due to cattle ranching not soybean expansion.  
+> Globally 77% of the annual soybean harvest is fed to livestock, meaning that the vast majority of soybean production is driven by meat production.  
 > - TalkVeganToMe
 
 The above quote is a combination of the findings of the below Nature article by David M. Lapola, Luiz A. Martinelli, et al. and the USDA statistics you can find in our article [Soy Fed to Livestock]({{< ref "/facts/soy-fed-to-livestock">}}).

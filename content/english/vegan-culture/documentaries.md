@@ -3,7 +3,7 @@ title: "Documentaries"
 date: 2019-06-06T22:50:18+01:00
 lastmod: 2019-06-06T22:50:18+01:00
 draft: false
-description: ""
+description: "A list of vegan documentaries and recommendations on whether you might want to share them with your non-vegan friends!"
 weight: 5
 ---
 
