@@ -15,7 +15,7 @@ This statistic is variously quoted as anything from 70% to 90%.
 
 # Reality
 
-The most recent statistics from the [USDA's World Agricultural Supply and Demand Estimates - May 2019](https://www.usda.gov/oce/commodity/wasde/wasde0519.pdf) show **77%** of global soybean production is used for animal feed. (See the section on the USDA below for more information.)
+The most recent statistics from the [USDA's World Agricultural Supply and Demand Estimates - May 2019](https://web.archive.org/web/20190618093258/https://downloads.usda.library.cornell.edu/usda-esmis/files/3t945q76s/7s75dn66b/f1881w33j/wasde0519.pdf) show **77%** of global soybean production is used for animal feed. (See the section on the USDA below for more information.)
 
 ## Yale School of Forestry and Environmental Studies
 
@@ -38,7 +38,7 @@ I reached out to Mr Ash from the USDA Economic Research Service myself and ze re
 
 >  If the question really is how much soybean meal is consumed for feed from the processing of soybeans, then the percentage is closer to 77 percent.
 
-In order to calculate the figure, you take the world total use for soybean meal (232.74 million metric tons) [WASDE May 2019 - p29](https://www.usda.gov/oce/commodity/wasde/wasde0519.pdf) and divide it by the world domestic crush for soybeans (301.63 million metric tons) [WASDE May 2019- p28](https://www.usda.gov/oce/commodity/wasde/wasde0519.pdf) which gives you 77%.  
+In order to calculate the figure, you take the world total use for soybean meal (232.74 million metric tons) [WASDE May 2019 - p29](https://web.archive.org/web/20190618093258/https://downloads.usda.library.cornell.edu/usda-esmis/files/3t945q76s/7s75dn66b/f1881w33j/wasde0519.pdf) and divide it by the world domestic crush for soybeans (301.63 million metric tons) [WASDE May 2019- p28](https://web.archive.org/web/20190618093258/https://downloads.usda.library.cornell.edu/usda-esmis/files/3t945q76s/7s75dn66b/f1881w33j/wasde0519.pdf) which gives you 77%.  
 According to Mr Ash, nearly all of the domestic use of soybean meal is for animal feed and this is backed up by this archived summary article from SoyaTech, which, while unsourced itself, is from independent technical resource in the soy industry..
 
 > About 85 percent of the world’s soybeans are processed, or "crushed," annually into soybean meal and oil.  Approximately 98 percent of the soybean meal that is crushed is further processed into animal feed with the balance used to make soy flour and proteins.  
@@ -53,5 +53,5 @@ Here we are comparing statistics about global **soybean** production vs global *
 - [State of the World 2006 - Worldwatch Institute](https://archive.org/details/stateofworld200600nier)
 - [USDA’s Production, Supply and Distribution Database](https://apps.fas.usda.gov/psdonline/app/index.html#/app/advQuery)
 - [World Agricultural Supply and Demand Estimates Reports](https://www.usda.gov/oce/commodity/wasde/index.htm) 
-- [World Agricultural Supply and Demand Estimates - May 2019](https://www.usda.gov/oce/commodity/wasde/wasde0519.pdf)
+- [World Agricultural Supply and Demand Estimates - May 2019](https://web.archive.org/web/20190618093258/https://downloads.usda.library.cornell.edu/usda-esmis/files/3t945q76s/7s75dn66b/f1881w33j/wasde0519.pdf)
 - [SoyaTech - Soya Facts - 2017](https://web.archive.org/web/20170112075924/http://www.soyatech.com/soy_facts.htm
