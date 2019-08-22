@@ -1,29 +1,23 @@
 ---
-title: "Maison"
-date: 2019-05-08T20:58:10+01:00
+title: "Home"
+date: 2019-05-05T17:41:23+01:00
 draft: false
 ---
 
-# Bienvenue sur TalkVeganToMe
 
-TalkVeganToMe est un projet collaboratif intersectionnel, compatissant et destiné à fournir aux végétaliens, anciens et nouveaux, une ressource centrale pour des informations communément requises sur le végétalisme.
+# Bienvenue sur TalkVeganToMe - en français
 
-## Commencer
+Votre guichet unique pour les faits végétaliens. Obtenez des sources originales de faits, des réfutations d'arguments anti-végétaliens, ainsi que des références rapides pour ce qui est végétalien et comment le découvrir!
 
-Consultez notre section [En savoir plus]({{<ref "/getting-started/apprendre-plus" >}}).
+## Nous avons besoin de traducteurs!
 
-## Notre mission
-
-1. Faciliter la vie quotidienne des végétaliens en rendant l’information facilement accessible
-2. Rendre le plaidoyer végétalien sous toutes ses formes plus facile à apprendre, à comprendre et à faire
-3. Veiller à ne pas promouvoir des messages nuisibles aux autres mouvements de la justice
-4. Incarnez la compassion que le véganisme caractérise dans tous nos matériaux et nos interactions
-5. Assurer l'exactitude de nos informations et fournir la divulgation complète d'informations d'atténuation, même si cela affaiblit l'argument présenté
-6. Ne pas participer à la surveillance du véganisme (personne ne peut vous enlever votre carte V)
-7. Ne pas utiliser la plateforme pour promouvoir l'agenda personnel ou le profit des contributeurs individuels
-8. Utilisez la plateforme pour promouvoir l'inclusion et la messagerie intersectionnelle dans la mesure du possible
-
+Aidez-nous à fournir un meilleur support linguistique dans votre langue en contribuant à la traduction! Nous sommes très désireux d’obtenir de l’aide, alors merci de nous le faire savoir si vous êtes disposé à l’aider!
 
 ## Collaborer
 
-Vous voulez ajouter du contenu ou simplement corriger une faute de frappe? Vous pouvez visiter le [Github Repo](https://github.com/talkvegantome/talkvegan-hugo) où vous trouverez un guide complet sur la manière de contribuer.
+Vous voulez ajouter du contenu ou simplement corriger une faute de frappe? TalkVeganToMe peut être édité par tout le monde!
+Visitez le [Github Repo] (https://github.com/talkvegantome/talkvegan-hugo) où vous trouverez un guide complet sur la façon de contribuer.
+
+## Contactez nous
+- Email - [sam@talkveganto.me] (mailto: sam@talkveganto.me)
+- Twitter - [@TalkVeganApp] (https://twitter.com/TalkVeganApp)
