@@ -1,5 +1,5 @@
 ---
-title: "Documentaries"
+title: "Films & Documentaries"
 date: 2019-06-06T22:50:18+01:00
 lastmod: 2019-06-06T22:50:18+01:00
 draft: false
@@ -7,12 +7,20 @@ description: "A list of vegan documentaries and recommendations on whether you m
 weight: 5
 ---
 
-# Documentaries
+# Films & Documentaries
 
 We describe documentaries based on:   
-**Activism Style:** Emotive/Statistical  
+**Activism Style:** Emotive/Statistical/Comedy  
 **Typical Citation Quality:** Anecdotal/News/Academic/Original Sources  
 **Carnist Palatability:** Inoffensive/Uncomfortable/Hateful  
+
+## Simon Amstell: Carnage
+[Watch on BBC iPlayer](https://www.bbc.co.uk/iplayer/episode/p04sh6zg/simon-amstell-carnage)  
+**Release Date:** 2017  
+**Website:** N/A  
+**Activism Style:** Comedy  
+**Typical Citation Quality:** N/A  
+**Carnist Palatability:** Inoffensive
 
 ## Cowspiracy
 [Watch on Netflix](https://www.netflix.com/watch/80033772) [Paid Download](https://cowspiracy.vhx.tv/buy)  

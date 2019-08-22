@@ -11,20 +11,27 @@ weight: 5
 
 When you first start checking labels on products in the supermarket it can seem overwhelming to check for everything, especially when it comes to E numbers and obscure ingredients. Do the best you can, but remember that mistakes do happen, just treat them as learning experiences.
 
-## Gotchas
+## Gotcha Ingredients
+
+- Honey (it is an animal product!)
+- [E-numbers]({{< ref "/shopping/e-numbers">}}) (Animal products hide behind some e numbers)
+- Food fortified with Vitamin D is often fortified with Vitamin D3 which is [only vegan if derived from lichen](https://www.vegansociety.com/resources/nutrition-and-health/nutrients/vitamin-d). Vitamin D2 is [always vegan](https://www.vegansociety.com/resources/nutrition-and-health/nutrients/vitamin-d)
+- L-cysteine (aka E920) is often [not vegan](https://www.vegansociety.com/whats-new/blog/how-avoid-buying-non-vegan-products)
+- Carmine [(aka E120)]({{< ref "shopping/e-numbers">}}) is often used as a food colouring and is made from crushed insects.  
+- Casein (Milk byproduct)
+- Whey (Milk byproduct)
+- Lactose (Milk byproduct)
+- Gelatin (Animal protein)
+
+## Gotcha Products
 
 It's amazing what can contain animal products, here are a few of the things that surprise new vegans and can catch them out.
 
-- Honey (It is an animal product)
-- [E-numbers]({{< ref "/shopping/e-numbers">}}) (Animal products hide behind some e numbers)
-- Beer/Wine (Fish swim bladders are often used in the filtering process)
+- Beer/Wine (Fish swim bladders are often used in the filtering process) ([Barnivore](http://www.barnivore.com/) is a great source of information)
 - Bread (Regional. particularly in the UK often contains milk)
-- Smoothies (Often contain yogurt)
+- Smoothies (Often contain yoghurt)
 - Chocolate (Dark chocolate is usually fine, but always check the packaging for milk)
-- Food fortified with Vitamin D are often fortified with Vitamin D3 which is [only vegan if derived from lichen](https://www.vegansociety.com/resources/nutrition-and-health/nutrients/vitamin-d). Vitamin D2 is [always vegan](https://www.vegansociety.com/resources/nutrition-and-health/nutrients/vitamin-d).
--  L-cysteine (aka E920) is often [not vegan](https://www.vegansociety.com/whats-new/blog/how-avoid-buying-non-vegan-products)
 - Sugarcane Sugar in the US is often made [using bone char](https://web.archive.org/web/20190215180609/https://www.huffingtonpost.co.uk/entry/sugar-vegan-bone-char-yikes_us_6391496) but this is not the case in the UK with the exception of icing sugar which is often made using egg whites [BBC News](https://www.bbc.co.uk/bbcthree/article/578edf2d-9c22-453e-ab33-48f7a0568c0b).
-- Carmine [(aka E120)]({{< ref "shopping/e-numbers">}}) is often used as a food colouring and is made from crushed insects.
 
 ## E-numbers
 

@@ -12,13 +12,12 @@ weight: 5
 Often less thought about than food, the following products on clothes will not be vegan.
 
 - Leather (including Suede)
-- Wool
+- Wool (Shearling, Cashmere, Angora, Merino, etc.)
 - Silk
 - Fur
 - Feathers
 
-
-
 ## Gotchas
 
 It's advisable to patronise vegan shoe establishments in particular as glues used in the manufacturing process for shoes made of otherwise vegan materials will make the shoes not vegan.
+

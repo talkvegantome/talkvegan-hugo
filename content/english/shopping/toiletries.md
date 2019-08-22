@@ -13,8 +13,12 @@ With all items, but particularly makeup, some research is required to determine 
 
 ## Gotchas
 
-- Bar soap is usually made with animal fat
+- Bar soap is usually made with animal fat (Tallow, Sodium Tallowate, Glycerin)
 - 'Cruelty free' does not mean it is free from animal products
+- Condoms (often contain Casein) [Vegan Society's list of vegan condoms](https://www.vegansociety.com/resources/nutrition-and-health/medications/list-animal-free-medications)
+- Shampoo (may contain animal lecithin)
+- Toothpaste (may contain glycerine which is _usually_ not vegan unless stated)
+- Razors (glycerine or lanolin may be found in the lubrication strips)
 
 ## Helpful Websites
 
