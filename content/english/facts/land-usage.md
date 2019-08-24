@@ -163,11 +163,11 @@ But, here at TalkVeganToMe we are familiar with this page, because it is include
 
 And when you look up reference 5 for chapter 12 you get:
 
-> 5. See citations in note 3.  
+> 5 See citations in note 3.  
 
 Which takes you to the folowing rather annoying compound citation.
 
-> 3. Frances Moore Lappé, Diet for a Small Planet, 10th ed. (New York: Ballantine Books,
+> 3 Frances Moore Lappé, Diet for a Small Planet, 10th ed. (New York: Ballantine Books,
 1982), 69; Aaron Altschul, Proteins: Their Chemistry and Politics (New York: Basic Books,
 1965), 264; Folke Doyring, “Soybeans,” Scientific American, February 1974.
 
