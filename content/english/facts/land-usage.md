@@ -173,7 +173,7 @@ Which takes you to the folowing rather annoying compound citation.
 
 The first citation being *Frances Moore Lappé, Diet for a Small Planet*, but the *correct* citation for the 1/6th of an acre statistic being *Aaron Altschul, Proteins: Their Chemistry and Politics*
 
-So we _suspect_ that this an honest attempt on the part of the Plantrician Project to provide an original source for the statistic, but they accidentally cited the wrong source from John Robbins' Diet for a new America. Unfortunately neither source is the original, and the original source does not pertain to a vegan diet at all, instead referring to post-WWII Japan (see Stamp, L. Dudley - Our Developing World, Faber, 1960).
+So we _suspect_ that this an honest mistake on the part of the Plantrician Project; in providing an original source for the statistic they accidentally used the wrong citation from John Robbins' Diet for a new America. Unfortunately neither source is the original, and the original source does not pertain to a vegan diet at all, instead referring to post-WWII Japan (see Stamp, L. Dudley - Our Developing World, Faber, 1960).
 
 ## Citations
 
