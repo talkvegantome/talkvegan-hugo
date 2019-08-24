@@ -138,7 +138,7 @@ A Well Fed World in Collaboration with Plantrician Project produced a graphic wh
 > [On a] standard American diet: 2 football fields (1.3 acres each) feeds 1 person per year  
 > [On a] plant based diet: 2 football fields feeds 14 people per year
 
-This originates from [Plantrician Project - Foot Math 101](https://web.archive.org/web/20190103163621/https://plantricianproject.org/food-math-101)
+This originates from [Plantrician Project - Food Math 101](https://web.archive.org/web/20190103163621/https://plantricianproject.org/food-math-101)
 
 ## Plantrician Project - Food Math 101
 
@@ -183,4 +183,4 @@ So we _suspect_ that this an honest attempt on the part of the Plantrician Proje
 - Land Use and Food Production - Stamp, L.D, - Hunger: Can It Be Averted? - 1961
 - Stamp, L. Dudley - Our Developing World, Faber, 1960
 - [A Well Fed World - Why we need plant based approaches](https://web.archive.org/web/20170925062028/http://awfw.org/issues/hunger/why-we-need-plant-based-approaches/)
-- [Plantrician Project - Foot Math 101](https://web.archive.org/web/20190103163621/https://plantricianproject.org/food-math-101)
+- [Plantrician Project - Food Math 101](https://web.archive.org/web/20190103163621/https://plantricianproject.org/food-math-101)
