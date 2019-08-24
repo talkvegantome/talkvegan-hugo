@@ -128,6 +128,52 @@ The article also goes on to address the possible objection of the numbers being 
 
 In simple terms, even if you exclude the land the cattle grazes on it uses 15 square metres of land per thousand calories to raise beef (36.5 times as much as potatoes)! Potatoes by comparison use 0.41 square metres per thousand calories - [Referenced Supporting Information PDF - S19](https://www.pnas.org/content/pnas/suppl/2014/07/19/1402183111.DCSupplemental/pnas.201402183SI.pdf).
 
+# Alternative Presentations
+
+These same statistics can be found in a myriad of different forms, you can find some of them below.
+
+## A Well Fed World - Why we need plant based approaches
+A Well Fed World in Collaboration with Plantrician Project produced a graphic which states:  
+
+> [On a] standard American diet: 2 football fields (1.3 acres each) feeds 1 person per year  
+> [On a] plant based diet: 2 football fields feeds 14 people per year
+
+This originates from [Plantrician Project - Foot Math 101](https://web.archive.org/web/20190103163621/https://plantricianproject.org/food-math-101)
+
+## Plantrician Project - Food Math 101
+
+> In order to produce the Standard American Diet (SAD), heavily comprised of animal protein and dairy, it’s estimated that the equivalent of 2 football fields are required per person per year—with much of this allocated to growing the crops to feed the animals. Source: Lappe, Frances Moore. Diet for a Small Planet. 1982, page 69.  
+Her numbers were 3.25 acres which equals 2.5 football fields; so we used a more conservative two football fields assuming that some agricultural efficiencies have been gained since 1982.  
+> [...]  
+> By contrast, on just one football field of arable land, it’s estimated that food can be produced to feed 7 people for an entire year when they are consuming a predominantly plant-based diet. On the same amount of land that it requires to feed one person the Typical Western Diet (TWD), you can feed 14 people the vegan diet. Source: Diet for a Small Planet, Frances Moore Lappe. 1982, page 69.  
+> Her number was 1/6 of an acre for one vegan. Dividing two football fields (2.6 acres by .166 = 16 people. Again, we used the more conservative 14 people on two football fields.  
+> - [Plantrician Project - Footnotes](https://web.archive.org/web/20180120081747/http://plantricianproject.org/footnotes)
+
+## Diet for a Small Planet, Frances Moore Lappe, 1982
+
+Page 69 of Frances Moore Lappe's 1982 edition for Diet for a Small Planet doesn't actually contain any assertions about acreage that a vegan diet. The closest it comes is: 
+
+> 16 pounds of grain has twenty-one times more calories and eight times more protein  
+> Diet for a Small Planet, Frances Moore Lappe, 1982, p69
+
+But, here at TalkVeganToMe we are familiar with this page, because it is included as part of the compound citation for 1/6th of an acre in John Robbins' Diet for a New America when ze states:  
+
+> To supply one pure vegetarian requires only one-sixth of an acre. [...] (5)  
+>   [John Robbins' - Diet for a new America, p344 as PDF](https://ia802904.us.archive.org/21/items/JohnRobbinsDietForANewAmerica/John_Robbins_Diet_for_a_New_America.pdf)
+
+And when you look up reference 5 for chapter 12 you get:
+
+> 5. See citations in note 3.  
+
+Which takes you to the folowing rather annoying compound citation.
+
+> 3. Frances Moore Lappé, Diet for a Small Planet, 10th ed. (New York: Ballantine Books,
+1982), 69; Aaron Altschul, Proteins: Their Chemistry and Politics (New York: Basic Books,
+1965), 264; Folke Doyring, “Soybeans,” Scientific American, February 1974.
+
+The first citation being *Frances Moore Lappé, Diet for a Small Planet*, but the *correct* citation for the 1/6th of an acre statistic being *Aaron Altschul, Proteins: Their Chemistry and Politics*
+
+So we _suspect_ that this an honest attempt on the part of the Plantrician Project to provide an original source for the statistic, but they accidentally cited the wrong source from John Robbins' Diet for a new America. Unfortunately neither source is the original, and the original source does not pertain to a vegan diet at all, instead referring to post-WWII Japan (see Stamp, L. Dudley - Our Developing World, Faber, 1960).
 
 ## Citations
 
@@ -136,3 +182,5 @@ In simple terms, even if you exclude the land the cattle grazes on it uses 15 sq
 - Aaron Altschul - Proteins: Their Chemistry and Politics - 1965
 - Land Use and Food Production - Stamp, L.D, - Hunger: Can It Be Averted? - 1961
 - Stamp, L. Dudley - Our Developing World, Faber, 1960
+- [A Well Fed World - Why we need plant based approaches](https://web.archive.org/web/20170925062028/http://awfw.org/issues/hunger/why-we-need-plant-based-approaches/)
+- [Plantrician Project - Foot Math 101](https://web.archive.org/web/20190103163621/https://plantricianproject.org/food-math-101)
