@@ -3,7 +3,7 @@ title: "Animals Eat Animals"
 date: 2019-06-26T20:34:45+01:00
 lastmod: 2019-06-26T20:34:45+01:00
 draft: false
-description: "'Vegans have a profound misunderstanding of the circle of life. Animals eat other animals, you can't change that. We are just animals ourselves, it's natural.'"
+description: "How to respond to the argument: 'Vegans have a profound misunderstanding of the circle of life. Animals eat other animals, you can't change that. We are just animals ourselves, it's natural.'"
 weight: 5
 ---
 

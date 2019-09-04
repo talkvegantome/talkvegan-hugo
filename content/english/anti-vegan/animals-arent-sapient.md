@@ -3,7 +3,7 @@ title: "Animals Aren't Sapient"
 date: 2019-07-03T18:55:20+01:00
 lastmod: 2019-07-03T18:55:20+01:00
 draft: false
-description: "'It's okay to kill animals because they aren't sentient/sapient'"
+description: "How to respond to the argument: 'It's okay to kill animals because they aren't sentient/sapient'"
 weight: 5
 ---
 

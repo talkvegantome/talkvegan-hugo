@@ -3,7 +3,7 @@ title: "Veganism Is Too Awkward"
 date: 2019-07-08T20:48:29+01:00
 lastmod: 2019-07-08T20:48:29+01:00
 draft: false
-description: "Veganism is too counter-cultural. I don't want to be that awkward person at a party asking if everything is vegan!"
+description: "How to respond to the argument: 'Veganism is too counter-cultural. I don't want to be that awkward person at a party asking if everything is vegan!'"
 weight: 5
 ---
 
