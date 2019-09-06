@@ -7,7 +7,7 @@ description: "Is it true that: \"Animals live a life worth living prior to being
 weight: 100
 ---
 
-# Popular fact
+# Popular Fact
 
 > Animals live a life worth living prior to being slaughter
 
