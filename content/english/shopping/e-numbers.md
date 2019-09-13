@@ -3,13 +3,13 @@ title: "E Numbers"
 date: 2019-05-16T21:12:55+01:00
 lastmod: 2019-05-16T21:12:55+01:00
 draft: false
-description: "What e-numbers should you look out for when checking ingredients lists?"
+description: "What E-numbers should you look out for when checking ingredients lists?"
 weight: 5
 ---
 
 # E Numbers
 
-Animal products sometimes hide behind the following e numbers.
+Animal products sometimes hide behind the following E numbers:
 
 - E120 - Never vegan
 - E322 - Usually vegan
@@ -22,13 +22,13 @@ Animal products sometimes hide behind the following e numbers.
 - E920 - Check for further information
 
 ## E120 - Carmine, Cochineal, Crimson Lake, Natural Red
-A pigment produced "by boiling dried insects in water to extract the carminic acid and then treating the clear solution" ([Wikipedia](https://en.wikipedia.org/wiki/Carmine))
+A pigment produced "by boiling dried insects in water to extract the carminic acid and then treating the clear solution" ([Wikipedia](https://en.wikipedia.org/wiki/Carmine)).
 
 ## E322 - Lecithin
 Sometimes derived from eggs, usually derived from soy. Double check for a "Suitable for vegans" label, or contact the manufacturer.
 
 ## E422 - Glycerol, Glycerine, Glycerin
-Most glycerol is derived from plan sources according to [The Vegan Society](https://www.vegansociety.com/whats-new/blog/how-avoid-buying-non-vegan-products) but it's safest to check the label for an indication that it is "Suitable for vegans" or contact the manufacturer.
+Most glycerol is derived from plant sources according to [The Vegan Society](https://www.vegansociety.com/whats-new/blog/how-avoid-buying-non-vegan-products) but it's safest to check the label for an indication that it is "Suitable for vegans" or contact the manufacturer.
 
 ## E542 - Bone Phosphate, Anti-Caking Agent
 Made from the bones of cattle and pigs, this is as you would expect, one to avoid.
