@@ -6,7 +6,7 @@ displayInApp: false
 draft: false
 ---
 
-# TalkVeganToMe - #11 - 14/09/19
+# TalkVeganToMe - #11 - 14/09/19
 
 Wow, your app gets released and then you naff off for two weeks? What's that about!
 Lots of updates, that's what that's about!
@@ -30,11 +30,11 @@ In addition to that I've:
 1. Added iPad Support
 1. Added iOS 10.3 support (previously 12.2+ was required!)
 1. Made the prompt to enable analytics prettier
-1. Fixed a bug where swapping between apps would scroll you back to the top of the page
+1. Fixed a bug where swapping between apps would scroll you back to the top of the page
 1. Fixed a memory leak (improved performance)
 1. Improved handling of settings updates (stopped it erasing your back button/location unnecessarily
 
-And I've also added automated functional testing which you can see in action here: [https://imgur.com/a/LXPD4Qo](https://imgur.com/a/LXPD4Qo)
+And I've also added automated functional testing which you can see in action here: [https://imgur.com/a/LXPD4Qo](https://imgur.com/a/LXPD4Qo)
 
 At the time of writing notifications and prompt-to-rate are not available in the Apple App Store, only on Google Play as I finished the submission on Friday evening so it will be Monday before it's available on iOS!
 What's Next
@@ -42,10 +42,10 @@ Marketing and Content!
 The main features I wanted for the app are now done so barring any bugfixes that need to happen I can focus on getting people to use the app by cross-posting it across the internet.
 
 As for content, the articles I'm going to start with are:
-Tofu contains Estrogen 
+Tofu contains Estrogen 
 Plants feel pain
 
-If you've got any other articles you'd like to see, just let me know. You can see what I'm working on here: [https://trello.com/b/7ecEPfjW/talkvegantome-content]( https://trello.com/b/7ecEPfjW/talkvegantome-content)
+If you've got any other articles you'd like to see, just let me know. You can see what I'm working on here: [https://trello.com/b/7ecEPfjW/talkvegantome-content]( https://trello.com/b/7ecEPfjW/talkvegantome-content)
 
 Have a great week everyone!
 
