@@ -6,6 +6,165 @@ displayInApp: false
 draft: false
 ---
 
+# TalkVeganToMe - #11 - 14/09/19
+
+Wow, your app gets released and then you naff off for two weeks? What's that about!
+Lots of updates, that's what that's about!
+
+First let's start with what we aimed to achieve from the last newsletter:  
+
+1. ✅ Add an expanded category section rather than forcing people to scroll through categories (currently the articles towards the end of the scroll list just don't get seen!)
+1. ✅ Add favourites to allow you to easily access pages
+1. ✅ Fix bug that causes you to scroll back to the top of the page
+1. ✅ Improve search so that it's faster
+1. ✅ Improve search so that it will match pages that don't contain 100% of the words.
+1. ✅ Highlight new articles on the main page
+1. ✅ Add a Random Article button (Kinda, I just randomised the display on the front page!)
+1. ✅Next/Previous articles on the bottom of each article page
+
+100% Success rate! Love it.  
+In addition to that I've:
+
+1. Added alert notifications of new articles
+1. Added prompt to rate the app (will help app store rankings massively)
+1. Added iPad Support
+1. Added iOS 10.3 support (previously 12.2+ was required!)
+1. Made the prompt to enable analytics prettier
+1. Fixed a bug where swapping between apps would scroll you back to the top of the page
+1. Fixed a memory leak (improved performance)
+1. Improved handling of settings updates (stopped it erasing your back button/location unnecessarily
+
+And I've also added automated functional testing which you can see in action here: [https://imgur.com/a/LXPD4Qo](https://imgur.com/a/LXPD4Qo)
+
+At the time of writing notifications and prompt-to-rate are not available in the Apple App Store, only on Google Play as I finished the submission on Friday evening so it will be Monday before it's available on iOS!
+What's Next
+Marketing and Content!
+The main features I wanted for the app are now done so barring any bugfixes that need to happen I can focus on getting people to use the app by cross-posting it across the internet.
+
+As for content, the articles I'm going to start with are:
+Tofu contains Estrogen 
+Plants feel pain
+
+If you've got any other articles you'd like to see, just let me know. You can see what I'm working on here: [https://trello.com/b/7ecEPfjW/talkvegantome-content]( https://trello.com/b/7ecEPfjW/talkvegantome-content)
+
+Have a great week everyone!
+
+# TalkVeganToMe - #10 - 25/08/19
+
+This week has been an absolute rollercoaster!
+On Sunday I had the app cleaned up enough to be ready to submit it again for approval, just to test the waters and see if it would be possible to release as a content only app (i.e. without additional functionality). 
+On Tuesday, I got another rejection, which annoyed me somewhat due to there being multiple similar apps out there and an entire reference section of the app store, but ultimately it was what I was expecting.
+I started to get quite excited about building a ingredients scanning feature into the app using AWS's text recognition API, and then having those snapshots and ingredients missing in the database appear in a "vegan or not" section of the app where people could swipe through photos of packaging and swipe left/right tinder style on whether they were vegan or not.
+
+THE NEXT DAY THE APP GOT APPROVED
+
+I was in shock, I'd replied to the rejection asking for some feedback on what needed changing given it was similar to other apps that were already on the app store, but given that I waited 3 weeks for a response to my appeal last time it got rejected, I was genuinely not expecting any response at all. Let alone for it to be approved within 24hrs. BUT IT IS FINALLY LIVE!
+
+**Apple App Store:** [https://apps.apple.com/gb/app/talkvegantome/id1463279026](https://apps.apple.com/gb/app/talkvegantome/id1463279026)  
+**Android Play Store:** [https://play.google.com/store/apps/details?id=com.talkvegantome](https://play.google.com/store/apps/details?id=com.talkvegantome)
+
+The UK Vegans discord people were the first to find out and gave a bunch of five star reviews on both app stores which is unbelievably helpful and I'm so grateful for their positive feedback the last few days.
+
+I also happened to notice a post on Reddit distributing an infographic that was based on the ancient land-usage data that I chimed in on to provide a better citation for, and which caused the first bit of social media exposure for the app!
+
+There are a few more things I want to tidy up before I give it a proper social media push though:
+
+1. Add an expanded category section rather than forcing people to scroll through categories (currently the articles towards the end of the scroll list just don't get seen!)
+1. Add favourites to allow you to easily access pages
+1. Fix bug that causes you to scroll back to the top of the page
+1. Improve search so that it's faster
+1. Improve search so that it will match pages that don't contain 100% of the words.
+1. Highlight new articles on the main page
+1. Add a Random Article button
+1. Next/Previous articles on the bottom of each article page
+
+I think you get the theme here, navigation is a problem right now and content discovery is an even bigger one. Fortunately I don't think any of these are particularly hard work, I'm just going to struggle to find the time to spend on them for the next few weeks!
+
+Thank you all so much for your support and ideas for the app until its release, I couldn't have done it without you.
+
+But this is just the beginning. After this first push to clean up the app I want to focus back on content again and create more new articles that I'm as excited about as the ones I've written so far! And at some point I want to add the ingredients scanning too but... I mustn't get ahead of myself. I want the app to stand on its own legs with regards to content first.
+
+I'm SO FUCKING EXCITED everyone! I will still keep you all up to date every week just so I don't burst with excitement!
+
+# TalkVeganToMe - #9 - 18/08/19
+
+So this week has been pretty productive.
+As you've probably seen if you've opened the app recently there has been a complete overhaul of the interface including search!
+
+[Image 1](https://gallery.mailchimp.com/7efbe101e4e479517a32c8738/images/02c2705f-2c96-4dd9-9d19-fab61dfa14ac.png)  
+[Image 2](https://gallery.mailchimp.com/7efbe101e4e479517a32c8738/images/99f6959c-5069-4fc3-a94f-07b31dc91dd6.png)
+
+If any of you have downloaded some of the beta updates for the Android app you will have noticed some pretty abysmal performance, particularly in search. Thankfully this has now been resolved, and the latest beta update (which is still working its way through the playstore release process) will be reflect these fixes and should be available soon.
+
+As for next week, my availability is pretty limited but I'm going to be working mainly on tidying up the code and trying to get a release approved on the Apple App Store!
+
+Wish me luck! And send feedback!!!
+
+# TalkVeganToMe - #8 - 10/08/19
+
+Erm... Not going to lie there has not been a lot of progress in the weeks since my last email.  
+If you recall, last time I wrote, the app had just been rejected from the app store and I was awaiting a response to my appeal.  
+That was on the 20th of July, and here we are three weeks later and there has been no response at all from apple. Not even a confirmation email. I would have started to doubt that I'd even successfully sent the appeal apart from the fact that I printed the confirmation page to a pdf which explicitly states:   
+Please note that if you self- reject or resubmit your binary in App Store Connect, your appeal will not be reviewed and this request will be canceled.
+
+Which basically means there's no recourse or follow up, or ability to find out if they've just chucked it in the bin. I'm pretty annoyed about this because with my lack of experience with app development I don't actually know what will meet the threshold for them to allow the app on the app store. I could put another 3 months work into it and still get rejected because there's no communication about what exactly their rules are beyond some vague description of "meaningfully different from a mobile browsing experience". 
+
+In any case, I've been buoyed by the response from some of you suggesting new app designs to make it easier to use, and today finally got out of my rut with a flash of motiviation and frantically sketched out a new design for the app.
+
+You can see that here: [New App Design Sketch](https://imgur.com/a/RsW63YR)
+ 
+(As you can tell I'm no artist.)
+
+So I'm going to start working on that over the next few weeks, and will keep you all posted on how it goes.
+
+The main new features will be:
+
+* Complete redesign
+* Left/right scrolling between articles
+* Search
+* Flashcards
+
+All in all this should improve the usability of the app pretty significantly, and also add some nice features like the search and flash cards which I've been wanting to add anyway.
+
+Hopefully that'll be enough to get it through to the app store! Failing that I'll have to do something more drastic!
+
+# TalkVeganToMe - #7 - 13/07/18
+
+This week has been extremely productive!
+
+## Content
+ - Anti Vegan Arguments - WIthout farming there would be no animals
+ - Updated the almond milk water usage article to include recent sources
+ - Added a linter to flag gendered pronouns to be replaced with ze/zir pronouns (when unsure of persons preferred pronouns)
+ - Created a Media Pack page of logos and blurb
+ - Added these newsletters to a Blog page
+
+## App changes
+ - Added table of contents to the bottom of the page
+ - Allowed pages to be displayed only on website (e.g. the media pack)
+ - Reskinned the app to look a bit more like the website
+ - Submitted the app for review for inclusion on the app store
+
+That last one is a doozy as... *drumroll* the app got rejected!
+ 
+> Guideline 4.2.2 - Design - Minimum Functionality  
+>
+> We noticed that your app only includes links, images, or content aggregated from the Internet with limited or no native iOS functionality. Although this content may be curated from the web specifically for your users, since it does not sufficiently differ from a mobile web browsing experience, it is not appropriate for the App Store.
+
+Which... I can't argue with in a way because it is at its heart, a reference app, and definitely does contain all the content from the website with no additional functionality except the offline mode!  
+That offline functionality and immediate feedback of the app is utterly critical to the whole concept of TalkVeganToMe. If you're in a pub, talking with your omni friends and mention a stat and get rebutted with "Where's your source?" you need to be able to come up with that quickly, easily, and reliably. If you have no internet, you're done. If you have to try and remember the name of the site, type it in, load it, you're done.
+It's a huge difference between having this content on a website and in the app. The app came first, the website is just secondary so people can link to the content without having to download the app. 
+
+Anyway, I've appealed the decision with the above reasons, so it may still get in, but we shall see!
+
+Worst case scenario I'll have to add some additional functionality to the app to make it 'differ sufficiently from a mobile browsing experience'. A few ideas spring to mind  
+
+ - Fact flash cards, e.g. Shows an e-number on-screen and you hit vegan/not vegan and get a score based on success.  
+- Debate dialogue trees, an expansion on how the anti-vegan argument pages work right now, except you are presented with an anti-vegan argument, and then given options to choose from to respond with, and then get different responses depending on what you choose (a lot of work).
+
+Some-one also suggested adding in a product barcode scanning feature (to determine whether the product was vegan or not) but gathering the data for that would be a huge amount of work to make it useful for even a small percentage of the globe.
+
+I'm open to ideas! Let me know if you have anything you'd like to see in the app!
 
 # 2019-07-13
 
