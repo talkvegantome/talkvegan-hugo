@@ -64,7 +64,7 @@ The article cites this statistic as coming from the [TerraClass Land-use Databas
 > Satellite images, panoramic and close-up photographs of all 630 monitored polygons are available on ABIOVE’s site, www.abiove.com.br. Total transparency.  
 > - [Abiove - Soy Moratorium contributes to containment of deforestation in the Amazon Biome - 2009 - p1](http://www.abiove.com.br/english/sustent/bs_edicao015_abr09_us.pdf)
 
-This is original research with detailed methodology and the source data is available on [abiove.com.br](www.abiove.com.br) and therefore passes as a quality source. However the metanalysis by Elizabeth Barona, Navin Ramankutty, et al. above suggests it may not be the whole story.
+This is original research with detailed methodology and the source data is available on [abiove.com.br](http://www.abiove.com.br) and therefore passes as a quality source. However the metanalysis by Elizabeth Barona, Navin Ramankutty, et al. above suggests it may not be the whole story.
 
 # Sources
 
