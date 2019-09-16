@@ -16,7 +16,7 @@ sectionPagesMenu = "main"
     weight = 10
   [languages.fr]
     title = "TalkVeganToMe"
-    contentDir = "content/french"
+    contentDir = "content/français"
     languageName = "Français"
     weight = 20
 
