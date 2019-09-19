@@ -51,7 +51,7 @@ We describe organisations based on:
 **Carnist Palatability:** Direct
 
 ## The Humane Society International  
-**Website:** [thehumaneleague.org](https://www.hsi.org/)  
+**Website:** [hsi.org](https://www.hsi.org/)  
 **Activism Style:** Informational  
 **Animal Exploitation Stance:** Welfareist  
 **Inclusivity History:** Unknown  
