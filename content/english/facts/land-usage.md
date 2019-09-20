@@ -79,7 +79,7 @@ According to the table 0.4 people can be supported by an acre of cultivated land
 
 Although the table does not directly cite its sources elsewhere Dudley uses numbers on total food production from the United Nations' Food and Agriculture Organisation from 1948-1952 (referenced in tables on p72-p77) and the total cultivated land acreage from the UN FAO's 'Yearbook' from 1957 (referenced in tables on p40-p41).
 
-I believe zis calculation went approximately as follows:  
+I believe zir calculation went approximately as follows:  
 
 > country: total_harvest_calories / 1 SNU (1,000,000 calories) / total_cultivated_acreage = number_of_people_diet_feeds_per_acre  
 > USA: ? (not cited) / 1,000,000 / 192,500,000 (inferred) = 0.4  
