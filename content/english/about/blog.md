@@ -6,6 +6,25 @@ displayInApp: false
 draft: false
 ---
 
+# TalkVeganToMe - #12 - 22/09/19
+
+OVER ONE THOUSAND INSTALLS!!!
+
+iOS: 820
+Android: 540
+Total: 1360
+
+On Wednesday I posted about the app in the London Vegans facebook group, and the post kind of exploded. 148 comments, 415 reactions and I was completely bowled over by how positive the comments were. You can see them all here: [https://imgur.com/a/n63YUZv](https://imgur.com/a/n63YUZv)
+
+We were even briefly #41 for Reference on the iOS app store! [https://imgur.com/fO7OAj7](https://imgur.com/fO7OAj7) 
+
+I was absolutely blown away by the responses (seriously if you want a case of the warm-and-fuzzies check out the link to the Facebook comments).
+I'm now feverishly beavering away to bring new content to the platform. I have started on the phytoestrogen article I mentioned last week, but that is still very much in the beginning stages so will be at least a week before that gets released I suspect!
+
+I also setup a facebook page to share content from: [https://www.facebook.com/talkveganapp/posts](https://www.facebook.com/talkveganapp/posts) where I'll be posting new stuff on a regular basis (I wonder if I should cross post from here or if that would be too much... Let me know your thoughts I'm not a facebook regular!)
+
+Thanks for your continued support everyone, it's happening!
+
 # TalkVeganToMe - #11 - 14/09/19
 
 Wow, your app gets released and then you naff off for two weeks? What's that about!
