@@ -34,7 +34,30 @@ This app is intended to act as a repository of quick access information for vega
 
 ## Logos
 [![Click to enlarge](/App-Icon-Small.png)](/App-Icon-Large.png)  
-Click to enlarge
+[Click to enlarge](/App-Icon-Large.png)  
+
+# Screenshots
+
+## Screenshot 1 - Splash Page
+[![](https://i.imgur.com/uzTrpuK.png)](https://i.imgur.com/j3ZhabT.png)  
+[Click to enlarge.](https://i.imgur.com/j3ZhabT.png)
+
+## Screenshot 2 - Search
+[![](https://i.imgur.com/wyujUvL.png)](https://i.imgur.com/GRV4AKG.png)  
+[Click to enlarge.](https://i.imgur.com/GRV4AKG.png)
+
+## Screenshot 3 - Personal Choice 
+[![](https://i.imgur.com/dAko0XC.png)](https://i.imgur.com/89kdWKQ.png)  
+[Click to enlarge.](https://i.imgur.com/89kdWKQ.png)
+
+## Screenshot 4 - Almond Milk Water Usage
+[![](https://i.imgur.com/0zDU9oD.png)](https://i.imgur.com/m73Enep.png)  
+[Click to enlarge.](https://i.imgur.com/m73Enep.png)  
+
+## Screenshot 5 - Settings
+[![](https://i.imgur.com/iHfkoh8.png)](https://i.imgur.com/O34gfb6.png)  
+[Click to enlarge.](https://i.imgur.com/O34gfb6.png)  
+
 
 ## Contact us
 - Email - [sam@talkveganto.me](mailto:sam@talkveganto.me)  
