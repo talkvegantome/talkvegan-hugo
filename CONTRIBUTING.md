@@ -32,7 +32,7 @@ In order to contribute you'll  need to have the following pre-requisites:
 **Important:** You must have followed the first 5 steps in Making Changes prior to making a new page.
 
 1. Open your terminal and browse to the Local Path (see Making Changes) 
-2. Type `hugo new <category-name>/<new-page-name>.md` (e.g. `hugo new vegan-statistics/numnber-of-vegans.md`)
+2. Type `hugo new ../<language>/<category-name>/<new-page-name>.md` (e.g. `hugo new ../english/vegan-statistics/numnber-of-vegans.md`)
 3. Open the new file in your Markdown editor
 
 ### Formatting text
