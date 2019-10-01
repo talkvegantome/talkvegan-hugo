@@ -15,10 +15,11 @@ or
 
 # Reality 
 
-Soy contains phytoestrogens which may interact with the human body in a variety of ways (including hormonally).  
+> Soy contains phytoestrogens which may interact with the human body in a variety of ways (including hormonally).   
+> - TalkVeganToMe
+
 See below for a more detailed explanation.  
 See our article on [Soy is bad for you]({{<ref "/facts/soy-is-bad-for-you">}}) for more on what this means.  
-- TalkVeganToMe 
 
 ## What are phytoestrogens and isoflavones?
 > Soy contains phytoestrogens (specifically *isoflavones*) which are structurally similar to human estrogen.  
@@ -49,10 +50,10 @@ TalkVeganToMe does not currently take a position on the health benefits of soy, 
 * Improved breast cancer outcomes
 * Improved glucose mangement in type-2 diabetes
 * Improved prostate cancer, bowel cancer, uterine cancer, etc. outcomes.
-* Improved cognition
-- [The potential health effects of dietary phytoestrogens - British Journal of Pharmacology](https://web.archive.org/web/20190922065924/https://bpspubs.onlinelibrary.wiley.com/doi/full/10.1111/bph.13622)  
+* Improved cognition  
 
-Some articles suggest benefits ranging from reducing cancer risk to improving bone, heart, and brain health, others suggest it may cause isses ranging from increasing cancer risk, to reducing male fertility, and 
+List derived from the topics covered in [The potential health effects of dietary phytoestrogens - British Journal of Pharmacology](https://web.archive.org/web/20190922065924/https://bpspubs.onlinelibrary.wiley.com/doi/full/10.1111/bph.13622)  
+
 
 #### Supposed Negative Effects
 
@@ -61,10 +62,12 @@ TalkVeganToMe covers the reseach behind the detrimental effects of soy more in [
 * Reduced thyroid function
 * Reduced male fertility
 * Increased risk of breast and uterine cancer
-* Increased risk of prostate and testicular cancer
-- [The potential health effects of dietary phytoestrogens - British Journal of Pharmacology](https://web.archive.org/web/20190922065924/https://bpspubs.onlinelibrary.wiley.com/doi/full/10.1111/bph.13622)  
+* Increased risk of prostate and testicular cancer  
+
+List derived from the topics covered in [The potential health effects of dietary phytoestrogens - British Journal of Pharmacology](https://web.archive.org/web/20190922065924/https://bpspubs.onlinelibrary.wiley.com/doi/full/10.1111/bph.13622)  
 
 # Sources
 
-- [The pros and cons of phytoestrogens - Front Neuroendocrinol - 2010](https://web.archive.org/web/20190928181945/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3074428/pdf/nihms271669.pdf)
-- [The potential health effects of dietary phytoestrogens - British Journal of Pharmacology](https://web.archive.org/web/20190922065924/https://bpspubs.onlinelibrary.wiley.com/doi/full/10.1111/bph.13622)  
+ - [British Dietetic Association - Soya and health – the basics - 2017](https://web.archive.org/web/20190928091728/https://www.bda.uk.com/foodfacts/soya2017.pdf)
+- [Front Neuroendocrinol - The pros and cons of phytoestrogens - 2010](https://web.archive.org/web/20190928181945/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3074428/pdf/nihms271669.pdf)
+- [British Journal of Pharmacology - The potential health effects of dietary phytoestrogens - 2017](https://web.archive.org/web/20190922065924/https://bpspubs.onlinelibrary.wiley.com/doi/full/10.1111/bph.13622)  

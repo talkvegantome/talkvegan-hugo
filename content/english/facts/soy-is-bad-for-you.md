@@ -1,33 +1,65 @@
 ---
-title: "Soy Has Estrogen"
+title: "Soy is bad for you"
 date: 2019-09-20T16:06:14+01:00
 draft: true
-description: "Is it true that: \"Soy has estrogen that can adversely affect human hormones?\""
+description: "Is it true that: \"Soy's phytoestrogens can adversely affect humans?\""
 weight: 100
 ---
 
 # Popular Fact
 
-> Soy has estrogen and the consumption of soy products (e.g. soy milk, tofu, etc.) can have numerous effects on the body from gynecomastia, reduced fertility, increased risk of Hypothyroidism, and increased cancer risk, to helping reduce symptoms of menopause
+> Soy's phytoestrogens cause:  
+> - Reduced thyroid function  
+> - Reduced male fertility  
+> - Increased risk of breast and uterine cancer  
+> - Increased risk of prostate and testicular cancer  
+
+See our article: [Soy contains estrogen]({{<ref "/facts/soy-contains-estrogen">}}) for more information on phytoestrogens.
 
 # Reality
 
-> Soy contains phytoestrogens which are structurally similar to human estrogen, these are also known as *isoflavones*.  
-> While there are a number of sources which assure us of the safety of soy, there are conflicts of interest/a lack of primary sources in all those we have found so far.  
-> There are also methodological concerns with the articles that proclaim the contrary.  
-> The vast majority of articles published seem to say "More research is needed".  
-> At the moment, the question of "Is soy healthy?" appears unanswered.  
+> Soy contains phytoestrogens which are structurally similar to human estrogen, specifically *isoflavones*.  
 > - TalkVeganToMe 
 
-There is an *huge* amount of information available on the topic (more than 2000 soy-related peer-reviewed articles are published annually ([Soy and Health Update - Nutrients 2016](http://web.archive.org/web/20190923193109/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5188409/))).  
-As yet, we have not found what we consider a reliable source condoning the safety of soy consumption.  
-The closest we have are the British Dietetics Association and NHS recommendations, which both lack significant evidence from primary sources. See below for more on these.  
-The only other sources we've found for a blanket assertion that say soy is safe come from one of the articles authored by Mark Messina, see below for why we have excluded those.
-
-This is *not* the same as a conclusion that soy is bad for you, as there are a number of methodological concerns with the studies that support negative effects from consuming soy.
+There is an *huge* amount of information available on the topic (more than 2000 soy-related peer-reviewed articles are published annually ([Soy and Health Update - Nutrients 2016](http://web.archive.org/web/20190923193109/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5188409/))). 
 
 
-## The potential health effects of dietary phytoestrogens 
+## Hypogonadism and erectile dysfunction associated with soy product consumption - Nutrition - 2011
+
+>Previous research has focused on the beneficial effects of soy and its active ingredients, isoflavones. For instance, soy consumption has been associated with lower cardiovascular and breast cancer risks. However, the number of reports demonstrating adverse effects of isoflavones due to their estrogenlike properties has increased. We present the case of a 19-y-old type 1 diabetic but otherwise healthy man with sudden onset of loss of libido and erectile dysfunction after the ingestion of large quantities of soy-based products in a vegan-style diet. 
+
+
+## Soy, Soy Foods and Their Role in Vegetarian Diets - Nutrients - 2018
+
+> Inter-individual variation of isoflavone activation capacity (mainly located in to the microbiota), differences in cultivar, environmental factor, culture methods, storage, food processing and other confounders (i.e., other dietary habits), pose challenges to forecast the bioavailability and pharmacokinetics of phytoestrogens. It should be noted that the composition of soy food may differ substantially from unprocessed soy beans. More data on safety are needed but soy foods seems to have a favourable effect on women health, in particular if gut daidzein to equol conversion readily occurs. Soy food can be safe and even beneficial if consumed by women with breast cancer diagnosis. Among soy products there are remarkable differences in nutrients and phytochemicals composition that need careful interpretation of data on soy effect from different soy foods.
+> Overall, the low content of bioactive compounds in second generation soy foods and moderate amounts in traditional soy preparations offer modest health benefits with very limited risk for potential adverse health effects. At the same time, to have the beneficial effects of soy isoflavones, intake should be at least of 60–100 mg per day, at present not easily reached in Western countries.  
+> [Soy, Soy Foods and Their Role in Vegetarian Diets - Nutrients - 2018](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5793271/)
+
+This article is a reasonable summary of previous articles but falls short of evaluating them critically.
+
+## The potential health effects of dietary phytoestrogens - British Journal of Pharmacology - 2017
+
+> [P]hytoestrogens are also considered endocrine disruptors, indicating that they have the potential to cause adverse health effects such as infertility and increased risks of cancer in oestrogen‐sensitive organs. These adverse effects have been mainly suggested based on data from in vitro, animal or epidemiological studies. Clinical studies often report the absence of adverse effects. 
+> Tempfer et al. (2009) reported a meta‐analysis on possible side effects of phytoestrogens. Based on 174 randomized controlled trials, it was concluded that phytoestrogen supplements have a safe side effect profile with moderately elevated rates of gastrointestinal side effects. It is important to note, however, that these studies were generally not designed to study the safety of the phytoestrogens.  
+> [...]  
+> [I]t can be concluded that several potential health benefits of phytoestrogens have been reported but that, given the data on potential adverse health effects, the current evidence on these beneficial health effects is not so obvious that they clearly outweigh the possible health risks. This implies that a definite conclusion on possible beneficial health effects of phytoestrogens cannot be made.
+> - [The potential health effects of dietary phytoestrogens - British Journal of Pharmacology - 2017](https://web.archive.org/web/20190830183448/https://bpspubs.onlinelibrary.wiley.com/doi/pdf/10.1111/bph.13622)
+
+This study does not put a specific weight to the risks in question, focussing more heavily as it does on the research into the potential benefits. It simply acknowledges that because "the health benefits or risks of isoflavones and other phytoestrogens are still controversial" making recommendations to consume additional soy products on the basis of the supposed benefits is not warranted.
+
+## Pros and cons of phytoestrogens - Front Neuroendocrinol - 2010
+
+> Infants fed soy formula have the highest exposure to any nonpharmacological source of estrogen-like compounds, yet we know virtually nothing about how the use of these phytoestrogen-rich formulas might impact their future reproductive health.  
+> [...]   
+> Consumers should be aware that soy contains endocrine disrupting compounds and make dietary choices accordingly. For a typical consumer, alarm over soy products is likely unnecessary but so is the belief that a soy-rich diet will alleviate all ills. Women who are pregnant, nursing, or attempting to become pregnant should use soy foods with caution and be aware that soy formula may not be the best option for their babies. Older individuals, especially those with high cholesterol, may experience modest benefits including improved bone and cardiovascular health, and perhaps a decreased risk of carcinogenesis.  
+> - [The pros and cons of phytoestrogens - Front Neuroendocrinol - 2010](https://web.archive.org/web/20190928181945/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3074428/pdf/nihms271669.pdf)
+
+## Effect of soy on health outcomes - Agency for Healthcare Research and Quality - 2005
+
+>  The evidence from human studies does not suggest any worrisome adverse events beyond mild gastrointestinal intolerance. Conclusions were often limited due to small numbers of studies or heterogeneity across studies. Given the large amount of heterogeneity and inadequate reporting, particularly related to soy protein and isoflavone dose, many questions remain as to whether specific soy products in adequate doses may be of benefit in specific populations. Further, well-conducted studies are needed to clarify the effect of soy dose on lipid parameters and to determine whether soy components other than protein or isoflavones may be responsible for the lipid effects seen.  
+> - [Effects of Soy on Health Outcomes - Agency for Healthcare Research and Quality ](https://web.archive.org/web/20170201070904/https://archive.ahrq.gov/downloads/pub/evidence/pdf/soyeffects/soy.pdf)
+
+This incredibly in-depth metanalaysis found insufficient evidence for any detrimental health claims, though this was often due to poor study quality (sample sizes, methdology, etc.) discounting the results.
 
 ## Mark Messina
 
@@ -36,14 +68,10 @@ As declared on [one of zirs articles]((https://web.archive.org/web/2019092319310
 
 We don't mean to suggest any impropriety on Dr Messina's part but when citing articles we want to avoid the merest suggestion of bias as it may undermine your ability as a reader to confidently cite your sources.
 
-As a result, when researching this article, we excluded the following articles from our search:
+As a result, when researching this article, we excluded the following articles from our investigation:
 
-- [Perspectives on the soy-breast cancer relation - American Journal of Clinical Nutrition - 2009](https://web.archive.org/web/20190928151651/https://watermark.silverchair.com/1673s.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAmAwggJcBgkqhkiG9w0BBwagggJNMIICSQIBADCCAkIGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMt9TXH8ieO7VGhFIVAgEQgIICE1YpbjcrryTmEzExQbrPr6WGtzmo5hUDFoeG0Vw5hcWHIBah7JNWFgVrz2abIVUpe8M2m2IeVk472_BG-c6ZYussYQBRfwP5geb4JGlLPsmiYAPAE5lqrgl0DwUESZyS45xwc0BNgTonuiwaVMGVz1g99QLaOks5B6kdjwnSV9mJmBsWY4uwZ6uwgLH9_k5P0fE09RrO5O9DpNvy4wgTd-WESn9hw-kSKAvKx47cCHw6X6zZVV4HqzwW1N9R018iC87l7PG4kquZ0uYu_aqFsvUdsFJDAK15LWBSHUhxx5Y8P5zkd95frN52YUa_r2VG6igjluHN-2YHZejKhYilyhbgEslyxipBIY0o0D43kehfIMVSHqhnIp1h6bMzc7PwkfrLhpT0RY-cSqrRNmbt5dmY-QzL67Z5x0UKsaQ6GZMT-jRBaU4o6EmR1V4cVDFNeEavLJBOkJkp8ttgQnwi0-8lvw9EfgiXQxuzdMIN7t5xM9jf2Jdw-kv6dAcICAAwPS7c-O5VVsUBCfnF-yeIkmHGwP-towwunn7bdmO3UAkqlYO7OFzLum7bT-E6Z8oZs1fQ4wf2WWScT0WOXxsS9XA5jSw6HKzE5HK3slN7-CiGBNbT-tPqS9syfhLluHVnmXHuFEoQnlmAY2A6jAkEr24mquAcFFzzCM08rncu1NMC1Ts4aiZwCsfyg61OLnE4K2g_ow)
-- [Report on the 8th International Symposium on the Role of Soy in Health Promotion and Chronic Disease Prevention and Treatment - 2009](https://web.archive.org/web/20180602160854/https://academic.oup.com/jn/article/139/4/796S/4670433)
 - [Clinical studies show no effects of soy protein or isoflavones on reproductive hormones in men: results of a meta‐analysis - Fertility and Sterility - 2010](https://www.fertstert.org/article/S0015-0282(09)00966-2/fulltext)
 - [Soybean isoflavone exposure does not have feminizing effects on men: A critical examination of the clinical evidence - Fertility and Sterility - 2010](https://web.archive.org/web/20190928152330/https://www.fertstert.org/article/S0015-0282(10)00368-7/pdf)
-- [Can breast cancer patients use soya foods to help reduce risk of CHD? - British Journal of Nutrition - 2012](https://web.archive.org/web/20190928152525/https://www.cambridge.org/core/services/aop-cambridge-core/content/view/BBB3F409DAEC155D36EC4ACB8977B962/S0007114512001900a.pdf/can_breast_cancer_patients_use_soyafoods_to_help_reduce_risk_of_chd.pdf)
-- [Extracted or synthesized soybean isoflavones reduce menopausal hot flash frequency and severity: systematic review and meta-analysis of randomized controlled trials - Menopause - 2012](https://web.archive.org/web/20190928152928/https://pdfs.semanticscholar.org/f125/dd5709b940703b0c85bcd6f70286c1159c39.pdf)
 - [Soy and Health Update: Evaluation of the Clinical and Epidemiologic Literature - Nutrients - 2016](https://web.archive.org/web/20190928153130/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5188409/pdf/nutrients-08-00754.pdf)
 
 
