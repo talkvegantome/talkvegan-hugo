@@ -1,7 +1,3 @@
 [submodule "themes/hugo-theme-techdoc"]
 	path = themes/hugo-theme-techdoc
 	url = https://github.com/talkvegantome/hugo-theme-techdoc.git
-[submodule "public"]
-	path = public
-	url = git@github.com:talkvegantome/talkvegantome.github.io.git
-	branch = master
