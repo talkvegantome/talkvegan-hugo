@@ -40,11 +40,11 @@ will necessarily conclude:
 - Your _personal choice_ to eat meat causes unnecessary harm, does not warrant respect, and morally obligates me to speak out.
 
  
-> Premise 1 is a factual claim. If you doubt its veracity please read [A well planned vegan diet is suitable for people of all ages.] ({{< ref "../facts/suitable-for-all" >}})
+> Point 1 is a factual claim. If you doubt this claim please read [A well planned vegan diet is suitable for people of all ages.] ({{< ref "../facts/suitable-for-all" >}})
 
-> Premise 2 is the factual claim that animals are harmed by commercial farming and slaughter. See [Animal slaughter methods] ({{< ref "../facts/suitable-for-all" >}})
+> Point 2 is the factual claim that animals are harmed by commercial farming and slaughter. See [Animal slaughter methods] ({{< ref "../facts/suitable-for-all" >}})
 
-> Premise 3 is a *value statement*  that most people would accept.
+> Point 3 is a *value statement*  that most people would accept.
 
 The conclusion holds that, where an individual could *easily choose otherwise* but instead *out of personal choice* selects an option that does uneccessary harm, there is no reason to respect that individual's choice and there is good reason to speak out against it.
 
