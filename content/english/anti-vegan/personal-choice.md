@@ -40,9 +40,9 @@ will necessarily conclude:
 - Your _personal choice_ to eat meat causes unnecessary harm, does not warrant respect, and morally obligates me to speak out.
 
  
-> Point 1 is a factual claim. If you doubt this claim please read [A well planned vegan diet is suitable for people of all ages.] ({{< ref "../facts/suitable-for-all" >}})
+> Point 1 is a factual claim. If you doubt this claim please read [A well planned vegan diet is suitable for people of all ages.]({{< ref "../facts/suitable-for-all" >}})
 
-> Point 2 is the factual claim that animals are harmed by commercial farming and slaughter. See [Animal slaughter methods] ({{< ref "../facts/suitable-for-all" >}})
+> Point 2 is the factual claim that animals are harmed by commercial farming and slaughter. See [Animal slaughter methods]({{< ref "../facts/animal-slaughter-methods" >}})
 
 > Point 3 is a *value statement*  that most people would accept.
 
