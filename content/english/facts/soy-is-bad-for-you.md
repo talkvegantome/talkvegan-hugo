@@ -8,26 +8,49 @@ weight: 100
 
 # Popular Fact
 
-> Soy's phytoestrogens cause:  
-> - Reduced thyroid function  
-> - Reduced male fertility  
-> - Increased risk of breast and uterine cancer  
-> - Increased risk of prostate and testicular cancer  
+> Soy's phytoestrogens cause a variety of negative health effects including reducing male fertility.
 
 See our article: [Soy contains estrogen]({{<ref "/facts/soy-contains-estrogen">}}) for more information on phytoestrogens.
 
 # Reality
 
-> Soy contains phytoestrogens which are structurally similar to human estrogen, specifically *isoflavones*.  
-> - TalkVeganToMe 
+> Soy contains phytoestrogens which are structurally similar to human estrogen (specifically *isoflavones*) which may have negative effects in high enough dosages.  
+> It is _unlikely_ that you will ingest a high enough dosage to affect your health as part of a balanced diet provided you do not have any special circumstances (e.g. hypothyroidism, infancy, etc.).  
+> All articles on the topic caveat their conclusions with: More research is needed.  
+> Ensure that you vary your protein sources and consult your dietitian for special circumstances (e.g. hypothyroidism, infancy, etc.)
+> - TalkVeganToMe's layman's inferences from surveying the material available online
 
 There is an *huge* amount of information available on the topic (more than 2000 soy-related peer-reviewed articles are published annually ([Soy and Health Update - Nutrients 2016](http://web.archive.org/web/20190923193109/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5188409/))). 
+Those which point to negative health effects of soy usually have extremely small sample sizes and extremely high dosages.   
+Those which suggest that there is no evidence of negative outcomes caveat these conclusions with the claims that there is a lack of 
+
+### Showing Risk 
+
+## Male Fertility
+
+- [Hypogonadism and erectile dysfunction associated with soy product consumption - 2011](https://web.archive.org/web/20110305114701/https://www.ncbi.nlm.nih.gov/pubmed/21353476) (single person case study)
+- [An unusual case of gynecomastia associated with soy product consumption.](https://journals.aace.com/doi/10.4158/EP.14.4.415?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed) (single person case study)
 
 
-## Hypogonadism and erectile dysfunction associated with soy product consumption - Nutrition - 2011
+### Showing Absence of Risk
 
->Previous research has focused on the beneficial effects of soy and its active ingredients, isoflavones. For instance, soy consumption has been associated with lower cardiovascular and breast cancer risks. However, the number of reports demonstrating adverse effects of isoflavones due to their estrogenlike properties has increased. We present the case of a 19-y-old type 1 diabetic but otherwise healthy man with sudden onset of loss of libido and erectile dysfunction after the ingestion of large quantities of soy-based products in a vegan-style diet. 
+### Breast Cancer
+- [Effects of isoflavones on breast tissue and the thyroid hormone system in humans: a comprehensive safety evaluation - 2018](https://web.archive.org/web/20191002184041/https://link.springer.com/article/10.1007/s00204-018-2279-8)
 
+### Male Fertility
+- [Soy protein isolates of varying isoflavone content do not adversely affect semen quality in healthy young men - 2010](https://www.fertstert.org/article/S0015-0282(09)03594-8/fulltext) (only an 8 week trial)
+
+### Infant Formula
+- [The health implications of soy infant formula. - 2009](https://web.archive.org/web/20191002185232/https://academic.oup.com/ajcn/article/89/5/1668S/4596959)
+
+- [Soy Infant Formula of Minimal Concern - 2010](https://web.archive.org/web/20191002190225/https://ntp.niehs.nih.gov/ntp/ohat/genistein-soy/soyformula/soymonograph2010_508.pdf)
+
+- [Exposure to Soy-Based Formula in Infancy and Endocrinological and Reproductive Outcomes in Young Adulthood - 2001](https://web.archive.org/web/20191002190445/https://jamanetwork.com/journals/jama/fullarticle/194106)
+
+### Overall
+- [Soy Isoflavones: A Safety Review - 2003](http://web.archive.org/web/20191002184755/https://www.researchgate.net/profile/Melody_Harwood2/publication/10855804_Soy_Isoflavones_A_Safety_Review/links/5bd721a8a6fdcc3a8dae5fec/Soy-Isoflavones-A-Safety-Review.pdf?origin=publication_detail)
+- [Effects of Soy on Health Outcomes - 2005](https://web.archive.org/web/20170201070904/https://archive.ahrq.gov/downloads/pub/evidence/pdf/soyeffects/soy.pdf)
+- [Soy, Soy Foods and Their Role in Vegetarian Diets - Nutrients - 2018](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5793271/)
 
 ## Soy, Soy Foods and Their Role in Vegetarian Diets - Nutrients - 2018
 
