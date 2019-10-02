@@ -50,7 +50,7 @@ The conclusion holds that, where an individual could *easily choose otherwise* b
 
 This holds equally true:
 
-- If you choose to litter
-- If you choose to buy cheap clothes while being fully aware they were made in a sweat shop.
+- If you choose to litter.
+- If you choose to buy clothes knowing they were made in a sweat shop when you have other options.
 
 > So yes; it's your personal choice. But no! I will not respect that choice or remain silent.
