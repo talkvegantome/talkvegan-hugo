@@ -25,7 +25,7 @@ This can be unpacked as three different arguments:
 
 > (Argument #1) This argument is an appeal to hypocrisy (*the Tu quoque fallacy*). That I fail to meet my own standards is nothing more than a personal failure and does not invalidate my principles. My failure to pick up a piece of litter that I've dropped does not invalidate my claim that littering is wrong. That I may fall short and in some way be complicit in an animal's death in no way invalidates the moral claim that the exploitation of animals is wrong.
 > 
-> (Argument #2) "It is wrong to inflict unnecessary death on nonhuman animals and it is especially wrong , pro tanto, to do so intentionally. Where one must choose between bringing about death as a side-effect, one should, all else equal, pursue the latter course of action".  
+> (Argument #2) "It is wrong to inflict unnecessary death on nonhuman animals and it is especially wrong, pro tanto, to do so intentionally. Where one must choose between bringing about death as a side-effect, one should, all else equal, pursue the latter course of action".  
 > - The Intentional Killing of Field Animals and Ethical Veganism *by*  Joe Wills
 > 
 > (Argument #3) "While not logically impossible, it is *almost impossible* to avoid being complicit in suffering with our current food chain. Veganism is a way of living which seeks to exclude, *as far as is possible and practicable*, all forms of exploitation of, and cruelty to, animals [...]. Raising an animal from forcible impregnation to their untimely death merely to satisfy our desire for taste is not comparable to deaths we have little way of avoiding as consumers."  
@@ -48,7 +48,7 @@ Vegans must eat and, where there are limited options, follow the path of least h
 
 >A golden rule of moral philosophy is, "all things being equal you ought to choose the action that does the least harm”.
 
-While it is true that some animals do die in the production and harvesting of crops vegans do not ‘accept these deaths’ without question.  Where a crop farmer fails to *exercise due diligence to minimize the harm* and deaths occur, an obligation falls on vegans *as far as is possible and practicable* to seek alternatives (e.g. moving towards organic vegetables, buying from vegan farms, avoiding mono-cultures etc.)
+While it is true that some animals do die in the production and harvesting of crops vegans do not ‘accept these deaths’ without question.  Where a crop farmer fails to *exercise due diligence to minimize the harm* and deaths occur, an obligation falls on vegans *as far as is possible and practicable* to seek alternatives (e.g. moving towards organic vegetables, buying from [vegan farms] (https://www.viva.org.uk/what-we-do/vegan-farming), avoiding mono-cultures etc.)
 
 > ### Doctrine of Double Effect
 > - the nature of the act is itself good, or at least morally neutral;  
@@ -57,15 +57,15 @@ While it is true that some animals do die in the production and harvesting of cr
 > 
 > *from* Double-Effect Reasoning: Doing Good and Avoiding Evil *by* T. A. Cavanaugh.
  
-While cattle farmer's *intend* to kill the cattle they raise, the crop farmer's intention is primarily to grow crops. Any deaths that may occur during crop harvest are a side-effect of a morally neutral act. 
+In other words a cattle farmer *intends* to kill the cattle, the crop farmer's intention is primarily to grow crops. Any deaths that may occur during crop harvest are a side-effect of a morally neutral act. 
 
 - A counter might follow that 'regardless of intention or acceptance the animals die, so I might as well get my meat.'
 
 This counter argument fails to take into account an individual's foreknowledge of what will occur.
 
-* A cattle farmer has foreknowledge that the cattle will be slaughtered and intends for them to be slaughtered.
+* A cattle farmer knows that the cattle will be slaughtered and intends for them to be slaughtered.
 
-* A crop farmer has foreknowledge that some animals (e.g rabbits, birds, rodents) may be killed during harvest but the intention is only to harvest crops. (The crop farmer would far prefer the animals were not in the field).
+* A crop farmer knows that some animals (e.g rabbits, birds, rodents) may be killed during harvest but the intention is only to harvest crops. (The crop farmer would far prefer the animals were not in the field).
  
 Consider the following thought experiment:
 
@@ -105,10 +105,8 @@ Nor is it an excuse to not learn those pesky [E-numbers] ({{< ref "../shopping/e
 
 
 
-Where vegans meet or exceed this threshold they act morally (in this regard). 
+Vegans strive to meet or exceed this threshold and bring an end to the mistreatment of animals.
 
-Where vegans fail to meet this threshold they should acknowledge falling short. It's necessary to recognise that it is nearly impossible to exist without cruelty to animals or people while still participating in a 21st century society, and to forgive ourselves for the things we cannot avoid.
+Vegans may at times fail to meet this threshold. However,  it is necessary to recognise that it is nearly impossible to exist without cruelty to animals or people while still participating in a 21st century society, and to forgive ourselves for the things we cannot avoid.
 
-
-
-> Argument #3 misrepresents the nature of veganism. As with any moral standpoint perfection is not expected. However, there is the expectation of striving towards excellence…
+> Argument #3 misrepresents the nature of veganism. As with any moral standpoint perfection is not expected. Veganism, and the ideal of a world without exploitation and cruelty, is both logical and possible.
