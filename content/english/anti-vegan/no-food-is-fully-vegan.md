@@ -11,33 +11,104 @@ weight: 5
 
 > It's impossible to have completely vegan food. Fertilizers are derived from animal waste and bones, pesticides are used on crops to kill insects, bees are kept in hives to pollinate almonds, worms are killed by tilling fields. All food involves death.
 
+This can be unpacked as three different arguments:
+
+1. You eat foods that are not completely vegan therefore your claim that animal exploitation is morally wrong is false.
+
+2. You accept the deaths of some animals to produce your foods of preference. This is morally indistinguishable from the deaths that occur to produce my foods of preference.
+
+3. Veganism is logically impossible - it is impossible to produce food without exploiting animals. 
+
 # Rebuttal
 
-## Quick Response
+## Quick Responses
 
-> That's completely correct, it is almost impossible to avoid being complicit in suffering with our current food chain. Veganism is a way of living which seeks to exclude, as far as is possible and practicable, all forms of exploitation of, and cruelty to, animals [...]. Raising an animal from forcible impregnation to their untimely death merely to satisfy our desire for taste is not comparable to deaths we have no way of avoiding as consumers.  
+> (Argument #1) This argument is an appeal to hypocrisy (*the Tu quoque fallacy*). That I fail to meet my own standards is nothing more than a personal failure and does not invalidate my principles. My failure to pick up a piece of litter that I've dropped does not invalidate my claim that littering is wrong. That I may fall short and in some way be complicit in an animal's death in no way invalidates the moral claim that the exploitation of animals is wrong.
+> 
+> (Argument #2) "It is wrong to inflict unnecessary death on nonhuman animals and it is especially wrong , pro tanto, to do so intentionally. Where one must choose between bringing about death as a side-effect, one should, all else equal, pursue the latter course of action".  
+> - The Intentional Killing of Field Animals and Ethical Veganism *by*  Joe Wills
+> 
+> (Argument #3) "While not logically impossible, it is *almost impossible* to avoid being complicit in suffering with our current food chain. Veganism is a way of living which seeks to exclude, *as far as is possible and practicable*, all forms of exploitation of, and cruelty to, animals [...]. Raising an animal from forcible impregnation to their untimely death merely to satisfy our desire for taste is not comparable to deaths we have little way of avoiding as consumers."  
 > - Definition of veganism verbatim from [The Vegan Society](https://www.vegansociety.com/go-vegan/definition-veganism)
 
 ## Detail - Analytic
 
-### Intention vs Accident
+### Argument #1 *Moral Consistency*
 
-Ed Winters (aka Earthling Ed) hits the nail on the head with zir comparison in zir book '30 Non Vegan Excuses'.
+Trying to trip vegans up by exposing real or imagined inconsistencies is common rhetoric. The reality is that vegans (being human) are typically not perfect. Vegans are subject to the constraints of time, money, knowledge, availability of resources, and a million other factors. 
 
-> If someone was driving their car and they accidentally hit a dog, that would not be the same as if they purposefully drove after the dog until they ran them over.  
-> - Ed Winters - 30 Non Vegan Excuses - p72
+That a vegan may fail in no way invalidates the moral claim that the exploitation of animals is wrong.
 
-Intention matters in the morality of your actions. The unintentional deaths of earthworms when tilling, or field mice when harvesting are not _necessary_ for the production of crops, it is not the intention to kill animals when harvesting crops. It is the definitionally the intention when raising animals for slaughter.
+> Argument #1 is a fallacy (the appeal to hypocrisy).
 
-This distinction falls down somewhat when we consider pesticides, animal-based fertilizers, and beekeeping for pollination. This is why some vegans seek out foods from [vegan farms](https://www.viva.org.uk/what-we-do/vegan-farming). Ultimately however each person's 'possible and practicable' is a line they have to draw for themselves and this may not be within the means or motivations of every vegan. It is not necessary to be perfect to be vegan.
+### Argument #2 *Intent & Knowledge*
 
-### Moral Consistency
+Vegans must eat and, where there are limited options, follow the path of least harm.
 
-Trying to trip vegans up by exposing real or imagined inconsistencies is a common avenue of argument against veganism. The reality is that vegans (being human) are typically not perfect. Vegans are subject to the constraints of time, money, knowledge, and availability of resources amongst a million other factors. We quoted the definition of veganism in our quick response but it's so important it bears repeating: 
 
-> Veganism is a way of living which seeks to exclude, as far as is possible and practicable, all forms of exploitation of, and cruelty to, animals  for food, clothing or any other purpose.  
+>A golden rule of moral philosophy is, "all things being equal you ought to choose the action that does the least harm”.
+
+While it is true that some animals do die in the production and harvesting of crops vegans do not ‘accept these deaths’ without question.  Where a crop farmer fails to *exercise due diligence to minimize the harm* and deaths occur, an obligation falls on vegans *as far as is possible and practicable* to seek alternatives (e.g. moving towards organic vegetables, buying from vegan farms, avoiding mono-cultures etc.)
+
+> ### Doctrine of Double Effect
+> - the nature of the act is itself good, or at least morally neutral;  
+> - the individual intends the good effect and does not intend the bad effect, either as a means to the good or as an end in itself;  
+> - the good effect outweighs the bad effect in circumstances sufficiently grave to justify causing the bad effect, and the individual exercises due diligence to minimize the harm.  
+> 
+> *from* Double-Effect Reasoning: Doing Good and Avoiding Evil *by* T. A. Cavanaugh.
+ 
+While cattle farmer's *intend* to kill the cattle they raise, the crop farmer's intention is primarily to grow crops. Any deaths that may occur during crop harvest are a side-effect of a morally neutral act. 
+
+- A counter might follow that 'regardless of intention or acceptance the animals die, so I might as well get my meat.'
+
+This counter argument fails to take into account an individual's foreknowledge of what will occur.
+
+* A cattle farmer has foreknowledge that the cattle will be slaughtered and intends for them to be slaughtered.
+
+* A crop farmer has foreknowledge that some animals (e.g rabbits, birds, rodents) may be killed during harvest but the intention is only to harvest crops. (The crop farmer would far prefer the animals were not in the field).
+ 
+Consider the following thought experiment:
+
+> You are controlling a tram. As long as you hold a lever the tram will continue on its current track.  However, you know there are numerous people on the track ahead who will be killed if the tram continues.  
+> If you release the lever the tram will change tracks. You suspect there are *very probably* people on the other track as well.
+
+1. Continuing to hold the lever is to kill with both foreknowledge and intent.
+
+2. Releasing the lever is to have the foreknowledge that some people might be killed.
+
+Knowingly risking some deaths is morally preferable to knowingly killing with intent.
+
+Humans hold a lever which results in the intentional deaths of millions of animals. It's time to let go of the lever; the foreknowledge that some animals will probably die as a result of crop farming is not an argument against veganism.
+
+> Vegans do not accept the deaths of some animals to produce our foods of preference. While vegans have foreknowledge that this may occur it is not the intent and, wherever possible, steps are taken to reduce and mitigate this harm. 
+> 
+>  There is considerable moral difference between slaughtering animals with intent and deaths that occur as an unintentional side effect of crop farming, even where we have foreknowledge the deaths might occur. 
+
+
+### Argument #3 *Definition of Veganism*
+
+The definition of veganism is in our Quick Response but it's so important it's worth repeating: 
+
+> Veganism is a way of living which seeks to exclude, as far as is possible and practicable, all forms of exploitation of, and cruelty to, animals for food, clothing or any other purpose.  
 > - [The Vegan Society - Definition of Veganism](https://www.vegansociety.com/go-vegan/definition-veganism)
 
-Each person's 'possible and practicable' is a line they have to draw for themselves. It is not necessary to be perfect to be vegan. 
+#### * What does *possible and practicable* mean?
 
-This is not an excuse to have a steak when there isn't a vegan option at the restaurant. Eating a boring salad is a very minor discomfort in comparison to choosing to endorse the horrors animals face in slaughterhouses. It is only that it is necessary to recognise that it is nearly impossible to without cruelty to animals or people while still participating in a 21st century society, and to forgive ourselves for the things we cannot avoid.
+This is not an excuse to have a steak when there isn't a vegan option at the restaurant. Eating a boring salad is a very minor discomfort by comparison with the horrors that animals face in slaughterhouses. 
+
+Nor is it an excuse to not learn those pesky [E-numbers] ({{< ref "../shopping/e-numbers" >}}). The mistreatment of animals does not compare to committing these to memory, or carrying around the TalkVeganToMe App.
+
+
+
+> *Possible and practicable* is NOT a line vegans draw for themselves to mitigate some perceived inconvenience. This would reduce veganism to some form of moral relativism.   
+> Rather, it is a reference to the threshold a ‘rational person’ would set; ‘all other things being equal’. 
+
+
+
+Where vegans meet or exceed this threshold they act morally (in this regard). 
+
+Where vegans fail to meet this threshold they should acknowledge falling short. It's necessary to recognise that it is nearly impossible to exist without cruelty to animals or people while still participating in a 21st century society, and to forgive ourselves for the things we cannot avoid.
+
+
+
+> Argument #3 misrepresents the nature of veganism. As with any moral standpoint perfection is not expected. However, there is the expectation of striving towards excellence…
