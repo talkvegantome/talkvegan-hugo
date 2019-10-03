@@ -14,17 +14,29 @@ See our article: [Soy contains estrogen]({{<ref "/facts/soy-contains-estrogen">}
 
 # Reality
 
-> Soy contains phytoestrogens which are structurally similar to human estrogen (specifically *isoflavones*) which may or may not have negative effects in high enough dosages.  
-> It is _unlikely_ that you will ingest a high enough dosage to affect your health as part of a balanced diet provided you do not have any special circumstances (e.g. hypothyroidism, infancy, etc.).  
-> All articles on the topic caveat their conclusions with: More research is needed.  
-> Ensure that you vary your protein sources and consult your dietitian for special circumstances (e.g. hypothyroidism, infancy, etc.)  
-> - TalkVeganToMe's layman's understanding from surveying the material available online
+> 1. Soy contains phytoestrogens which are structurally similar to human estrogen (specifically *isoflavones*) which may or may not have negative effects in high dosages (see *[Soy contains estrogen]({{<ref "/facts/soy-contains-estrogen">}})*).  
+> 2. An average vegetarian isoflavone ingestion is "7-12mg per day" (see *Soy, Soy Foods and Their Role in Vegetarian Diets - 2018* below).  
+> 4. "[T]o have the *beneficial* effects of soy isoflavones, intake should be at least of 60-100 mg per day" see *Soy, Soy Foods and Their Role in Vegetarian Diets - 2018* below)
+> 5. Speculation: It is reasonable to assume a similar dosage is required to see any negative effects.  
+> 6. It is _unlikely_ that you will ingest a high enough dosage to affect your health as part of a balanced diet provided you do not have any special circumstances (e.g. hypothyroidism, infancy, etc.) (see *Soy, Soy Foods and Their Role in Vegetarian Diets - 2018* below).  
+> 7. All articles on the topic caveat their conclusions with: 'more research is needed'.  
+> 8. Ensure that you vary your protein sources and consult your dietitian for special circumstances (e.g. hypothyroidism, infancy, etc.) see *Soy, Soy Foods and Their Role in Vegetarian Diets - 2018* below.  
+>  
+> \- TalkVeganToMe's layman's understanding from surveying the material available online
 
-There is an *huge* amount of information available on the topic (more than 2000 soy-related peer-reviewed articles are published annually ([Soy and Health Update - Nutrients 2016](http://web.archive.org/web/20190923193109/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5188409/))).   
+
+# Studies
+
+There is an *huge* amount of information available on the topic, more than 2000 soy-related peer-reviewed articles are published annually [Soy and Health Update - Nutrients 2016](http://web.archive.org/web/20190923193109/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5188409/).   
 Those which point to negative health effects of soy usually have extremely small sample sizes, and extremely high dosages (see *Showing Risk* below).   
 Those which suggest that there is no evidence of negative outcomes caveat these conclusions with the "a [lack] of long term data on soy consumption in Western countries". 
 
-## Showing Risk 
+We include below select quotes from a number of articles for you to quickly educate yourself on the broad scientific position regarding soy in various respects.
+
+## Suggesting Risk 
+
+### Breast Cancer
+
 
 ### Male Fertility
 
@@ -40,7 +52,7 @@ Those which suggest that there is no evidence of negative outcomes caveat these 
 
 **Note:** This is a study of a single person which has not been replicated in any other study we have seen.
 
-## Showing Absence of Risk
+## Suggest Absence of Risk or Absence of Conclusive Data
 
 ### Breast Cancer
 > The available human studies do not indicate that an isoflavone exposure as reported in the thoroughly studied Asian population or as investigated in clinical studies (i.e., about 100 mg/day) negatively influences breast cancer risk or the thyroid hormone system in healthy women. However, the SKLM points out that particular attention should be given to the susceptible risk groups. These include people with an iodine deficiency4 (especially during pregnancy), (subclinical) hypothyroidism, and/or (congenital) thyroid dysfunction as well as women with breast cancer or with a history of breast cancer.  
@@ -79,6 +91,7 @@ infant formula.
 ### Overall
 
 #### Soy Isoflavones: A Safety Review - 2003
+> A recent assessment from the Naturopathic University in Washington State found intakes [of isoflavones] of 14.8 mg/day in vegetarians. (p4) [...]  
 >  Whereas results in some studies are limited or conflicting, when viewed in its entirety, the current literature supports the safety of isoflavones as typically consumed in diets based on soy or containing soy products.  
 > - [Soy Isoflavones: A Safety Review - 2003](http://web.archive.org/web/20191002184755/https://www.researchgate.net/profile/Melody_Harwood2/publication/10855804_Soy_Isoflavones_A_Safety_Review/links/5bd721a8a6fdcc3a8dae5fec/Soy-Isoflavones-A-Safety-Review.pdf?origin=publication_detail)
 - [Effects of Soy on Health Outcomes - 2005](https://web.archive.org/web/20170201070904/https://archive.ahrq.gov/downloads/pub/evidence/pdf/soyeffects/soy.pdf)
@@ -86,10 +99,11 @@ infant formula.
 
 #### Soy, Soy Foods and Their Role in Vegetarian Diets - 2018
 
+> Vegetarians had the major intake among the Western people, with 7-12 mg per day of total isoflavones. [...]  
 > Overall, the low content of bioactive compounds in second generation soy foods [(e.g. soy based mock meats)] and moderate amounts in traditional soy preparations offer modest health benefits with very limited risk for potential adverse health effects. At the same time, to have the beneficial effects of soy isoflavones, intake should be at least of 60-100 mg per day, at present not easily reached in Western countries. [...]  
 > Despite the high intakes in Asian countries, there is still a paucity of long term data on soy consumption in Western countries. Currently, the use of soy foods in infancy, including soy-based infant formulas, was not linked to adverse events. However, absence of evidence is not an evidence of absence. [...]  
 > The transfer of data from in vitro and animal model to human health, as well as clinical trial results with isolate or concentrate fractions from soy, as well diverse nutraceuticals supplements, must be carefully interpreted. The disturbing effect of soy on thyroid hormones in subclinical hypothyroidism has been debated but it seems to be a mere goitrogenic [(interfering with iodine absorption)] mechanism, so it is crucial to satisfy adequate intakes of iodine from foods or by fortification, especially in vegetarians.  
-> The use of various protein sources could be useful for avoiding a monochromatic nutrition in vegetarians, widely based on soy [13]. Key nutrients in soy (such as proteins, minerals, vitamins and phytochemicals) are also shared by others plant foods, so it is unnecessary in vegetarian diet to always choose soy and soy foods. Seeds, nuts, cereals and other pulses can be good sources of protein that can be alternatively chosen to obtain a nutritionally adequate and healthy diet, as proposed in VegPlate method [590] and the use of soy can
+> The use of various protein sources could be useful for avoiding a monochromatic nutrition in vegetarians, widely based on soy. Key nutrients in soy (such as proteins, minerals, vitamins and phytochemicals) are also shared by others plant foods, so it is unnecessary in vegetarian diet to always choose soy and soy foods. Seeds, nuts, cereals and other pulses can be good sources of protein that can be alternatively chosen to obtain a nutritionally adequate and healthy diet, as proposed in VegPlate method and the use of soy can
 be limited to personal taste and habits.
 > [Soy, Soy Foods and Their Role in Vegetarian Diets - Nutrients - 2018](https://web.archive.org/web/20191002195620/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5793271/pdf/nutrients-10-00043.pdf/)
 
@@ -133,18 +147,18 @@ As a result, when researching this article, we excluded the following articles f
 
 ## Vegan Society & British Association of Dietitians
 
-> Evidence suggests that soya is not a threat to our health and is in fact a reliable and healthy protein source.
+> Evidence suggests that soya is not a threat to our health and is in fact a reliable and healthy protein source.  
 > - [Vegan Society - General FAQs](https://web.archive.org/web/20191002203547/https://www.vegansociety.com/resources/general-faqs)
 
-No citations are provided on this page, so TalkVeganToMe reached out to The British Association of Dietitians is one of The Vegan Society's main sources for their official stance.
+TalkVeganToMe reached out to The Vegan Society to enquire after the sources for the evidence. The Vegan Society replied incredibly promptly and directed us to the The British Association of Dietitian's as their source.
 
 > There is now scientific agreement that the controversy around isoflavones’ potential to have bad side effects in humans is fuelled only by findings from laboratory or animal studies using pure isoflavones or high doses. It is well established that animals metabolise isoflavones in a different and much more efficient way to humans and results from such studies cannot be compared to any human outcomes. Additionally, using high doses of pure isoflavones cannot be compared to consuming isoflavones from whole soya foods as they provide lower quantities and are a combination of many biologically active molecules. Comprehensive reviews by the European Food Safety Authority, World Cancer Research Fund and the World Health Organisation all conclude that soya foods as part of a healthy balanced diet are safe.  
 > - [British Dietetic Association - Soya and health - the basics - 2017](https://web.archive.org/web/20190928091728/https://www.bda.uk.com/foodfacts/soya2017.pdf)
 
-The [additional fact sheet](https://web.archive.org/web/20190928101207/https://www.bda.uk.com/foodfacts/food_fact_sheet_information_sources/soya2017infosources) includes
+The [supplementary information sheet](https://web.archive.org/web/20190928101207/https://www.bda.uk.com/foodfacts/food_fact_sheet_information_sources/soya2017infosources) includes citations for: 
 
 * One article from the WHO called "[Protein and Amino Acid Requirements in Human Nutrition](https://web.archive.org/web/20190928095834/https://apps.who.int/iris/bitstream/handle/10665/43411/WHO_TRS_935_eng.pdf?ua=1)" which doesn't seem to make a healthfulness claim for soy except as a source of protein.
-* One article from the World Cancer Research Fund titled "[Food, Nutrition, Physical Activity, and the Prevention of Cancer: a Global Perspective](https://web.archive.org/web/20160716163208/http://discovery.ucl.ac.uk/4841/1/4841.pdf)" that talks a lot about the potential cancer-curing effects of isoflavones but does not appear to talk about the risks or evidence of a lack thereof.
+* One article from the World Cancer Research Fund titled "[Food, Nutrition, Physical Activity, and the Prevention of Cancer: a Global Perspective](https://web.archive.org/web/20160716163208/http://discovery.ucl.ac.uk/4841/1/4841.pdf)" that talks a lot about the potential cancer-curing effects of isoflavones but does not appear to talk about the potential for adverse effects.
 * No articles from the EFSA. The EFSA has published two articles pertaining to the safety of soy, one studying [peri and post menopausal women](http://web.archive.org/web/20190928155801/https://dyz6l42c0kkca.cloudfront.net/articles/downloaded/wiley/1f92a95cd5b6df28fc372d2e27d9a41e23263ee9140a6051246fec4015b2d8d5.pdf?response-content-disposition=attachment%3Bfilename%3D%22%28ANS%29-2015-EFSA_Journal.pdf%22&Expires=1569801600&Signature=ebEOZ47SMQnacLWjKUWeIBRuzmmi6xmSFu7Dx2OqPV5S1dWO9UjM5Ac1Q5dvOYa3tx8fLs5lrgS2HChGWDgVdnMA0xaJwe~z6WhaMNTIwGiwhNI2R08iT0AscmeshgHegohglT1EXUVYzejfOM9lWMWPM2Fau~n9fBB8vxYhAOU_&Key-Pair-Id=APKAI2AQJBOTGLBL6N3A), and another pertaining to soy's [potential positive effect on cardiovascular health by way of cholesterol](http://web.archive.org/web/20190928155912/https://dyz6l42c0kkca.cloudfront.net/articles/downloaded/wiley/2c63f5b65d7abd7418a3603b4ae0659cd09a499d69897753f36b2bcf65a5fc3f.pdf?response-content-disposition=attachment%3Bfilename%3D%22%28NDA%29-2011-EFSA_Journal.pdf%22&Expires=1569801600&Signature=MqiOMdJ7zFf-MIr91LNxxY6b5RjXaKCTQQ0OGOOUxRxHYoE4SIGPSXlzUmwOXb8JO9svBHim5PyEegiElR5ZCrnUY4gs1DXmzZokYUOWbiQQucqd8Q~Ed7NNxZqUu6s3CyNb1cyRgIOLhOZhLwi2rIarwmoeBEeG~0kGF9eoWv0_&Key-Pair-Id=APKAI2AQJBOTGLBL6N3A).
 
-As none of these really qualify as comprehensive reviews concluding that soya foods are safe as part of a healthy balanced diet as suggested by the BDA, we are not listing the Vegan Society, or the BDA's assertion on this topic due to a lack of obvious primary sources.  
+We have reached out to the BDA (2019-09-30) to understand the assessment of the sources from the EFSA, WHO, and WCRF. 
