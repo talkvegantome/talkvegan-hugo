@@ -92,7 +92,7 @@ The definition of veganism is in our Quick Response but it's so important it's w
 > Veganism is a way of living which seeks to exclude, as far as is possible and practicable, all forms of exploitation of, and cruelty to, animals for food, clothing or any other purpose.  
 > - [The Vegan Society - Definition of Veganism](https://www.vegansociety.com/go-vegan/definition-veganism)
 
-The claim that ‘veganism is logically impossible' misrepresents the nature of veganism. As with any moral standpoint perfection is not expected. Rather, vegans strive toward the ideal of a world without exploitation and cruelty, however, it is necessary to recognise that it is nearly impossible to exist without cruelty to animals or people while still participating in a 21st century society, and to forgive ourselves for the things we cannot avoid. 
+The claim that ‘veganism is logically impossible' misrepresents the nature of veganism. As with any moral standpoint perfection is not expected. Rather, vegans strive toward the ideal of a world without exploitation and cruelty. However, it is necessary to recognise that it is nearly impossible to exist without cruelty to animals or people while still participating in a 21st century society, and to forgive ourselves for the things we cannot avoid. 
 
 To exist, as far as is possible and practicable*, without exploitation of, or cruelty to, animals is both logical and possible.
 
