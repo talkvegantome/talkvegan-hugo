@@ -92,6 +92,10 @@ The definition of veganism is in our Quick Response but it's so important it's w
 > Veganism is a way of living which seeks to exclude, as far as is possible and practicable, all forms of exploitation of, and cruelty to, animals for food, clothing or any other purpose.  
 > - [The Vegan Society - Definition of Veganism](https://www.vegansociety.com/go-vegan/definition-veganism)
 
+The claim that ‘veganism is logically impossible' misrepresents the nature of veganism. As with any moral standpoint perfection is not expected. Rather, vegans strive toward the ideal of a world without exploitation and cruelty, however, it is necessary to recognise that it is nearly impossible to exist without cruelty to animals or people while still participating in a 21st century society, and to forgive ourselves for the things we cannot avoid. 
+
+To exist, as far as is possible and practicable*, without exploitation of, or cruelty to, animals is both logical and possible.
+
 #### * What does *possible and practicable* mean?
 
 This is not an excuse to have a steak when there isn't a vegan option at the restaurant. Eating a boring salad is a very minor discomfort by comparison with the horrors that animals face in slaughterhouses. 
@@ -100,13 +104,10 @@ Nor is it an excuse to not learn those pesky [E-numbers] ({{< ref "../shopping/e
 
 
 
-> *Possible and practicable* is NOT a line vegans draw for themselves to mitigate some perceived inconvenience. This would reduce veganism to some form of moral relativism.   
-> Rather, it is a reference to the threshold a ‘rational person’ would set; ‘all other things being equal’. 
+> *Possible and practicable* is NOT a line vegans draw for themselves to mitigate some perceived inconvenience. it is a reference to the threshold a ‘rational person’ would set; ‘all other things being equal’. 
 
+This appeal to a rational person is not an excuse to gatekeep veganism by arguing against other peoples' decisions. Remember you do not have all the facts when some-one relays a story about a time they had to make a difficult decision.
 
+Moral decisions are not arbitrary, but neither is it your role to act as jury for other people's decisions. The 'rational person' clause simply provides a medium for academic discussions regarding veganism.
 
-Vegans strive to meet or exceed this threshold and bring an end to the mistreatment of animals.
-
-Vegans may at times fail to meet this threshold. However,  it is necessary to recognise that it is nearly impossible to exist without cruelty to animals or people while still participating in a 21st century society, and to forgive ourselves for the things we cannot avoid.
-
-> Argument #3 misrepresents the nature of veganism. As with any moral standpoint perfection is not expected. Veganism, and the ideal of a world without exploitation and cruelty, is both logical and possible.
+No-one can take your v-card away, and you cannot take anyone else's away either.
