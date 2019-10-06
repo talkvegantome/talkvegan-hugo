@@ -61,7 +61,7 @@ In other words a cattle farmer *intends* to kill the cattle, the crop farmer's i
 
 - A counter might follow that 'regardless of intention or acceptance the animals die, so I might as well get my meat.'
 
-This counter argument fails to take into account an individual's foreknowledge of what will occur.
+This counter argument fails to take into account an individual's knowledge of what will occur.
 
 * A cattle farmer knows that the cattle will be slaughtered and intends for them to be slaughtered.
 
@@ -72,17 +72,17 @@ Consider the following thought experiment:
 > You are controlling a tram. As long as you hold a lever the tram will continue on its current track.  However, you know there are people on the track ahead who will be killed if the tram continues.  
 > If you release the lever the tram will change tracks. You suspect there are people on the other track as well.
 
-1. Continuing to hold the lever is to kill with both foreknowledge and intent.
+1. Continuing to hold the lever is to kill with both certainty and intent.
 
 2. Releasing the lever is to know that some people *might* be killed.
 
 Knowingly risking some deaths is morally preferable to killing with certainty and intent.
 
-Humans hold a lever which results in the intentional deaths of millions of animals. It's time to let go of the lever; the foreknowledge that some animals will probably die as a result of crop farming is not an argument against veganism.
+Humans hold a lever which results in the intentional deaths of millions of animals. It's time to let go of the lever; the knowledge that some animals will probably die as a result of crop farming is not an argument against veganism.
 
 > Vegans do not accept the deaths of some animals to produce our foods of preference. While vegans know this may occur it is not the intent and, wherever possible, steps are taken to reduce and mitigate this harm. 
 > 
->  There is considerable moral difference between slaughtering animals with intent and deaths that occur as an unintentional side effect of crop farming, even where we have foreknowledge the deaths might occur. 
+>  There is considerable moral difference between slaughtering animals with intent and deaths that occur as an unintentional side effect of crop farming, even where we have know the deaths might occur. 
 
 
 ### Argument #3 *Definition of Veganism*
