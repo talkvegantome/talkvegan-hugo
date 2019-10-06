@@ -106,7 +106,7 @@ Nor is it an excuse to not learn those pesky [E-numbers] ({{< ref "../shopping/e
 
 > *Possible and practicable* is NOT a line vegans draw for themselves to mitigate some perceived inconvenience. it is a reference to the threshold a ‘rational person’ would set; ‘all other things being equal’. 
 
-This appeal to a rational person is not an excuse to gatekeep veganism by arguing against other peoples' decisions. Remember you do not have all the facts when some-one relays a story about a time they had to make a difficult decision.
+This appeal to a rational person is not an excuse to gatekeep veganism by arguing against other peoples' decisions. Remember you do not have all the facts when someone relays a story about a time they had to make a difficult decision.
 
 Moral decisions are not arbitrary, but neither is it your role to act as jury for other people's decisions. The 'rational person' clause simply provides a medium for academic discussions regarding veganism.
 
