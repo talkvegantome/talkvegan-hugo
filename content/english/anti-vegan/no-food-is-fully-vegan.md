@@ -100,7 +100,7 @@ To exist, as far as is possible and practicable*, without exploitation of, or cr
 
 This is not an excuse to have a steak when there isn't a vegan option at the restaurant. Eating a boring salad is a very minor discomfort by comparison with the horrors that animals face in slaughterhouses. 
 
-Nor is it an excuse to not learn those pesky [E-numbers]({{< ref "../shopping/e-numbers" >}}). The mistreatment of animals does not compare to committing these to memory, or carrying around the TalkVeganToMe App.
+Nor is it an excuse to not learn those pesky [E-numbers]({{< ref "/shopping/e-numbers" >}}). The mistreatment of animals does not compare to committing these to memory, or carrying around the TalkVeganToMe App.
 
 
 
