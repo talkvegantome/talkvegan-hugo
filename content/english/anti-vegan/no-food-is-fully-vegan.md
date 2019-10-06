@@ -25,7 +25,7 @@ This can be unpacked as three different arguments:
 
 > (Argument #1) This argument is an appeal to hypocrisy (*the Tu quoque fallacy*). That I fail to meet my own standards is nothing more than a personal failure and does not invalidate my principles. My failure to pick up a piece of litter that I've dropped does not invalidate my claim that littering is wrong. That I may fall short and in some way be complicit in an animal's death in no way invalidates the moral claim that the exploitation of animals is wrong.
 > 
-> (Argument #2) "It is wrong to inflict unnecessary death on nonhuman animals and it is especially wrong, pro tanto, to do so intentionally. Where one must choose between bringing about death as a side-effect, one should, all else equal, pursue the latter course of action".  
+> (Argument #2) "It is wrong to inflict unnecessary death on nonhuman animals and it is especially wrong ... to do so intentionally. Where one must choose between bringing about death as a side-effect, one should, all else equal, pursue the latter course of action".  
 > - The Intentional Killing of Field Animals and Ethical Veganism *by*  Joe Wills
 > 
 > (Argument #3) "While not logically impossible, it is *almost impossible* to avoid being complicit in suffering with our current food chain. Veganism is a way of living which seeks to exclude, *as far as is possible and practicable*, all forms of exploitation of, and cruelty to, animals [...]. Raising an animal from forcible impregnation to their untimely death merely to satisfy our desire for taste is not comparable to deaths we have little way of avoiding as consumers."  
@@ -48,7 +48,7 @@ Vegans must eat and, where there are limited options, follow the path of least h
 
 >A golden rule of moral philosophy is, "all things being equal you ought to choose the action that does the least harm”.
 
-While it is true that some animals do die in the production and harvesting of crops vegans do not ‘accept these deaths’ without question.  Where a crop farmer fails to *exercise due diligence to minimize the harm* and deaths occur, an obligation falls on vegans *as far as is possible and practicable* to seek alternatives (e.g. moving towards organic vegetables, buying from [vegan farms] (https://www.viva.org.uk/what-we-do/vegan-farming), avoiding mono-cultures etc.)
+While it is true that some animals do die in the production and harvesting of crops vegans do not ‘accept these deaths’ without question.  Where a crop farmer fails to *exercise due diligence to minimize the harm* and deaths occur, an obligation falls on vegans *as far as is possible and practicable* to seek alternatives (e.g. moving towards organic vegetables, buying from [vegan farms](https://www.viva.org.uk/what-we-do/vegan-farming), avoiding mono-cultures etc.)
 
 > ### Doctrine of Double Effect
 > - the nature of the act is itself good, or at least morally neutral;  
@@ -69,18 +69,18 @@ This counter argument fails to take into account an individual's foreknowledge o
  
 Consider the following thought experiment:
 
-> You are controlling a tram. As long as you hold a lever the tram will continue on its current track.  However, you know there are numerous people on the track ahead who will be killed if the tram continues.  
-> If you release the lever the tram will change tracks. You suspect there are *very probably* people on the other track as well.
+> You are controlling a tram. As long as you hold a lever the tram will continue on its current track.  However, you know there are people on the track ahead who will be killed if the tram continues.  
+> If you release the lever the tram will change tracks. You suspect there are people on the other track as well.
 
 1. Continuing to hold the lever is to kill with both foreknowledge and intent.
 
-2. Releasing the lever is to have the foreknowledge that some people might be killed.
+2. Releasing the lever is to know that some people *might* be killed.
 
-Knowingly risking some deaths is morally preferable to knowingly killing with intent.
+Knowingly risking some deaths is morally preferable to killing with certainty and intent.
 
 Humans hold a lever which results in the intentional deaths of millions of animals. It's time to let go of the lever; the foreknowledge that some animals will probably die as a result of crop farming is not an argument against veganism.
 
-> Vegans do not accept the deaths of some animals to produce our foods of preference. While vegans have foreknowledge that this may occur it is not the intent and, wherever possible, steps are taken to reduce and mitigate this harm. 
+> Vegans do not accept the deaths of some animals to produce our foods of preference. While vegans know this may occur it is not the intent and, wherever possible, steps are taken to reduce and mitigate this harm. 
 > 
 >  There is considerable moral difference between slaughtering animals with intent and deaths that occur as an unintentional side effect of crop farming, even where we have foreknowledge the deaths might occur. 
 
@@ -100,7 +100,7 @@ To exist, as far as is possible and practicable*, without exploitation of, or cr
 
 This is not an excuse to have a steak when there isn't a vegan option at the restaurant. Eating a boring salad is a very minor discomfort by comparison with the horrors that animals face in slaughterhouses. 
 
-Nor is it an excuse to not learn those pesky [E-numbers] ({{< ref "../shopping/e-numbers" >}}). The mistreatment of animals does not compare to committing these to memory, or carrying around the TalkVeganToMe App.
+Nor is it an excuse to not learn those pesky [E-numbers]({{< ref "../shopping/e-numbers" >}}). The mistreatment of animals does not compare to committing these to memory, or carrying around the TalkVeganToMe App.
 
 
 
