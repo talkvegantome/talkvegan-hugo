@@ -82,7 +82,7 @@ Humans hold a lever which results in the intentional deaths of millions of anima
 
 > Vegans do not accept the deaths of some animals to produce our foods of preference. While vegans know this may occur it is not the intent and, wherever possible, steps are taken to reduce and mitigate this harm. 
 > 
->  There is considerable moral difference between slaughtering animals with intent and deaths that occur as an unintentional side effect of crop farming, even where we have know the deaths might occur. 
+>  There is considerable moral difference between slaughtering animals with intent and deaths that occur as an unintentional side effect of crop farming, even where we know the deaths might occur. 
 
 
 ### Argument #3 *Definition of Veganism*
