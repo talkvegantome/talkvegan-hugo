@@ -3,13 +3,13 @@ title: "Pests"
 date: 2019-10-08T06:15:53+13:00
 lastmod: 2019-10-08T06:15:53+13:00
 draft: true
-description: "How to respond to the argument: Veganism fails to adequately address environmental concerns; specifically pest control."
+description: "How to respond to the argument: Veganism fails to adequately address specific environmental concerns; such as pest control."
 weight: 5
 ---
 
 # Argument
 
-> Veganism is often criticised for failing to adequately address environmental concerns; specifically pest control.
+> Veganism is often criticised for failing to adequately address specific environmental concerns; such as pest control.
 
 # Rebuttal
 
