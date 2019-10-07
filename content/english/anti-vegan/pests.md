@@ -22,15 +22,15 @@ weight: 5
 
 It is difficult to interpret how the central tenet of veganism *‘avoid exploitation of and cruelty to animals'* might be applied in complex environmental considerations. 
 
-However, before we try, numerous concepts require unpacking.
+However, before we try, a few concepts require unpacking.
 
 ### 1. Veganism is moral standpoint. 
 
 
-Veganism is not a moral theory.  Veganism is a moral standpoint regarding the (mis)treatment of animals by (most) humans, either directly or by acquiescence. We can’t expect specific moral standpoints to offer complete answers to questions that are fully or partially outside their scope.  That said, there is considerable crossover between environmental and animal concerns so intuitively we expect that vegans ought to hold a position on environmental issues     
+Veganism is not a moral theory.  Veganism is a moral standpoint regarding the (mis)treatment of animals by (most) humans, either directly or by passive acceptance. We can’t expect specific moral standpoints to offer complete answers to questions that are fully or partially outside their scope.  That said, there is considerable crossover between environmental and animal concerns so intuitively we expect that vegans ought to hold a position on environmental issues     
 ### 2. What is a pest?
 
-Pest is commonly defined along the lines of any “small animal which damages crops or food supplies” (Collins) or “any animal or plant detrimental to human concerns” (Wikipedia).  
+Pest is commonly defined along the lines of any “small animal which damages crops or food supplies” ([Collins](https://www.dictionary.com/browse/pest)) or “any animal or plant detrimental to human concerns” ([Wikipedia](https://en.wikipedia.org/wiki/Pest_(organism))).  
 
 > Speciesism is a form of discrimination based on species membership. It involves treating members of one species as morally more important than members of other species even when their interests are equivalent.  
 >  - [Wikipedia](https://en.wikipedia.org/wiki/Speciesism)
@@ -42,21 +42,21 @@ Vegans will NOT accept this deginition of pest as it is 'speciesist’. That an 
 > "A thing is right when it tends to preserve the integrity, stability and beauty of the biotic community. It is wrong when it tends otherwise.”  
 > - Aldo Leopold (1949) [The Land Ethic](https://rintintin.colorado.edu/~vancecd/phil3140/Leopold.pdf) 
 
-Aldo Leopold, the father of environmental ethics, provided a non-speciesist definition of pest when he claimed “A thing is right when it tends to preserve the integrity, stability and beauty of the biotic community. It is wrong when it tends otherwise.”  If we apply this axiom a species is a pest when, regardless of human interest, it upsets the stability of, interrupts the integrity of, or leads to the destruction of the environment.  
+Aldo Leopold, the father of environmental ethics, provided a non-speciesist definition of pest when he claimed “A thing is right when it tends to preserve the integrity, stability and beauty of the biotic community. It is wrong when it tends otherwise.”  If we apply this definition a species is a pest when, regardless of human interest, it upsets the stability of, interrupts the integrity of, or leads to the destruction of the environment.  
 
 Two New Zealand specific examples:
 
 ### Are wild rabbits a pest?
 
-Biosecurity NZ lists rabbits as pests because they ‘compete with livestock, cause extensive damage to farming land, cause public nuisance… 
+[Biosecurity NZ](http://web.archive.org/web/20191007214252/https://www.mpi.govt.nz/protection-and-response/long-term-pest-management/wild-rabbits/) lists rabbits as pests because they ‘compete with livestock, cause extensive damage to farming land, cause public nuisance… 
 
-So, yes, they are annoying to (some) humans but they are not a ‘pest’. The reasons provided by Biosecurity NZ fail under Leopold’s criteria. If wild rabbits are a pest other substantive, non-speciesist, reasons must be provided.
+So, yes, they are annoying to (some) humans but they are not a ‘pest’. The reasons provided by Biosecurity NZ fail under Leopold’s criteria. If wild rabbits are a pest other more substantial, non-speciesist, reasons must be provided.
 
 ### Are possums a pest?
 
 Possums occur in high numbers in NZ, breed fast and face very few predators. Without doubt possums have a major impact on New Zealands native ecosystems.
 
-Biosecurity NZ lists possums as pests, as, “Leaves are the main part of their diet, but possums are opportunistic omnivores. They eat buds, flowers, fruit/berries and nectar, which means they compete with native birds and reptiles for food sources. The growth and life-cycle of a tree or plant is significantly affected when all parts of it are eaten. Possums also have ‘favourites’ such as rātā or kamahi trees, leading to an even greater impact on these species.  …Possums were [also]filmed eating the eggs and chicks of kōkako …  They eat invertebrates, including weta, and are significant predators of New Zealand land snails such as Powelliphanta. They often occupy holes in tree trunks for their nests which would otherwise be used by nesting birds such as kākāriki and saddlebacks. …Researchers using nest-cameras have witnessed … kea nests invaded by stoats and possums in South Westland. ”
+[Department of Conservation](http://web.archive.org/save/https://www.doc.govt.nz/nature/pests-and-threats/animal-pests/possums/) NZ lists possums as pests, as, “Leaves are the main part of their diet, but possums are opportunistic omnivores. They eat buds, flowers, fruit/berries and nectar, which means they compete with native birds and reptiles for food sources. The growth and life-cycle of a tree or plant is significantly affected when all parts of it are eaten. Possums also have ‘favourites’ such as rātā or kamahi trees, leading to an even greater impact on these species.  …Possums were [also]filmed eating the eggs and chicks of kōkako …  They eat invertebrates, including weta, and are significant predators of New Zealand land snails such as Powelliphanta. They often occupy holes in tree trunks for their nests which would otherwise be used by nesting birds such as kākāriki and saddlebacks. …Researchers using nest-cameras have witnessed … kea nests invaded by stoats and possums in South Westland. ”
 
 Here it would seem possums can be defined as a ‘pest species’ that directly impacts the ecosystem, without any reference to human specific interests.
 
