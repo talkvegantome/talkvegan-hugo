@@ -15,7 +15,7 @@ weight: 5
 
 ## Quick Response
 
-> Environmental Ethics is complex and difficult. Even assuming we can reach agreement on the definition of pest it does not automatically follow that humans *ought* to control or eradicate this species.
+> Environmental Ethics is complex and difficult. Even assuming we can reach agreement on the definition of pest it does not automatically follow that humans *ought* to control or eradicate any species.
 
   
 ## Detail - Analytic
@@ -35,14 +35,14 @@ Pest is commonly defined along the lines of any “small animal which damages cr
 > Speciesism is a form of discrimination based on species membership. It involves treating members of one species as morally more important than members of other species even when their interests are equivalent.  
 >  - [Wikipedia](https://en.wikipedia.org/wiki/Speciesism)
 
-Vegans will NOT accept this deginition of pest as it is 'speciesist’. That an animal’s interests conflict with human interests is not, in itself, a reason for defining the animal as a pest or for taking action against them. Where crops are concerned alternative means such as fencing, sonics, and eco-friendly organic practices are available.  
+Vegans will NOT accept this definition of pest as it is 'speciesist’. That an animal’s interests conflict with human interests is not, in itself, a reason for defining the animal as a pest or for taking action against them. Where crops are concerned alternative means such as fencing, sonics, and eco-friendly organic practices are available.  
 
 ## Re-defining ‘pest’.
 
 > "A thing is right when it tends to preserve the integrity, stability and beauty of the biotic community. It is wrong when it tends otherwise.”  
 > - Aldo Leopold (1949) [The Land Ethic](https://rintintin.colorado.edu/~vancecd/phil3140/Leopold.pdf) 
 
-Aldo Leopold, the father of environmental ethics, provided a non-speciesist definition of pest when he claimed “A thing is right when it tends to preserve the integrity, stability and beauty of the biotic community. It is wrong when it tends otherwise.”  If we apply this definition a species is a pest when, regardless of human interest, it upsets the stability of, interrupts the integrity of, or leads to the destruction of the environment.  
+Aldo Leopold, the father of environmental ethics, provides a non-speciesist means to identify problematic species in "The Land Ethic". A species is problematic (a 'pest') when, regardless of human interest, it upsets the stability of, interrupts the integrity of, or leads to the destruction of the environment.  
 
 Two New Zealand specific examples:
 
@@ -56,11 +56,21 @@ So, yes, they are annoying to (some) humans but they are not a ‘pest’. The r
 
 Possums occur in high numbers in NZ, breed fast and face very few predators. Without doubt possums have a major impact on New Zealands native ecosystems.
 
-[Department of Conservation](http://web.archive.org/save/https://www.doc.govt.nz/nature/pests-and-threats/animal-pests/possums/) NZ lists possums as pests, as, “Leaves are the main part of their diet, but possums are opportunistic omnivores. They eat buds, flowers, fruit/berries and nectar, which means they compete with native birds and reptiles for food sources. The growth and life-cycle of a tree or plant is significantly affected when all parts of it are eaten. Possums also have ‘favourites’ such as rātā or kamahi trees, leading to an even greater impact on these species.  …Possums were [also]filmed eating the eggs and chicks of kōkako …  They eat invertebrates, including weta, and are significant predators of New Zealand land snails such as Powelliphanta. They often occupy holes in tree trunks for their nests which would otherwise be used by nesting birds such as kākāriki and saddlebacks. …Researchers using nest-cameras have witnessed … kea nests invaded by stoats and possums in South Westland. ”
+[Department of Conservation NZ](http://web.archive.org/save/https://www.doc.govt.nz/nature/pests-and-threats/animal-pests/possums/) lists possums as pests, as, “Leaves are the main part of their diet, but possums are opportunistic omnivores. They eat buds, flowers, fruit/berries and nectar, which means they compete with native birds and reptiles for food sources. The growth and life-cycle of a tree or plant is significantly affected when all parts of it are eaten. Possums also have ‘favourites’ such as rātā or kamahi trees, leading to an even greater impact on these species.  …Possums were [also]filmed eating the eggs and chicks of kōkako …  They eat invertebrates, including weta, and are significant predators of New Zealand land snails such as Powelliphanta. They often occupy holes in tree trunks for their nests which would otherwise be used by nesting birds such as kākāriki and saddlebacks. …Researchers using nest-cameras have witnessed … kea nests invaded by stoats and possums in South Westland. ”
 
 Here it would seem possums can be defined as a ‘pest species’ that directly impacts the ecosystem, without any reference to human specific interests.
 
 ### To recap
+
+Vegans may still object to the term 'pest'. A species that is out-of-place in the eco-system is, in most cases, due to past meddling by humans and not a fault of the species. 
+
+Vegans can classify a species as problematic by reference to Leopold's non-speciesist definition. However, once identified, any action taken must *as far as is possible and practicable* be neither exploitive nor unnecessarily cruel.
+
+### Warning: Going Philosophical
+
+Sorry, but the next section gets a little academic. The author believes it necessary but it's the sort of stuff that causes some people to gnaw their own limbs off. If you are interested in the philosophical underpinning great... if not you might want to skip ahead to [final thoughts](#ft).  
+
+### Back to the recap.
 
 1. Vegans can classify a species as a pest by reference to a non-speciesist definition.
 2. Even when a species is classified as a pest the tenets of veganism require that they NOT be exploited or treated cruelly
@@ -68,7 +78,7 @@ Here it would seem possums can be defined as a ‘pest species’ that directly 
 
 ### So where to from here? 
 
-While the ideals of veganism are always placed first, an indiidual vegan may embody any number of specific moral theories including, (but not limited to) rights based, utilitarianism, eco-feminism, egoism or virtue theory. A vegan may even take an eclectic approach and combine two or more of these moral theories. 
+While the ideals of veganism are always placed first, an individual vegan may embody any number of specific moral theories including, (but not limited to) rights based, utilitarianism, eco-feminism, egoism or virtue theory. A vegan may even take an eclectic approach and combine two or more of these moral theories. 
 
 This is no different to the environmentalist (or indeed any member of the human species) who all hold differing views about the nature of the good, and of right and wrong acts.
 
@@ -83,7 +93,7 @@ For the sake of simplicity we’ll look at just two positions; the rights-based 
 > "...animals have one right--the right not to be treated as property."  
 > - Gary Francione [Animals--Property or Persons?](https://law.bepress.com/rutgersnewarklwps/art21/)
 
-The ‘rights-based’ vegan may hold a position along the egalitarian lines of Tom Regan or the absolutist position of Gary Francione. Those holding these or similar views might argue that we should not cull a pest species as we simply cannot, and should not, choose to eradicate one species to protect another. Other actions to protect the endangered species may be permissable but violating the possum’s *equal* right to life is not an option.
+The ‘rights-based’ vegan may hold a position along the egalitarian lines of Tom Regan or the abolitionist position of Gary Francione. Those holding these or similar views might argue that we should not cull a pest species as we simply cannot, and should not, choose to eradicate one species to protect another. Other actions to protect the endangered species may be permissable but violating the possum’s *equal* right to life is not an option.
 
 ### Utilitarian-based vegan
 
@@ -92,25 +102,13 @@ The ‘rights-based’ vegan may hold a position along the egalitarian lines of 
 
 The utilitarian vegan may adopt a position similar to Peter Singer *(considered by many the father of the modern animal rights movement)* and argue that the preferences *(interests)* of all affected must be considered equally.
 
-For utilitarians consequences matter most and to *decide to do nothing* is to burden the responsibility for what follows; The consequence of doing is the possum scenario is the death (and possible extinction) of many other creatures a consequence which for them seems, intuitively, wrong.
+For utilitarians consequences matter most and to *decide to do nothing* is to burden the responsibility for what follows. The consequence of doing  nothing in the possum scenario is the death (and possible extinction) of many other creatures; a consequence which for utilitarian-vegans seems intuitively wrong.
 
-Utilitarian-vegans might argue that where the eco-system is at risk maximising preferences (and working toward a consequence that results in the least harm) requires controlling a pest species. 
+Utilitarian-vegans might argue that where the eco-system is at risk, maximising preferences (and working towards a consequence that results in the least harm) requires controlling a pest species. 
 
-The ideal would be some form of biological contraception but, unfortunately, this is some years off. So it would seem that for the utilitarian-vegan it is neither exploitive nor unnecessarily cruel to control (by culling) the possum population in the humanest way possible.
+The ideal would be some form of biological contraception but, unfortunately, this is some years off. So, it would seem that for the utilitarian-vegan it is neither exploitive nor unnecessarily cruel to control (by culling) the possum population in the humanest way possible.
 
-### Final thoughts
-
-These are by no means the only positions a vegan might hold. They do, however, demonstrate that a vegan can address environmental concerns.
-
-While there may be disagreement amongst vegans regarding the moral course of action there is agreement that any actions must not be exploitive or unneccessarily cruel.
-
-This is no different from individuals facing any diffiucult complex moral questions. Conflicting opinions arise over euthanasia, abortion, freedom of speech, and many others.
-
-
-
-
-
-*Please note an extremely simplified version of rights based and utilitarian based ethics is presented here. If interested we suggest the following reading:*
+*Please note that an extremely simplified version of rights based and utilitarian based ethics has been presented here. If you're interested we suggest the following reading:*
 
 > [Animal Liberation](https://www.amazon.co.uk/Animal-Liberation-Peter-Singer/dp/0712674446) by Peter Singer (1995) 
 
@@ -123,5 +121,20 @@ This is no different from individuals facing any diffiucult complex moral questi
 > Also worth reading *(and cited in this article)*
 
 > [The Land Ethic](https://rintintin.colorado.edu/~vancecd/phil3140/Leopold.pdf) (1949) Aldo Leopold  
-> *But be warned*: Leopold holds an enviromentalist position (not a vegan position) 
+> *But be warned*: Leopold holds an enviromentalist position, not a vegan position. 
+
+<a name="ft"></a>
+### Final thoughts
+
+Identifying a species as problematic does not commit a vegan to act in any specific manner. However, that vegans can offer a non-speciesist definition of 'pest' and can argue for a specific approach in dealing with them demonstrates that vegans can address complex environmental concerns.
+
+While there may be disagreement amongst vegans regarding the moral course of action there is agreement that any actions must *as far as is possible and practicable* not be exploitive or unnecessarily cruel.
+
+This is no different from individuals facing any difficult complex moral questions. Conflicts of opinion arise over euthanasia, abortion, freedom of speech, and many others.
+
+
+
+
+
+
 
