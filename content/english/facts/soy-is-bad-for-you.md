@@ -1,7 +1,7 @@
 ---
 title: "Soy is bad for you"
 date: 2019-09-20T16:06:14+01:00
-draft: true
+draft: false
 description: "Is it true that: \"Soy's phytoestrogens can adversely affect humans?\""
 weight: 100
 ---

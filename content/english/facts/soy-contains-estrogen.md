@@ -2,7 +2,7 @@
 title: "Soy Contains Estrogen"
 date: 2019-09-28T19:08:41+01:00
 lastmod: 2019-09-28T19:08:41+01:00
-draft: true
+draft: false
 description: "Is it true that: \"Soy contains estrogen\"?"
 weight: 5
 ---
