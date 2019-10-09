@@ -3,6 +3,10 @@ title: "Food"
 date: 2019-05-16T21:17:04+01:00
 lastmod: 2019-05-16T21:17:04+01:00
 draft: false
+contributors:
+    - 
+        name: sam-martin
+        role: author
 description: "What gotchas can be found in food that looks vegan but is not?"
 weight: 5
 ---

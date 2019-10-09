@@ -3,6 +3,10 @@ title: "Household Items"
 date: 2019-05-16T21:20:38+01:00
 lastmod: 2019-05-16T21:20:38+01:00
 draft: false
+contributors:
+    - 
+        name: sam-martin
+        role: author
 description: "What common household items are not vegan?"
 weight: 5
 ---

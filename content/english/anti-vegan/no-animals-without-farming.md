@@ -3,6 +3,10 @@ title: "Without Farming There'd Be No Animals"
 date: 2019-07-16T18:36:32+01:00
 lastmod: 2019-07-16T18:36:32+01:00
 draft: false
+contributors:
+    - 
+        name: sam-martin
+        role: author
 description: "How to respond to the argument: 'Without farming we would have no animals! You can't want a world with no sheep, cows, pigs, or chickens? Fine they are killed at the end of their lives, but they still get to live!'"
 weight: 5
 ---

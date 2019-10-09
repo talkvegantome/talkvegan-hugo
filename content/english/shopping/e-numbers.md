@@ -3,6 +3,10 @@ title: "E Numbers"
 date: 2019-05-16T21:12:55+01:00
 lastmod: 2019-05-16T21:12:55+01:00
 draft: false
+contributors:
+    - 
+        name: sam-martin
+        role: author
 description: "What E-numbers should you look out for when checking ingredients lists?"
 weight: 5
 ---
@@ -14,11 +18,11 @@ Animal products sometimes hide behind the following E numbers:
 - E120 - Never vegan
 - E322 - Usually vegan
 - E422 - Usually vegan
+- E471 - Usually vegan
 - E542 - Never vegan
 - E631 - Usually not vegan
 - E901 - Never vegan
 - E904 - Never vegan
-- E471 - Usually vegan
 - E920 - Check for further information
 
 ## E120 - Carmine, Cochineal, Crimson Lake, Natural Red

@@ -3,6 +3,10 @@ title: "Toiletries"
 date: 2019-05-16T21:18:51+01:00
 lastmod: 2019-05-16T21:18:51+01:00
 draft: false
+contributors:
+    - 
+        name: sam-martin
+        role: author
 description: "How can you make sure your toiletries are vegan?"
 weight: 5
 ---

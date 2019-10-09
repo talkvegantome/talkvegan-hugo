@@ -3,6 +3,10 @@ title: "Vegan Diet Land Usage"
 date: 2019-05-16T21:24:39+01:00
 lastmod: 2019-05-16T21:24:39+01:00
 draft: false
+contributors:
+    - 
+        name: sam-martin
+        role: author
 description: "Is it true that \"it takes 18x more land to feed a meat eater than a vegan\""
 weight: 100
 ---

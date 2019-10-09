@@ -3,6 +3,10 @@ title: "Organisations"
 date: 2019-06-06T22:21:06+01:00
 lastmod: 2019-06-06T22:21:06+01:00
 draft: false
+contributors:
+    - 
+        name: sam-martin
+        role: author
 description: "A list of vegan and animal rights organisations categories by location."
 weight: 5
 ---
