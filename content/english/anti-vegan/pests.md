@@ -66,9 +66,25 @@ Vegans may still object to the term 'pest'. A species that is out-of-place in th
 
 Vegans can classify a species as problematic by reference to Leopold's non-speciesist definition. However, once identified, any action taken must *as far as is possible and practicable* be neither exploitive nor unnecessarily cruel.
 
+### So where to from here? 
+
+While the ideals of veganism are always placed first, individual vegans will differ on what, if any, actions ought to be taken. This can range from 'do nothing' (*all species have a right to life*) to 'controlling possums' (applying the golden rule of *acting to bring about the least harm*)
+
+This is discussed in more depth in the appendix.
+
+### Final thoughts
+
+Identifying a species as problematic does not commit a vegan to act in any specific manner. However, that vegans can offer a non-speciesist definition of 'pest' and can argue for a specific approach in dealing with them demonstrates that vegans can address complex environmental concerns.
+
+While there may be disagreement amongst vegans regarding the moral course of action there is agreement that any actions must *as far as is possible and practicable* not be exploitive or unnecessarily cruel.
+
+This is no different from individuals facing any difficult complex moral questions. Conflicts of opinion arise over euthanasia, abortion, freedom of speech, and many others.
+
+## Appendix.
+
 ### Warning: Going Philosophical
 
-Sorry, but the next section gets a little academic. The author believes it necessary but it's the sort of stuff that causes some people to gnaw their own limbs off. If you are interested in the philosophical underpinning great... if not you might want to skip ahead to [final thoughts](#ft).  
+Sorry, but the next section gets a little academic. The author believes it necessary but it's the sort of stuff that causes some people to gnaw their own limbs off. If you are interested in the philosophical underpinning great... read on...
 
 ### Back to the recap.
 
@@ -124,13 +140,7 @@ The ideal would be some form of biological contraception but, unfortunately, thi
 > *But be warned*: Leopold holds an enviromentalist position, not a vegan position. 
 
 <a name="ft"></a>
-### Final thoughts
 
-Identifying a species as problematic does not commit a vegan to act in any specific manner. However, that vegans can offer a non-speciesist definition of 'pest' and can argue for a specific approach in dealing with them demonstrates that vegans can address complex environmental concerns.
-
-While there may be disagreement amongst vegans regarding the moral course of action there is agreement that any actions must *as far as is possible and practicable* not be exploitive or unnecessarily cruel.
-
-This is no different from individuals facing any difficult complex moral questions. Conflicts of opinion arise over euthanasia, abortion, freedom of speech, and many others.
 
 
 
