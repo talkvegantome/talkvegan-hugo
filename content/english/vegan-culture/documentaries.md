@@ -59,7 +59,7 @@ We describe documentaries based on:
 **Carnist Palatability:** Uncomfortable 
 
 ## Running for Good
-[Watch on Amazon Prime](https://www.amazon.com/Running-Good-Fiona-Oakes/dp/B07L5PJ728) [Watch on Vimeo](https://vimeo.com/ondemand/runningforgood) 
+[Watch on Amazon Prime](https://www.amazon.com/Running-Good-Fiona-Oakes/dp/B07L5PJ728) - [Watch on Vimeo](https://vimeo.com/ondemand/runningforgood)   
 **Release Date:** 2018   
 **Website:** [runningforgoodfilm.com](https://runningforgoodfilm.com/)  
 **Activism Style:** Uplifting  
