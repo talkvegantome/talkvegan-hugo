@@ -84,11 +84,11 @@ This disagreement over 'how to act' is no different from individuals facing any 
 
 ## Appendix.
 
-### Fitting all this into Ethical Philosophical
+### Fitting all this into Moral Philosophy
 
-The next section discusses ethical theory in some depth.  Dive in if you're interested, but it's the sort of stuff that causes some people to gnaw their own limbs off.
+The next section discusses ethical theory in some depth.  Dive in if you're interested, but it's the sort of stuff that causes some people to gnaw their own limbs off. (*I'm just kidding, honestly... it's safer than Vogon poetry.*)
 
-If you decide to skip this section the arguments above should be enough to serve you in your day-to-day discussions.
+Perhaps, take a break and come back to it later. But If you do decide to skip this section the arguments above should be enough to serve you in your day-to-day discussions.
 
 
 ### Back to the recap.
@@ -135,7 +135,7 @@ The ideal would be some form of biological contraception but, unfortunately, thi
 
 > [The Case for Animal Rights](https://www.amazon.co.uk/Case-Animal-Rights-Tom-Regan/dp/0520243862/) by Tom Regan (2004) 
 
-> [Animals--Property or Persons?](https://web.archive.org/web/20191009200445/https://law.bepress.com/rutgersnewarklwps/art21/) (2004) by Gary Francine 
+> [Animals--Property or Persons?](https://web.archive.org/web/20191009200445/https://law.bepress.com/rutgersnewarklwps/art21/) (2004) by Gary Francione 
 
 > Wikipedia pages for [Peter Singer](https://en.wikipedia.org/wiki/Peter_Singer),  [Tom Regan](https://en.wikipedia.org/wiki/Tom_Regan), [Gary Francione](https://en.wikipedia.org/wiki/Gary_L._Francione)
 
