@@ -3,6 +3,13 @@ title: "No Food Is Fully Vegan"
 date: 2019-06-26T21:09:16+01:00
 lastmod: 2019-06-26T21:09:16+01:00
 draft: false
+contributors:
+    - 
+        name: tery-hardwicke
+        role: author
+    - 
+        name: sam-martin
+        role: editor
 description: "How to respond to the argument: 'It's impossible to have completely vegan food. Fertilizers are derived from animal waste and bones, pesticides are used on crops to kill insects, bees are kept in portable hives to pollinate almonds, worms are killed by tilling fields. All food involves death.'"
 weight: 5
 ---
@@ -23,12 +30,16 @@ This can be unpacked as three different arguments:
 
 ## Quick Responses
 
-> (Argument #1) This argument is an appeal to hypocrisy (*the Tu quoque fallacy*). That I fail to meet my own standards is nothing more than a personal failure and does not invalidate my principles. My failure to pick up a piece of litter that I've dropped does not invalidate my claim that littering is wrong. That I may fall short and in some way be complicit in an animal's death in no way invalidates the moral claim that the exploitation of animals is wrong.
-> 
-> (Argument #2) "It is wrong to inflict unnecessary death on nonhuman animals and it is especially wrong ... to do so intentionally. Where one must choose between bringing about death as a side-effect, one should, all else equal, pursue the latter course of action".  
+#### (Argument #1) 
+> This argument is an appeal to hypocrisy (*the Tu quoque fallacy*). That I fail to meet my own standards is nothing more than a personal failure and does not invalidate my principles. My failure to pick up a piece of litter that I've dropped does not invalidate my claim that littering is wrong. That I may fall short and in some way be complicit in an animal's death in no way invalidates the moral claim that the exploitation of animals is wrong.
+>
+
+#### (Argument #2)
+>  "It is wrong to inflict unnecessary death on nonhuman animals and it is especially wrong ... to do so intentionally. Where one must choose between bringing about death as a side-effect, one should, all else equal, pursue the latter course of action".  
 > - The Intentional Killing of Field Animals and Ethical Veganism *by*  Joe Wills
-> 
-> (Argument #3) "While not logically impossible, it is *almost impossible* to avoid being complicit in suffering with our current food chain. Veganism is a way of living which seeks to exclude, *as far as is possible and practicable*, all forms of exploitation of, and cruelty to, animals [...]. Raising an animal from forcible impregnation to their untimely death merely to satisfy our desire for taste is not comparable to deaths we have little way of avoiding as consumers."  
+
+#### (Argument #3) 
+> "While not logically impossible, it is *almost impossible* to avoid being complicit in suffering with our current food chain. Veganism is a way of living which seeks to exclude, *as far as is possible and practicable*, all forms of exploitation of, and cruelty to, animals [...]. Raising an animal from forcible impregnation to their untimely death merely to satisfy our desire for taste is not comparable to deaths we have little way of avoiding as consumers."  
 > - Definition of veganism verbatim from [The Vegan Society](https://www.vegansociety.com/go-vegan/definition-veganism)
 
 ## Detail - Analytic

@@ -3,6 +3,10 @@ title: "Pests"
 date: 2019-10-08T06:15:53+13:00
 lastmod: 2019-10-08T06:15:53+13:00
 draft: false
+contributors:
+    - 
+        name: tery-hardwicke
+        role: author
 description: "How to respond to the argument: Veganism fails to adequately address specific environmental concerns; such as pest control."
 weight: 5
 ---

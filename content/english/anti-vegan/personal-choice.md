@@ -7,6 +7,9 @@ contributors:
     - 
         name: sam-martin
         role: author
+    - 
+        name: tery-hardwicke
+        role: author
 description: "How to respond to the argument: 'What we eat is a personal choice, it's not right for you to go round telling people what to do.'"
 weight: 5
 ---
