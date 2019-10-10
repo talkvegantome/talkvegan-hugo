@@ -6,7 +6,7 @@ draft: false
 contributors:
     - 
         name: sam-martin
-        role: author
+        role: editor
     - 
         name: tery-hardwicke
         role: author
