@@ -28,11 +28,11 @@ or
   
 ## Detail - Analytic
 
-It is difficult to interpret how the central tenet of veganism *‘avoid exploitation of and cruelty to animals'* might be applied in complex environmental considerations. 
+It is difficult to interpret how the central principle of veganism *‘avoid exploitation of and cruelty to animals'* might be applied in complex environmental considerations. 
 
 However, before we try, a few concepts require unpacking.
 
-### 1. Veganism is moral standpoint. 
+### 1. Veganism is a moral standpoint. 
 
 
 Veganism is not a moral theory.  Veganism is a moral standpoint regarding the (mis)treatment of animals by (most) humans, either directly or by passive acceptance. We can’t expect specific moral standpoints to offer complete answers to questions that are fully or partially outside their scope.  That said, there is considerable crossover between environmental and animal concerns so intuitively we expect that vegans ought to hold a position on environmental issues
@@ -57,7 +57,7 @@ Two New Zealand specific examples:
 
 ### Are wild rabbits a pest?
 
-[Biosecurity NZ](http://web.archive.org/web/20191007214252/https://www.mpi.govt.nz/protection-and-response/long-term-pest-management/wild-rabbits/) lists rabbits as pests because they ‘compete with livestock, cause extensive damage to farming land, cause public nuisance… 
+[Biosecurity NZ](http://web.archive.org/web/20191007214252/https://www.mpi.govt.nz/protection-and-response/long-term-pest-management/wild-rabbits/) lists rabbits as pests because they ‘compete with livestock, cause extensive damage to farming land, cause public nuisance...'
 
 So, yes, they are annoying to (some) humans but they are not a ‘pest’. The reasons provided by Biosecurity NZ fail under Leopold’s criteria. If wild rabbits are a pest other more substantial, non-speciesist, reasons must be provided.
 
@@ -65,7 +65,7 @@ So, yes, they are annoying to (some) humans but they are not a ‘pest’. The r
 
 Possums occur in high numbers in NZ, breed fast and face very few predators. Without doubt possums have a major impact on New Zealands native ecosystems.
 
-[Department of Conservation NZ](https://web.archive.org/web/20190227050251/https://www.doc.govt.nz/nature/pests-and-threats/animal-pests/possums/) lists possums as pests, as, “Leaves are the main part of their diet, but possums are opportunistic omnivores. They eat buds, flowers, fruit/berries and nectar, which means they compete with native birds and reptiles for food sources. The growth and life-cycle of a tree or plant is significantly affected when all parts of it are eaten. Possums also have ‘favourites’ such as rātā or kamahi trees, leading to an even greater impact on these species.  …Possums were [also]filmed eating the eggs and chicks of kōkako …  They eat invertebrates, including weta, and are significant predators of New Zealand land snails such as Powelliphanta. They often occupy holes in tree trunks for their nests which would otherwise be used by nesting birds such as kākāriki and saddlebacks. …Researchers using nest-cameras have witnessed … kea nests invaded by stoats and possums in South Westland. ”
+[Department of Conservation NZ](https://web.archive.org/web/20190227050251/https://www.doc.govt.nz/nature/pests-and-threats/animal-pests/possums/) lists possums as pests, as, “Leaves are the main part of their diet, but possums are opportunistic omnivores. They eat buds, flowers, fruit/berries and nectar, which means they compete with native birds and reptiles for food sources. The growth and life-cycle of a tree or plant is significantly affected when all parts of it are eaten. Possums also have ‘favourites’ such as rātā or kamahi trees, leading to an even greater impact on these species.  … Possums were [also] filmed eating the eggs and chicks of kōkako …  They eat invertebrates, including weta, and are significant predators of New Zealand land snails such as Powelliphanta. They often occupy holes in tree trunks for their nests which would otherwise be used by nesting birds such as kākāriki and saddlebacks. …Researchers using nest-cameras have witnessed … kea nests invaded by stoats and possums in South Westland. ”
 
 Here it would seem possums can be defined as a ‘pest species’ that directly impacts the ecosystem, without any reference to human specific interests.
 
@@ -79,7 +79,7 @@ Vegans can classify a species as problematic by reference to Leopold's non-speci
 
 > Identifying a species as problematic does not commit a vegan to act in any specific manner. However, that vegans can offer a non-speciesist definition of 'pest' and can argue for a specific approach in dealing with them demonstrates that vegans can address complex environmental concerns.
 
-While the ideals of veganism are always placed first, individual vegans will differ on what, if any, actions ought to be taken. This can range from 'do nothing' (*all species have a right to life*) to 'controlling possums' (applying the golden rule of *acting to bring about the least harm*)
+While the ideals of veganism are always placed first, individual vegans will differ on what, if any, actions ought to be taken. This can range from 'do nothing' (*all species have a right to life*) to 'controlling possums' (applying the golden rule of *acting to bring about the least harm*).
 
 *This is discussed in more depth in the appendix.*
 
@@ -98,8 +98,8 @@ If you decide to skip this section the arguments above should be enough to serve
 ### Back to the recap.
 
 1. Within a vegan ethic it is reasonable to classify a species as a pest by reference to a non-speciesist definition.  
-2. Even when a species is classified as a pest the tenets of veganism require that they NOT be exploited or treated cruelly  
-3. Veganism is a moral standpoint so we should not expect it to prescribe a course of action. Rather, veganism limits how we might act (and certainly the manner in which we act)
+2. Even when a species is classified as a pest the principles of veganism require that they NOT be exploited or treated cruelly  
+3. Veganism is a moral standpoint so we should not expect it to prescribe a course of action. Rather, veganism limits how we might act (and certainly the manner in which we act).
 
 ### So where to from here? 
 
@@ -146,7 +146,7 @@ The ideal would be some form of biological contraception but, unfortunately, thi
 > Also worth reading *(and cited in this article)*
 
 > [The Land Ethic](http://web.archive.org/web/20191009200336/https://rintintin.colorado.edu/~vancecd/phil3140/Leopold.pdf) (1949) Aldo Leopold  
-> *But be warned*: Leopold holds an enviromentalist position, not a vegan position. 
+> *But be warned*: Leopold holds an environmentalist position, not a vegan position. 
 
 
 
