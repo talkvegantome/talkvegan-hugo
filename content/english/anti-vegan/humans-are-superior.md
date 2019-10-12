@@ -52,7 +52,7 @@ Difference and uniqueness are not synonymous with superiority.
 
 > For any X and Y, if X is superior (or morally superior) to Y, then X is morally justified in subordinating Y.
 
-This logic is used to claim that humans are superior to, and may dominate, non-humans *due to some difference* that is elevated (by humans) in importance. However, without the "assumptions  that *humans are superior* to (at least some) nonhumans, and that *superiority justifies subordination*, all one has is some difference" - Karen J. Warren from The power and the Promise of Ecological Feminism in Environmental Ethics.
+This logic is used to claim that humans are superior to, and may dominate, non-humans *due to some difference* that is elevated (by humans) in importance. However, without the "assumptions  that *humans are superior* to (at least some) nonhumans, and that *superiority justifies subordination*, all one has is some difference" - Karen J. Warren *from* The power and the Promise of Ecological Feminism *in* Environmental Ethics.
 
 This creates what Warren refers to as an *oppressive conceptual framework*. An example is patriarchal thinking which falsely justifies the subordination of women by men based on nothing more than difference. Warren further claims that this logic of domination, and any conceptual framework which gives rise to it, "must be abolished  in order to make possible a meaningful notion of difference..."
 
