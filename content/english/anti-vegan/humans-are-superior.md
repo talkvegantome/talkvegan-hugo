@@ -1,6 +1,14 @@
 ---
 title: "Humans Are Superior"
 date: 2019-10-12T07:28:15+13:00
+name: tery-hardwicke
+contributors:
+    - 
+        name: tery-hardwicke
+        role: author
+    - 
+        name: sam-martin
+        role: editor
 draft: false
 description: "How to respond to the argument: We are entitled to use animals as a resource because humans are superior to animals"
 weight: 5
@@ -13,30 +21,31 @@ weight: 5
 
 # Rebuttal
 
-## Quick Response
+## Quick Responses
 
-> Superiority supposes an arbitrary line that identifies one group as deservedly superior to another. Common examples are that men are superior to women (sexism) and whites are superior to all other ethnicities (racism).  
->   
-> Yes, humans are unique and distinct from other animals in our capacity for complex problem solving. However, pick any species and you will likely find an attribute that also makes them special.  
->   
+> Superiority supposes an arbitrary line that identifies one group as deservedly superior to another. Common examples are that men are superior to women (sexism) and one ethnicity is superior to all other ethnicities (racism).  
+
+or  
+ 
+> Yes, humans are unique and distinct from other animals in our capacity for complex problem solving. However, pick any species and you will likely find an attribute that also makes them special. 
+ 
+or 
+  
 > No unique set of abilities or characteristics, in itself, provides a criterion for ‘superiority’. 
-For humans to claim that humans are superior because we have specific unique attributes is just another form of prejudice.  
->  
-> Even if *it is the case* we are uniquely superior, morality requires we care for those less capable than ourselves; not that we treat them as a resource.
+For humans to claim that humans are superior because we have specific unique attributes is just another form of prejudice. 
+ 
+or
+  
+> Even if *it is the case* we are uniquely superior, morality requires we care for those more vulnerable than ourselves; not that we treat them as a resource.
 
 ## Detail - Analytic
 
 > A Definition of Superior (they are many and varied) : of higher rank, quality, or importance - [Merriam-Webster](http://web.archive.org/web/20190711165845/https://www.merriam-webster.com/dictionary/superior)
 
 
-What most people forget (*or choose to overlook*) in using the term superior is that:  
+What most people forget (*or choose to overlook*) in using the term superior is that; *We alone* determine the ranking systems. *We alone* determine what denotes better quality. *We alone* determine what makes one thing more important than another.
 
-
-1. we determine the ranking systems, 
-2. we determine what denotes better quality, and 
-3. we determine what makes one thing more important than another.
-
-> On the planet Earth, man had always assumed that he was more intelligent than dolphins because he had achieved so much—the wheel, New York, wars and so on—whilst all the dolphins had ever done was muck about in the water having a good time. But conversely, the dolphins had always believed that they were far more intelligent than man—for precisely the same reasons.  
+> "For instance, on the planet Earth, man had always assumed that he was more intelligent than dolphins because he had achieved so much—the wheel, New York, wars and so on—whilst all the dolphins had ever done was muck about in the water having a good time. But conversely, the dolphins had always believed that they were far more intelligent than man—for precisely the same reasons."  
 > - Douglas Adams *from* Hitchhiker's Guide to the Galaxy, 1979
 
 ### Humans are different to other animals
@@ -52,7 +61,7 @@ Difference and uniqueness are not synonymous with superiority.
 
 > For any X and Y, if X is superior (or morally superior) to Y, then X is morally justified in subordinating Y.
 
-This logic is used to claim that humans are superior to, and may dominate, non-humans *due to some difference* that is elevated (by humans) in importance. However, without the "assumptions  that *humans are superior* to (at least some) nonhumans, and that *superiority justifies subordination*, all one has is some difference" - Karen J. Warren *from* The power and the Promise of Ecological Feminism *in* Environmental Ethics.
+This logic is used to claim that humans are superior to, and may dominate, non-humans *due to some difference* that is elevated (by humans) in importance. However, without the "assumptions  that *humans are superior* to (at least some) nonhumans, and that *superiority justifies subordination*, all one has is some difference" - Karen J. Warren *from* The Power and the Promise of Ecological Feminism *in* Environmental Ethics.
 
 This creates what Warren refers to as an *oppressive conceptual framework*. An example is patriarchal thinking which falsely justifies the subordination of women by men based on nothing more than difference. Warren further claims that this logic of domination, and any conceptual framework which gives rise to it, "must be abolished  in order to make possible a meaningful notion of difference..."
 
@@ -81,4 +90,8 @@ If you believe the aliens would act wrongly in harvesting the human species then
 Even assuming that humans' unique abilities do *as a matter of fact* denote superiority  it’s unclear why or how this is relevant. One of the cornerstones of morality is that we care for those less capable (or more vulnerable) than ourselves, and caring for others is what being vegan is all about.
 
  
+### Citations
 
+> * Decision-Making From the Animal Perspective: Bridging Ecology and Subjective Cognition *by* Sergey Budaev, Christian Jørgensen, Marc Mangel, Sigrunn Eliassen and Jarl Giske in Frontiers in Ecology and Evolution, 2019.  
+> * The Power and the Promise of Ecological Feminism *by* Karen J. Warren *in* Environmental Ethics 2nd ed., 1998.  
+> * The Hitchhiker's Guide to the Galaxy *by* Douglas Adams, 1995
