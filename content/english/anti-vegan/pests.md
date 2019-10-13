@@ -7,6 +7,9 @@ contributors:
     - 
         name: tery-hardwicke
         role: author
+    - 
+        name: valerie-redfern
+        role: proofreader
 description: "How to respond to the argument: Veganism fails to adequately address specific environmental concerns; such as pest control."
 weight: 5
 ---
