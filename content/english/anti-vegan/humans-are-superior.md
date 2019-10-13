@@ -23,23 +23,16 @@ weight: 5
 
 ## Quick Responses
 
-> Superiority supposes an arbitrary line that falsely identifies one group as deservedly superior to another.   
+> Imagine uniquely superior aliens discover our planet; Do you *really* want to claim that they will be morally entitled to use humans as a resource? The alternative is accepting that 'even *if* it is the case we are uniquely superior, morality requires we care for those more vulnerable than ourselves; not that we treat them as a resource'.
 
-and  
- 
-> Yes, humans are unique and distinct from other animals in our capacity for complex problem solving. However, pick any species and you will likely find an attribute that also makes them unique and distinct. We should celebrate difference and not deny moral consideration to those who are different.
+or
+
+> Superiority requires *drawing a line* that seperates two groups and *falsely* identifies one group as deservedly superior to another. Yes, humans are unique and distinct from other animals in our capacity for complex problem solving. However, pick any species and you will likely find an attribute that also makes them unique and distinct. We should celebrate difference and not deny moral consideration to those who are different.
  
 or 
   
 > No unique set of abilities or characteristics, in itself, provides a criterion for ‘superiority’.  For humans to claim that humans are superior because we have specific unique attributes is just another form of prejudice. 
- 
-or
-  
-> Even *if* it is the case we are uniquely superior, morality requires we care for those more vulnerable than ourselves; not that we treat them as a resource.
 
-besides
-
-> Do you *really* want to claim that when uniquely superior aliens discover our planet they will be morally entitled to use humans as a resource? 
 
 ## Detail - Analytic
 
@@ -49,13 +42,15 @@ That’s true. Humans have a capacity for complex problem solving that is not pr
 
 > Until recently it was considered that our capacity for abstract thought made us unique. However, “there is growing literature indicating that animals are capable of causal reasoning and abstraction”  
 > [Decision-Making From the Animal Perspective: Bridging Ecology and Subjective Cognition (2019)](https://www.frontiersin.org/articles/10.3389/fevo.2019.00164/full)  
+> A further "finding suggests that fish might possess far higher cognitive powers than previously thought, [igniting] a high-stakes debate over how we assess the intelligence of animals that are so unlike ourselves."  
+> [Fish Appear to Recognize Themselves in the Mirror (2019)](http://web.archive.org/web/20191004075152/https://www.sciencedaily.com/releases/2019/02/190207142234.htm)
 
 ### On Superiority
 
 
 > One definition of 'Superior' is, "of higher rank, quality, or importance" - [Merriam-Webster](http://web.archive.org/web/20190711165845/https://www.merriam-webster.com/dictionary/superior)
 
-What most people forget (*or choose to overlook*) in using the term superior is that; *We alone* determine the ranking systems. *We alone* determine what denotes better quality. *We alone* determine what makes one thing more important than another. To presuppose that 'we' are superior to 'them' and to then *choose* an attribute that separates 'us' from 'them' as (somehow) demonstrating superiority is a fallacy. Identifying difference never identifies superiority.  
+What most people forget (*or choose to overlook*) in using the term superior is that; *We alone* determine the ranking systems. *We alone* determine what denotes better quality. *We alone* determine what makes one thing more important than another. To presuppose that 'we' are superior to 'them' and to then *choose* an attribute that separates 'us' from 'them' as (somehow) demonstrating superiority is a fallacy. Identifying difference never identifies superiority even when it grants power of one over another.  
 
 > "For instance, on the planet Earth, man had always assumed that he was more intelligent than dolphins because he had achieved so much—the wheel, New York, wars and so on—whilst all the dolphins had ever done was muck about in the water having a good time. But conversely, the dolphins had always believed that they were far more intelligent than man—for precisely the same reasons."  
 > - Douglas Adams *from* Hitchhiker's Guide to the Galaxy, 1979
@@ -77,7 +72,9 @@ This creates what Warren refers to as an *oppressive conceptual framework*. An e
 
 We need to move away from the oppressive conceptual framework that maintains *sameness* and only extends the moral community to those who are similar to us by application of some self-determined criteria. Warren refers to this as *arrogant perception*, resulting in a false notion of superiority which gives rise to the claim that those like us deserve moral consideration and others don't.
 
-An alternative *loving perception* "presupposes and maintains difference - a distinction between the self and other, between human and at least some nonhumans - in such a way that perception of the other as other *is* an expression of love for one who/which is recognised at the outset as independent, dissimilar, different."
+An alternative *loving perception* "presupposes and maintains difference - a distinction between the self and other, between human and at least some nonhumans - in such a way that perception of the other as other *is* an expression of love for one who/which is recognised at the outset as independent, dissimilar, different."  
+
+A *loving perception* requires that difference be cherished rather than used as a reason for domination. That nonhuman animals are different is a reason for celebration not a reason to treat them as a resource.
 
 
 
@@ -105,3 +102,4 @@ Even assuming that humans' unique abilities do *as a matter of fact* demonstrate
 > * Decision-Making From the Animal Perspective: Bridging Ecology and Subjective Cognition *by* Sergey Budaev, Christian Jørgensen, Marc Mangel, Sigrunn Eliassen and Jarl Giske in Frontiers in Ecology and Evolution, 2019.  
 > * The Power and the Promise of Ecological Feminism *by* Karen J. Warren *in* Environmental Ethics 2nd ed., 1998.  
 > * The Hitchhiker's Guide to the Galaxy *by* Douglas Adams, 1995
+> * If a fish can pass the mark test, what are the implications for consciousness and self-awareness testing in animals? *by* Masanori Kohda, Takashi Hotta, Tomohiro Takeyama, Satoshi Awata, Hirokazu Tanaka, Jun-ya Asai, Alex L. Jordan. *in* PLOS Biology, 2019
