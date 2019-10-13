@@ -10,58 +10,68 @@ contributors:
         name: sam-martin
         role: editor
 draft: false
-description: "How to respond to the argument: We are entitled to use animals as a resource because humans are superior to animals"
+description: "How to respond to the argument: We are entitled to use animals as a resource because humans are superior to nonhuman animals"
 weight: 5
 ---
 # Argument
 
 > ...but, humans are superior...  
 >   
-> We are entitled to use animals as a resource because humans are superior to animals
+> We are entitled to use animals as a resource because humans are superior to nonhuman animals
 
 # Rebuttal
 
 ## Quick Responses
 
-> Superiority supposes an arbitrary line that identifies one group as deservedly superior to another. Common examples are that men are superior to women (sexism) and one ethnicity is superior to all other ethnicities (racism).  
+> Superiority supposes an arbitrary line that falsely identifies one group as deservedly superior to another.   
 
-or  
+and  
  
-> Yes, humans are unique and distinct from other animals in our capacity for complex problem solving. However, pick any species and you will likely find an attribute that also makes them special. 
+> Yes, humans are unique and distinct from other animals in our capacity for complex problem solving. However, pick any species and you will likely find an attribute that also makes them unique and distinct. We should celebrate difference and not deny moral consideration to those who are different.
  
 or 
   
-> No unique set of abilities or characteristics, in itself, provides a criterion for ‘superiority’. 
-For humans to claim that humans are superior because we have specific unique attributes is just another form of prejudice. 
+> No unique set of abilities or characteristics, in itself, provides a criterion for ‘superiority’.  For humans to claim that humans are superior because we have specific unique attributes is just another form of prejudice. 
  
 or
   
-> Even if *it is the case* we are uniquely superior, morality requires we care for those more vulnerable than ourselves; not that we treat them as a resource.
+> Even *if* it is the case we are uniquely superior, morality requires we care for those more vulnerable than ourselves; not that we treat them as a resource.
+
+besides
+
+> Do you *really* want to claim that when uniquely superior aliens discover our planet they will be morally entitled to use humans as a resource? 
 
 ## Detail - Analytic
 
-> A Definition of Superior (they are many and varied) : of higher rank, quality, or importance - [Merriam-Webster](http://web.archive.org/web/20190711165845/https://www.merriam-webster.com/dictionary/superior)
-
-
-What most people forget (*or choose to overlook*) in using the term superior is that; *We alone* determine the ranking systems. *We alone* determine what denotes better quality. *We alone* determine what makes one thing more important than another.
-
-> "For instance, on the planet Earth, man had always assumed that he was more intelligent than dolphins because he had achieved so much—the wheel, New York, wars and so on—whilst all the dolphins had ever done was muck about in the water having a good time. But conversely, the dolphins had always believed that they were far more intelligent than man—for precisely the same reasons."  
-> - Douglas Adams *from* Hitchhiker's Guide to the Galaxy, 1979
-
 ### Humans are different to other animals
 
-That’s true. Humans have a capacity for complex problem solving that is not present in other animals. But why should a set of unique abilities or characteristics equate to superiority and give us the right to do what we like to those deemed inferior?
+That’s true. Humans have a capacity for complex problem solving that is not present in other animals. But why should a set of unique abilities or characteristics equate to superiority and give us the right to do what we like to those deemed inferior? Difference and uniqueness are not synonymous with superiority. 
 
 > Until recently it was considered that our capacity for abstract thought made us unique. However, “there is growing literature indicating that animals are capable of causal reasoning and abstraction”  
 > [Decision-Making From the Animal Perspective: Bridging Ecology and Subjective Cognition (2019)](https://www.frontiersin.org/articles/10.3389/fevo.2019.00164/full)  
 
-Difference and uniqueness are not synonymous with superiority. 
+### On Superiority
+
+
+> One definition of 'Superior' is, "of higher rank, quality, or importance" - [Merriam-Webster](http://web.archive.org/web/20190711165845/https://www.merriam-webster.com/dictionary/superior)
+
+What most people forget (*or choose to overlook*) in using the term superior is that; *We alone* determine the ranking systems. *We alone* determine what denotes better quality. *We alone* determine what makes one thing more important than another. To presuppose that 'we' are superior to 'them' and to then *choose* an attribute that separates 'us' from 'them' as (somehow) demonstrating superiority is a fallacy. Identifying difference never identifies superiority.  
+
+> "For instance, on the planet Earth, man had always assumed that he was more intelligent than dolphins because he had achieved so much—the wheel, New York, wars and so on—whilst all the dolphins had ever done was muck about in the water having a good time. But conversely, the dolphins had always believed that they were far more intelligent than man—for precisely the same reasons."  
+> - Douglas Adams *from* Hitchhiker's Guide to the Galaxy, 1979
+
+
 
 ### The flawed reasoning of Superiority and Domination
 
 > For any X and Y, if X is superior (or morally superior) to Y, then X is morally justified in subordinating Y.
+ 
+ or in plain English (and, as often used in anti-vegan rhetoric) 
+ 
+ > if humans are superior to nonhuman animals, then humans are morally justified in treating nonhuman animals as a resource. 
+ 
 
-This logic is used to claim that humans are superior to, and may dominate, non-humans *due to some difference* that is elevated (by humans) in importance. However, without the "assumptions  that *humans are superior* to (at least some) nonhumans, and that *superiority justifies subordination*, all one has is some difference" - Karen J. Warren *from* The Power and the Promise of Ecological Feminism *in* Environmental Ethics.
+This logic is used to claim that humans are superior to, and may dominate, nonhumans *due to some difference* that is elevated (by humans) in importance. However, without the "assumptions  that *humans are superior* to (at least some) nonhumans, and that *superiority justifies subordination*, all one has is some difference" - Karen J. Warren *from* The Power and the Promise of Ecological Feminism *in* Environmental Ethics.
 
 This creates what Warren refers to as an *oppressive conceptual framework*. An example is patriarchal thinking which falsely justifies the subordination of women by men based on nothing more than difference. Warren further claims that this logic of domination, and any conceptual framework which gives rise to it, "must be abolished  in order to make possible a meaningful notion of difference..."
 
@@ -73,13 +83,13 @@ An alternative *loving perception* "presupposes and maintains difference - a dis
 
 ### A Thought Experiment
 
-Consider we discover an alien species (or more likely an intelligent species discovers us). That species has all of our abilities together with a technology far in advance of our own. They far exceed our mental capacity, can see a far greater colour spectrum and can hear sounds outside our aural range.  They can also communicate telepathically.
+Suppose we discover an alien species (or more likely an intelligent species discovers us). That species has all of our abilities along with a technology far in advance of our own. They far exceed our mental capacity, can see a far greater colour spectrum and can hear sounds outside our aural range.  They can also communicate telepathically.
 
-If humans are superior to animals because of our unique capacity for complex problem solving then these aliens, with all our abilities  plus the unique ability of telepathy must be superior to us.
+If humans are superior to animals because of our unique capacity for complex problem solving then these aliens, with all our abilities plus the unique ability of telepathy, must be superior to us.
 
 - Does this mean the aliens are justified in harvesting the human species?
 
-If you believe that we can use animals *as we choose* because we deem ourselves superior (due to unique attributes) then you must accept that the aliens would be justified in using us *as they chose* for the same reason.
+If you believe that we can use animals *as we choose* because we deem ourselves superior (due to unique attributes) then you must accept that the aliens would be justified in using us *as they choose* for the same reason.
 
 If you believe the aliens would act wrongly in harvesting the human species then you need to reconsider your claim that human superiority gives us the right to use animals *as we choose*.
 
@@ -87,7 +97,7 @@ If you believe the aliens would act wrongly in harvesting the human species then
 
 > ...to care for and about others is what being vegan is all about.
 
-Even assuming that humans' unique abilities do *as a matter of fact* denote superiority  it’s unclear why or how this is relevant. One of the cornerstones of morality is that we care for those less capable (or more vulnerable) than ourselves, and caring for others is what being vegan is all about.
+Even assuming that humans' unique abilities do *as a matter of fact* demonstrate superiority it’s unclear why or how this is relevant. One of the cornerstones of morality is that we care for those less capable (or more vulnerable) than ourselves, and caring for others is what being vegan is all about.
 
  
 ### Citations
