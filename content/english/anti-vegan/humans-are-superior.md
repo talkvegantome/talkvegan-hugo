@@ -90,7 +90,7 @@ A *loving perception* requires that difference be cherished rather than used as 
 
 Suppose we discover an alien species (or more likely an intelligent species discovers us). That species has all of our abilities along with a technology far in advance of our own. They far exceed our mental capacity, can see a far greater colour spectrum and can hear sounds outside our aural range. They can also communicate telepathically.
 
-If humans are superior to animals because of our unique capacity for complex problem solving then these aliens, with all our abilities plus the unique ability of telepathy, must be superior to us.
+If humans are superior to animals because of our unique capacity for complex problem solving then these aliens, with all our abilities plus the unique ability of telepathy, must be superior to us.
 
 - Does this mean the aliens are justified in harvesting the human species?
 
