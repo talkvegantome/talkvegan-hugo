@@ -59,7 +59,8 @@ What most people forget (*or choose to overlook*) in using the term superior is 
 
 ### The flawed reasoning of Superiority and Domination
 
-> For any X and Y, if X is superior (or morally superior) to Y, then X is morally justified in subordinating Y.
+> For any X and Y, if X is superior (or morally superior) to Y, then X is morally justified in subordinating Y.  
+> - *The 'logic premise' from the 'Opressive Conceptual Framework' argument* as cited by Karen J. Warren
  
  or in plain English (and, as often used in anti-vegan rhetoric) 
  
