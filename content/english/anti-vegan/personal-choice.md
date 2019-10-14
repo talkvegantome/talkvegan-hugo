@@ -5,11 +5,11 @@ lastmod: 2019-06-24T19:52:09+01:00
 draft: false
 contributors:
     - 
-        name: sam-martin
-        role: editor
-    - 
         name: tery-hardwicke
         role: author
+    - 
+        name: sam-martin
+        role: editor
 description: "How to respond to the argument: 'What we eat is a personal choice, it's not right for you to go round telling people what to do.'"
 weight: 5
 ---

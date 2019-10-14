@@ -9,6 +9,9 @@ contributors:
     - 
         name: sam-martin
         role: editor
+    - 
+        name: valerie-redfern
+        role: proofreader
 draft: false
 description: "How to respond to the argument: We are entitled to use animals as a resource because humans are superior to nonhuman animals"
 weight: 5
@@ -31,7 +34,7 @@ or
  
 or 
   
-> No unique set of abilities or characteristics, in itself, provides a criterion for ‘superiority’.  For humans to claim that humans are superior because we have specific unique attributes is just another form of prejudice. 
+> No unique set of abilities or characteristics, in itself, provides a criterion for ‘superiority’.  For humans to claim that humans are superior because we have specific unique attributes is just another form of prejudice. 
 
 
 ## Detail - Analytic
@@ -42,15 +45,19 @@ That’s true. Humans have a capacity for complex problem solving that is not pr
 
 > Until recently it was considered that our capacity for abstract thought made us unique. However, “there is growing literature indicating that animals are capable of causal reasoning and abstraction”  
 > [Decision-Making From the Animal Perspective: Bridging Ecology and Subjective Cognition (2019)](https://www.frontiersin.org/articles/10.3389/fevo.2019.00164/full)  
+
+ <!-- -->
+
+
 > A further "finding suggests that fish might possess far higher cognitive powers than previously thought, [igniting] a high-stakes debate over how we assess the intelligence of animals that are so unlike ourselves."  
 > [Fish Appear to Recognize Themselves in the Mirror (2019)](http://web.archive.org/web/20191004075152/https://www.sciencedaily.com/releases/2019/02/190207142234.htm)
 
 ### On Superiority
 
 
-> One definition of 'Superior' is, "of higher rank, quality, or importance" - [Merriam-Webster](http://web.archive.org/web/20190711165845/https://www.merriam-webster.com/dictionary/superior)
+> One definition of 'Superior' is, "of higher rank, quality, or importance" - [Merriam-Webster](http://web.archive.org/web/20190711165845/https://www.merriam-webster.com/dictionary/superior)
 
-What most people forget (*or choose to overlook*) in using the term superior is that; *We alone* determine the ranking systems. *We alone* determine what denotes better quality. *We alone* determine what makes one thing more important than another. To presuppose that 'we' are superior to 'them' and to then *choose* an attribute that separates 'us' from 'them' as (somehow) demonstrating superiority is a fallacy. Identifying difference never identifies superiority even when it grants power of one over another.  
+What most people forget (*or choose to overlook*) in using the term superior is that; *We alone* determine the ranking systems. *We alone* determine what denotes better quality. *We alone* determine what makes one thing more important than another. To presuppose that 'we' are superior to 'them' and to then *choose* an attribute that separates 'us' from 'them' as (somehow) demonstrating superiority is a fallacy. Identifying difference never identifies superiority even when it grants power of one over another.  
 
 > "For instance, on the planet Earth, man had always assumed that he was more intelligent than dolphins because he had achieved so much—the wheel, New York, wars and so on—whilst all the dolphins had ever done was muck about in the water having a good time. But conversely, the dolphins had always believed that they were far more intelligent than man—for precisely the same reasons."  
 > - Douglas Adams *from* Hitchhiker's Guide to the Galaxy, 1979
@@ -81,7 +88,7 @@ A *loving perception* requires that difference be cherished rather than used as 
 
 ### A Thought Experiment
 
-Suppose we discover an alien species (or more likely an intelligent species discovers us). That species has all of our abilities along with a technology far in advance of our own. They far exceed our mental capacity, can see a far greater colour spectrum and can hear sounds outside our aural range.  They can also communicate telepathically.
+Suppose we discover an alien species (or more likely an intelligent species discovers us). That species has all of our abilities along with a technology far in advance of our own. They far exceed our mental capacity, can see a far greater colour spectrum and can hear sounds outside our aural range. They can also communicate telepathically.
 
 If humans are superior to animals because of our unique capacity for complex problem solving then these aliens, with all our abilities plus the unique ability of telepathy, must be superior to us.
 
@@ -97,10 +104,9 @@ If you believe the aliens would act wrongly in harvesting the human species then
 
 Even assuming that humans' unique abilities do *as a matter of fact* demonstrate superiority it’s unclear why or how this is relevant. One of the cornerstones of morality is that we care for those less capable (or more vulnerable) than ourselves, and caring for others is what being vegan is all about.
 
- 
 ### Citations
 
-> * Decision-Making From the Animal Perspective: Bridging Ecology and Subjective Cognition *by* Sergey Budaev, Christian Jørgensen, Marc Mangel, Sigrunn Eliassen and Jarl Giske in Frontiers in Ecology and Evolution, 2019.  
-> * The Power and the Promise of Ecological Feminism *by* Karen J. Warren *in* Environmental Ethics 2nd ed., 1998.  
-> * The Hitchhiker's Guide to the Galaxy *by* Douglas Adams, 1995
-> * If a fish can pass the mark test, what are the implications for consciousness and self-awareness testing in animals? *by* Masanori Kohda, Takashi Hotta, Tomohiro Takeyama, Satoshi Awata, Hirokazu Tanaka, Jun-ya Asai, Alex L. Jordan. *in* PLOS Biology, 2019
+* Decision-Making From the Animal Perspective: Bridging Ecology and Subjective Cognition *by* Sergey Budaev, Christian Jørgensen, Marc Mangel, Sigrunn Eliassen and Jarl Giske in Frontiers in Ecology and Evolution, 2019.  
+* The Power and the Promise of Ecological Feminism *by* Karen J. Warren *in* Environmental Ethics 2nd ed., 1998.  
+* The Hitchhiker's Guide to the Galaxy *by* Douglas Adams, 1995
+* If a fish can pass the mark test, what are the implications for consciousness and self-awareness testing in animals? *by* Masanori Kohda, Takashi Hotta, Tomohiro Takeyama, Satoshi Awata, Hirokazu Tanaka, Jun-ya Asai, Alex L. Jordan. *in* PLOS Biology, 2019
