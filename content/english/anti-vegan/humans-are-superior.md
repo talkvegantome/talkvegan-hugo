@@ -46,7 +46,8 @@ That’s true. Humans have a capacity for complex problem solving that is not pr
 > Until recently it was considered that our capacity for abstract thought made us unique. However, “there is growing literature indicating that animals are capable of causal reasoning and abstraction”  
 > [Decision-Making From the Animal Perspective: Bridging Ecology and Subjective Cognition (2019)](https://www.frontiersin.org/articles/10.3389/fevo.2019.00164/full)  
 
- <!-- -->
+ 
+ ~
 
 
 > A further "finding suggests that fish might possess far higher cognitive powers than previously thought, [igniting] a high-stakes debate over how we assess the intelligence of animals that are so unlike ourselves."  
