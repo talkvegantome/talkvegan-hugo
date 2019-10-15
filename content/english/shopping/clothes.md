@@ -3,6 +3,10 @@ title: "Clothes"
 date: 2019-05-16T21:18:00+01:00
 lastmod: 2019-05-16T21:18:00+01:00
 draft: false
+contributors:
+    - 
+        name: sam-martin
+        role: author
 description: "What should you look out for when shopping for clothes as a vegan?"
 weight: 5
 ---

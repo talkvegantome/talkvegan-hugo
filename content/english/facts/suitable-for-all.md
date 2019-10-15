@@ -3,6 +3,10 @@ title: "Vegan Diet is Suitable for All"
 date: 2019-06-01T14:09:20+01:00
 lastmod: 2019-06-01T14:09:20+01:00
 draft: false
+contributors:
+    - 
+        name: sam-martin
+        role: author
 description: "Is it true that \"A well planned vegan diet is suitable for people of all ages.\""
 weight: 100
 ---

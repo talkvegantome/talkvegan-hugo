@@ -15,7 +15,7 @@ weight: 100
 
 Animals live for as little as 1.6% of their natural lifespan (7 weeks vs 12 years for broiler (meat) chickens). And even dairy cows get only of 20% of their 20 year lifespan.
 
-Regardless of whether you regard 20% of a life as "good enough", unnecessary death is indefensible ethically, regardless of length or quality of life.
+Regardless of whether you regard 20% of a life as "good enough", we find it extremely doubtful that any ethical defence of meat eating can successfully argue that unnecessary deaths are justified., regardless of length or quality of life.
 
 See below for sources.
 

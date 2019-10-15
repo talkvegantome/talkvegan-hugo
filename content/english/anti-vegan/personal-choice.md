@@ -3,48 +3,61 @@ title: "Personal Choice"
 date: 2019-06-24T19:52:09+01:00
 lastmod: 2019-06-24T19:52:09+01:00
 draft: false
+contributors:
+    - 
+        name: tery-hardwicke
+        role: author
+    - 
+        name: sam-martin
+        role: editor
 description: "How to respond to the argument: 'What we eat is a personal choice, it's not right for you to go round telling people what to do.'"
 weight: 5
 ---
 
 # Argument
 
-> What we eat is a personal choice, it's not right for you to go round telling people what to do.
+> What we eat is a personal choice and it's not right for you to go round telling people what to do.
 
 or
 
-> It's my choice, why can't you respect that?
+> It's my choice. Why can't you respect that?
 
 # Rebuttal  
 
 ## Quick Response
 
-Personal choices cease to be purely personal when they harm others.  
+> Yes, it's a personal choice. However, where that choice causes unnecessary harm I am morally obligated to speak out
+
+or
+
+> Yes, it's a personal choice but no choice that causes unnecessary harm should be respected.
 
 ## Detail - Analytic
 
-The core idea underpinning the concept "It's my personal choice" is that we have the right to choose for ourselves the correct course of action and that the choice, once made, should be respected. 
+> A _golden rule_ of moral philosophy is; "all things being equal you ought to choose the action that does the least harm” 
 
-The hidden premises of respecting some-one else's choice go something like:
+Anyone who accepts:
 
-1. Everyone is allowed their own opinion even if you don't agree with it 
-2. My opinion informs my actions through choice
-3. My actions, choices, and opinions should all be afforded the same level of acceptance
+1. It is not a necessary need to eat meat.
+2. Eating meat is the indirect cause of great harm.
+3. The golden rule that, "all things being equal you ought to choose the action that does the least harm”
 
-This takes a freedom of thought/speech type model and applies it to actions under the guise of 'choice'. And it works intuitively because there are scenarios in which this makes sense!
+will necessarily conclude:
 
-- It's my choice to drop out of uni
-- It's my choice to dye my hair
-- It's my choice to spend all my money on a holiday instead of saving it for a house
+- Your _personal choice_ to eat meat causes unnecessary harm, does not warrant respect, and morally obligates me to speak out.
 
-The key thing that these scenarios have in common, and the necessary component for them to have the freedom of speech/thought model applied to them, is that their repercussions apply only to the person making the choice. Compare this with:
+ 
+> Point 1 is a factual claim. If you doubt this claim please read [A well planned vegan diet is suitable for people of all ages.]({{< ref "/facts/suitable-for-all" >}})
 
-- It's my choice to set your house on fire
-- It's my choice to spend all your money on a holiday
-- It's my choice to kick your shins
+> Point 2 is the factual claim that animals are harmed by commercial farming and slaughter. See [Animal slaughter methods]({{< ref "/facts/animal-slaughter-methods" >}})
 
-When the opinion "I think it would be a good thing to set your house on fire", which we may not agree with or even respect, is transformed into an action that affects someone other than the person that who holds that opinion, it loses its protection.  
+> Point 3 is a *value statement*  that most people would accept.
 
-You may think what you like, and do what you like, so long as it only affects you.
+The conclusion holds that, where an individual could *easily choose otherwise* but instead *out of personal choice* selects an option that does uneccessary harm, there is no reason to respect that individual's choice and there is good reason to speak out against it.
 
-Eating meat _incontrovertibly_ affects others. It is unavoidable that an animal dies in order to produce meat. You *cannot* use a defence grounded in freedom of thought to justify killing. If you demand respect for your choice to kill something else purely because your choice demands respect, you need to provide an argument as to why the same respect should not be given to some-one who wishes to kill you.
+This holds equally true:
+
+- If you choose to litter.
+- If you choose to buy clothes knowing they were made in a sweat shop when you have other options.
+
+> So yes; it's your personal choice. But no! I will not respect that choice or remain silent.

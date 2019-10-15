@@ -3,6 +3,10 @@ title: "Tofu Causes Deforestation"
 date: 2019-06-05T19:51:40+01:00
 lastmod: 2019-06-05T19:51:40+01:00
 draft: false
+contributors:
+    - 
+        name: sam-martin
+        role: author
 description: "Is it true that \"As much as 70 percent of areas newly cleared for agriculture in Mato Grosso State in Brazil is being used to grow soybeans.\""
 weight: 100
 ---

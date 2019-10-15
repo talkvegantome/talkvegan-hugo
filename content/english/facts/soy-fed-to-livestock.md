@@ -3,6 +3,10 @@ title: "Soy Mostly Fed to Livestock"
 date: 2019-06-03T21:32:56+01:00
 lastmod: 2019-06-03T21:32:56+01:00
 draft: false
+contributors:
+    - 
+        name: sam-martin
+        role: author
 description: "Is it true that \"75% of soybeans grown worldwide are fed to livestock\""
 weight: 100
 ---
@@ -54,4 +58,4 @@ Here we are comparing statistics about global **soybean** production vs global *
 - [USDA’s Production, Supply and Distribution Database](https://apps.fas.usda.gov/psdonline/app/index.html#/app/advQuery)
 - [World Agricultural Supply and Demand Estimates Reports](https://www.usda.gov/oce/commodity/wasde/index.htm) 
 - [World Agricultural Supply and Demand Estimates - May 2019](https://web.archive.org/web/20190618093258/https://downloads.usda.library.cornell.edu/usda-esmis/files/3t945q76s/7s75dn66b/f1881w33j/wasde0519.pdf)
-- [SoyaTech - Soya Facts - 2017](https://web.archive.org/web/20170112075924/http://www.soyatech.com/soy_facts.htm
+- [SoyaTech - Soya Facts - 2017](https://web.archive.org/web/20170112075924/http://www.soyatech.com/soy_facts.htm)

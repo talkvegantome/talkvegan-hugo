@@ -3,6 +3,10 @@ title: "One Person Can't Make a Difference"
 date: 2019-06-29T10:28:51+01:00
 lastmod: 2019-06-29T10:28:51+01:00
 draft: false
+contributors:
+    - 
+        name: sam-martin
+        role: author
 description: "How to respond to the argument: 'You not consuming animal products isn't even a blip in the market, the same number of animals will be raised and killed whether you buy animal products or not.'"
 weight: 5
 ---

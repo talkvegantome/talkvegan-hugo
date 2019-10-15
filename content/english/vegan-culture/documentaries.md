@@ -3,6 +3,10 @@ title: "Films & Documentaries"
 date: 2019-06-06T22:50:18+01:00
 lastmod: 2019-06-06T22:50:18+01:00
 draft: false
+contributors:
+    - 
+        name: sam-martin
+        role: author
 description: "A list of vegan documentaries and recommendations on whether you might want to share them with your non-vegan friends!"
 weight: 5
 ---
@@ -10,7 +14,7 @@ weight: 5
 # Films & Documentaries
 
 We describe documentaries based on:   
-**Activism Style:** Emotive/Statistical/Comedy  
+**Activism Style:** Emotive/Statistical/Comedy/Uplifting  
 **Typical Citation Quality:** Anecdotal/News/Academic/Original Sources  
 **Carnist Palatability:** Inoffensive/Uncomfortable/Hateful  
 
@@ -53,3 +57,11 @@ We describe documentaries based on:
 **Activism Style:** Emotive  
 **Typical Citation Quality:** Academic  
 **Carnist Palatability:** Uncomfortable 
+
+## Running for Good
+[Watch on Amazon Prime](https://www.amazon.com/Running-Good-Fiona-Oakes/dp/B07L5PJ728) - [Watch on Vimeo](https://vimeo.com/ondemand/runningforgood)   
+**Release Date:** 2018   
+**Website:** [runningforgoodfilm.com](https://runningforgoodfilm.com/)  
+**Activism Style:** Uplifting  
+**Typical Citation Quality:** News  
+**Carnist Palatability:** Inoffensive 
