@@ -40,7 +40,7 @@ See our article on [Soy is bad for you?]({{<ref "/facts/soy-is-bad-for-you">}}) 
 > Some isoflavones, most notably genistein, inhibit pathways important for cell growth and proliferation, an effect which affects multiple organ systems.  
 > - [The pros and cons of phytoestrogens - Front Neuroendocrinol - 2010 - p4](https://web.archive.org/web/20190928181945/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3074428/pdf/nihms271669.pdf)
 
-In other words, it's possible for human cell growth to be increased by phytoestrogens. This might be of concern in the case of, e.g. breast cancer.
+In other words, it's possible for human cell growth to be increased by phytoestrogens.
 
 > Phytoestrogens are plant‐derived dietary compounds with structural similarity to 17‐β‐oestradiol (E2), the primary female sex hormone. This structural similarity to E2 enables phytoestrogens to cause (anti)oestrogenic effects by binding to the oestrogen receptors.  
 > [...]  

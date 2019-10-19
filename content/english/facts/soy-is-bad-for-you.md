@@ -59,7 +59,7 @@ So even at the source the amount of isoflavones per kg can vary massively depend
 > The most refined soy foods can lose up to 80-90% of isoflavone content during processing. Soy burgers have 0.1-26 mg per 100 g of total aglycone equivalents, soy yogurts 1.6-11.8 mg per 100 g, soy drinks 1.0-21 mg per 100 g and soy cheeses 2.3-33 mg per 100 g. Usually, bakery soy-based products retain low concentration of isoflavones. Soy milk formulas may contain up to 31 mg per 100 g.  
 > - [Soy, Soy Foods and Their Role in Vegetarian Diets - Nutrients - 2018 - p18](https://web.archive.org/web/20191002195620/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5793271/pdf/nutrients-10-00043.pdf/)
 
-In other words, foods containing soy can have very unpredictable amounts of phytoestrogens, processed foods can lose a lot of their isoflavone content, and usually The effect of cooking soy based foods is to reduce the amount of isoflavones dramatically.
+In other words, foods containing soy can have very unpredictable amounts of phytoestrogens, processed foods can lose a lot of their isoflavone content, and usually the effect of cooking soy based foods is to reduce the amount of isoflavones dramatically.
 
 
 ### 2.2 How much is safe to eat is not well understood.
