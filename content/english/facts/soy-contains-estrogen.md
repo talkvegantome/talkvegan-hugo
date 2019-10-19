@@ -40,20 +40,19 @@ See our article on [Soy is bad for you?]({{<ref "/facts/soy-is-bad-for-you">}}) 
 > Some isoflavones, most notably genistein, inhibit pathways important for cell growth and proliferation, an effect which affects multiple organ systems.  
 > - [The pros and cons of phytoestrogens - Front Neuroendocrinol - 2010 - p4](https://web.archive.org/web/20190928181945/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3074428/pdf/nihms271669.pdf)
 
-and
+In other words, it's possible for human cell growth to be increased by phytoestrogens. This might be of concern in the case of, e.g. breast cancer.
 
 > Phytoestrogens are plant‐derived dietary compounds with structural similarity to 17‐β‐oestradiol (E2), the primary female sex hormone. This structural similarity to E2 enables phytoestrogens to cause (anti)oestrogenic effects by binding to the oestrogen receptors.  
 > [...]  
-> [P]hytoestrogens are also considered endocrine disruptors, indicating that they have the potential to cause adverse health effects such as infertility and increased risks of cancer in oestrogen-sensitive organs
+> [P]hytoestrogens are also considered endocrine disruptors, indicating that they have the potential to cause adverse health effects such as infertility and increased risks of cancer in oestrogen-sensitive organs.  
 > - [The potential health effects of dietary phytoestrogens - British Journal of Pharmacology](https://web.archive.org/web/20190922065924/https://bpspubs.onlinelibrary.wiley.com/doi/full/10.1111/bph.13622)  
 
-and
+Phytoestrogens have a similar shape to human estorogen, which enables them to interrupt the normal absorption of human estrogen in the endocrine (hormonal) system.
 
-> Isoflavones are often termed as phytoestrogens as they have a chemical structure similar to the human hormone oestrogen. However, it is now well established that in the human body, isoflavones do not behave like the human hormone oestrogen: they are weaker, they only have effects on some body tissues and in some situations they can have opposite effect to oestrogen.   
-> - [British Dietetic Association - Soya and health - the basics - 2017](https://web.archive.org/web/20190928091728/https://www.bda.uk.com/foodfacts/soya2017.pdf)
-
-> Phytoestrogens produce estrogenic, anti-estrogenic or no activity depending upon the tissue. [Oestrogen Receptor Alpha] and [Oestrogen Receptor Beta] display distinct expression patterns in male and female, thus phytoestrogens do not exert their activity as classical oestrogen agonists [(chemical which binds to an oestrogen receptor)]. 
+> Phytoestrogens produce estrogenic, anti-estrogenic or no activity depending upon the tissue. [Oestrogen Receptor Alpha] and [Oestrogen Receptor Beta] display distinct expression patterns in male and female[s...].  
 > - [Soy, Soy Foods and Their Role in Vegetarian Diets - Nutrients - 2018 - p21](https://web.archive.org/web/20191002195620/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5793271/pdf/nutrients-10-00043.pdf/)
+
+Phytoestrogens effects vary from one body part to another and from one sex expression to another. They are 
 
 From these sources we can conclude that soy's phytoestrogens can have an effect on the human body, *what* exactly that effect may be is covered in more detail in [Soy is bad for you?]({{<ref "/facts/soy-is-bad-for-you">}}).
 
