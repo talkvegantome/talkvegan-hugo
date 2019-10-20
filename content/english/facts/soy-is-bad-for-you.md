@@ -13,13 +13,13 @@ weight: 100
 See our article: [Soy contains estrogen]({{<ref "/facts/soy-contains-estrogen">}}) for more information on phytoestrogens.
 
 # Reality
-TalkVeganToMe's layman's understanding from surveying the material available online is that: 
 
-1. Soy contains phytoestrogens which are structurally similar to human estrogen (specifically *isoflavones*) which can have hormonal effects on the body.
-2. The maximum safe dosages are not well understood. 
-3. It is _unlikely_ that you will ingest a high enough dosage to affect your health as part of a balanced diet provided you do not have any special circumstances (e.g. hypothyroidism, infancy, etc.). But you should ensure that you vary your protein sources and consult your dietitian for special circumstances (e.g. hypothyroidism, infancy, etc.) see *Soy, Soy Foods and Their Role in Vegetarian Diets - 2018* below.  
-4. All articles on the topic caveat their conclusions with: 'more research is needed'.  
-  
+> 1. Soy contains phytoestrogens which are structurally similar to human estrogen (specifically *isoflavones*) which can have hormonal effects on the body.
+> 2. The maximum safe dosages are not well understood. 
+> 3. It is _unlikely_ that you will ingest a high enough dosage to affect your health as part of a balanced diet provided you do not have any special circumstances (e.g. hypothyroidism, infancy, etc.). But you should ensure that you vary your protein sources and consult your dietitian for special circumstances (e.g. hypothyroidism, infancy, etc.) see *Soy, Soy Foods and Their Role in Vegetarian Diets - 2018* below.  
+> 4. All articles on the topic caveat their conclusions with: 'more research is needed'.  
+>  
+> \- TalkVeganToMe's layman's understanding from surveying the material available online
 
 This is a highly complex and fast moving topic in terms of research. We've discounted a number of the most popular pro-soy sources (see *Conflicts of Interest* below). We've also intentionally put the position of the Vegan Society to one side until we understand the original sources properly (see *Vegan Society* below).
 
