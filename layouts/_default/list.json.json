@@ -16,7 +16,8 @@
             "description": {{.Description |jsonify}},
             "relativePermalink": {{.RelPermalink |  jsonify}},
             "weight": {{.Params.weight | jsonify }}
-          }
+          },
+          "contributors": {{ $element.Params.contributors | jsonify}}
           {{- end}}
 
       }
