@@ -7,6 +7,12 @@ contributors:
     - 
         name: sam-martin
         role: author
+    -
+        name: tery-hardwicke
+        role: editor
+    -
+        name: valerie-redfern
+        role: proofreader
 description: "Is it true that \"75% of soybeans grown worldwide are fed to livestock\""
 weight: 100
 ---

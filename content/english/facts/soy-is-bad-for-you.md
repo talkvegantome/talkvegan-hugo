@@ -8,7 +8,7 @@ weight: 100
 
 # Popular Fact
 
-> Soy's phytoestrogens cause a variety of negative health effects including reducing male fertility.
+> Soy's phytoestrogens cause a variety of negative health effects due to interfering with hormones.
 
 See our article: [Soy contains estrogen]({{<ref "/facts/soy-contains-estrogen">}}) for more information on phytoestrogens.
 
@@ -23,9 +23,9 @@ See our article: [Soy contains estrogen]({{<ref "/facts/soy-contains-estrogen">}
 
 This is a highly complex and fast moving topic in terms of research. We've discounted a number of the most popular pro-soy sources (see *Conflicts of Interest* below). We've also intentionally put the position of the Vegan Society to one side until we understand the original sources properly (see *Vegan Society* below).
 
-What remains is the truest representation of the research we've surveyed from our layman's ability to digest them. Despite assessing nearly [80 articles and metaanalyses](https://docs.google.com/spreadsheets/d/e/2PACX-1vTayf4Bn7PT7xHNrQ_ehIQV_8gTWRLN9of5Kfm_GuPf9CAPtJ5hZfxEAvTvZub_orWOuPrCxIr7RpTq/pubhtml) we have relied particularly heavily on [Soy, Soy Foods and Their Role in Vegetarian Diets - Nutrients - 2018](https://web.archive.org/web/20191002195620/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5793271/pdf/nutrients-10-00043.pdf/) as it is a highly relevant, highly recent, and seemingly unbiased metaanalaysis of the research.
+What remains is the truest representation of the research we've surveyed from our layman's ability to digest them. Despite assessing nearly [80 articles and meta-analyses](https://docs.google.com/spreadsheets/d/e/2PACX-1vTayf4Bn7PT7xHNrQ_ehIQV_8gTWRLN9of5Kfm_GuPf9CAPtJ5hZfxEAvTvZub_orWOuPrCxIr7RpTq/pubhtml) we have relied particularly heavily on [Soy, Soy Foods and Their Role in Vegetarian Diets - Nutrients - 2018](https://web.archive.org/web/20191002195620/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5793271/pdf/nutrients-10-00043.pdf/) as it is a highly relevant, highly recent, and seemingly unbiased meta-analaysis of the research.
 
-You may come to a different conclusion based on the evidence provided, which is why we have cited, and quoted, and linked to our sources so you can make your own mind up. If you wish to reach us regarding anything we've said in this article, please contact [support@talkveganto.me](mailto:support@talkveganto.me)
+You may come to a different conclusion based on the evidence provided, which is why we have cited, quoted, and linked to our sources so you can make an informed dwcision. If you wish to reach us regarding anything we've said in this article, please contact [support@talkveganto.me](mailto:support@talkveganto.me)
 
 
 ## 1. Phytoestrogens can have hormonal (and anti-hormonal) effects.
@@ -38,7 +38,7 @@ Unfortunately phytoestrogens are not so easily dismissed. See *[Soy contains est
 
 This assertion is based on:
 
-1. How much phytoestrogen is in food is difficult to measure and varies wildly
+1. How much phytoestrogen is in food varies wildly
 2. How much is safe to eat is not well understood
 
 
@@ -59,7 +59,7 @@ So even at the source the amount of isoflavones per kg can vary massively depend
 > The most refined soy foods can lose up to 80-90% of isoflavone content during processing. Soy burgers have 0.1-26 mg per 100 g of total aglycone equivalents, soy yogurts 1.6-11.8 mg per 100 g, soy drinks 1.0-21 mg per 100 g and soy cheeses 2.3-33 mg per 100 g. Usually, bakery soy-based products retain low concentration of isoflavones. Soy milk formulas may contain up to 31 mg per 100 g.  
 > - [Soy, Soy Foods and Their Role in Vegetarian Diets - Nutrients - 2018 - p18](https://web.archive.org/web/20191002195620/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5793271/pdf/nutrients-10-00043.pdf/)
 
-In other words, foods containing soy can have very unpredictable amounts of phytoestrogens, processed foods can lose a lot of their isoflavone content, and usually the effect of cooking soy based foods is to reduce the amount of isoflavones dramatically.
+In other words, foods containing soy can have very unpredictable amounts of phytoestrogens, processed foods can lose a lot of their isoflavone content, and typically cooking soy based foods reduces the amount of isoflavones dramatically.
 
 
 ### 2.2 How much is safe to eat is not well understood.
@@ -81,7 +81,7 @@ and
 
 That said, the few studies that show negative effects have major drawbacks such as:
 
-1. Being performed on animals, which apart from the ethical concerns do not even necessarily yield valid results for humans! 
+1. Being performed on animals, which apart from the ethical concerns do not even necessarily yield valid results for humans!  
 2. Being performed in-vitro (i.e. in a petri-dish on small clusters of cells)
 3. Drawing conclusions from statistical (e.g. epidiemological) data which risks confusing mere correlation with cause.
 
@@ -97,12 +97,12 @@ and
 
 ## 3. It's unlikely you'll ingest enough to have adverse effects, but vary your protein intake anyway!
 
-Having a varied diet is rarely bad advice. And while it seems like you are unlikely to eat enough to adversely affect your health, it's also pretty much impossible to measure how much phytoestrogen you're ingesting on a daily basis without specialised equipment. And even if you could, there are no official recommended daily allowances to stay below.
+Having a varied plant-based diet is rarely bad advice. And while it seems like you are unlikely to eat enough to adversely affect your health, it's also pretty much impossible to measure how much phytoestrogen you're ingesting on a daily basis without specialised equipment. And even if you could, there are no official recommended daily allowances to stay below.
 
 > Overall, the low content of bioactive compounds in second generation soy foods [(e.g. soy based mock meats)] and moderate amounts in traditional soy preparations offer modest health benefits with very limited risk for potential adverse health effects.  
 > - [Soy, Soy Foods and Their Role in Vegetarian Diets - Nutrients - 2018 - p21](https://web.archive.org/web/20191002195620/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5793271/pdf/nutrients-10-00043.pdf/)
 
-An interesting datapoint was the stipulation in the same metanalysis that:
+An interesting point in the same meta-analysis was:
 
 > [T]o have the beneficial effects of soy isoflavones, intake should be at least of 60-100 mg per day, at present not easily reached in Western countries.  
 > - [Soy, Soy Foods and Their Role in Vegetarian Diets - Nutrients - 2018 - p21](https://web.archive.org/web/20191002195620/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5793271/pdf/nutrients-10-00043.pdf/)
