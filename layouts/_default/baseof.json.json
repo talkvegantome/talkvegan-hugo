@@ -9,6 +9,7 @@
         }
       {{ end }}
     ],
+    "contributors": {{$.Site.Data.contributors | jsonify}},
     "languageName": {{.Site.Language.LanguageName | jsonify}},
     "languageShortCode": {{.Site.Language.Lang | jsonify}},
     "date": {{ now  | jsonify }}
