@@ -23,9 +23,9 @@ See our article: [Soy contains estrogen]({{<ref "/facts/soy-contains-estrogen">}
 
 This is a highly complex and fast moving topic in terms of research. We've discounted a number of the most popular pro-soy sources (see *Conflicts of Interest* below). We've also intentionally put the position of the Vegan Society to one side until we understand the original sources properly (see *Vegan Society* below).
 
-What remains is the truest representation of the research we've surveyed from our layman's ability to digest them. Despite assessing nearly [80 articles and meta-analyses](https://docs.google.com/spreadsheets/d/e/2PACX-1vTayf4Bn7PT7xHNrQ_ehIQV_8gTWRLN9of5Kfm_GuPf9CAPtJ5hZfxEAvTvZub_orWOuPrCxIr7RpTq/pubhtml) we have relied particularly heavily on [Soy, Soy Foods and Their Role in Vegetarian Diets - Nutrients - 2018](https://web.archive.org/web/20191002195620/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5793271/pdf/nutrients-10-00043.pdf/) as it is a highly relevant, highly recent, and seemingly unbiased meta-analaysis of the research.
+What remains is the truest representation of the research we've surveyed from our layman's ability to digest them. Despite assessing nearly [80 articles and meta-analyses](https://docs.google.com/spreadsheets/d/e/2PACX-1vTayf4Bn7PT7xHNrQ_ehIQV_8gTWRLN9of5Kfm_GuPf9CAPtJ5hZfxEAvTvZub_orWOuPrCxIr7RpTq/pubhtml) we have relied particularly heavily on [Soy, Soy Foods and Their Role in Vegetarian Diets - Nutrients - 2018](https://web.archive.org/web/20191002195620/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5793271/pdf/nutrients-10-00043.pdf/) as it is a highly relevant, highly recent, and seemingly unbiased meta-analysis of the research.
 
-You may come to a different conclusion based on the evidence provided, which is why we have cited, quoted, and linked to our sources so you can make an informed dwcision. If you wish to reach us regarding anything we've said in this article, please contact [support@talkveganto.me](mailto:support@talkveganto.me)
+You may come to a different conclusion based on the evidence provided, which is why we have cited, quoted, and linked to our sources so you can make an informed decision. If you wish to reach us regarding anything we've said in this article, please contact [support@talkveganto.me](mailto:support@talkveganto.me)
 
 
 ## 1. Phytoestrogens can have hormonal (and anti-hormonal) effects.
@@ -135,7 +135,7 @@ and
 > Evidence suggests that soya is not a threat to our health and is in fact a reliable and healthy protein source.  
 > - [Vegan Society - General FAQs](https://web.archive.org/web/20191002203547/https://www.vegansociety.com/resources/general-faqs)
 
-TalkVeganToMe reached out to The Vegan Society to enquire after the sources for the evidence. The Vegan Society replied incredibly promptly and directed us to the The British Association of Dietitian's as their source.
+TalkVeganToMe reached out to The Vegan Society to enquire after the sources for the evidence. The Vegan Society replied incredibly promptly and directed us to The British Association of Dietitian's as their source.
 
 > There is now scientific agreement that the controversy around isoflavones’ potential to have bad side effects in humans is fuelled only by findings from laboratory or animal studies using pure isoflavones or high doses. It is well established that animals metabolise isoflavones in a different and much more efficient way to humans and results from such studies cannot be compared to any human outcomes. Additionally, using high doses of pure isoflavones cannot be compared to consuming isoflavones from whole soya foods as they provide lower quantities and are a combination of many biologically active molecules. Comprehensive reviews by the European Food Safety Authority, World Cancer Research Fund and the World Health Organisation all conclude that soya foods as part of a healthy balanced diet are safe.  
 > - [British Dietetic Association - Soya and health - the basics - 2017](https://web.archive.org/web/20190928091728/https://www.bda.uk.com/foodfacts/soya2017.pdf)
