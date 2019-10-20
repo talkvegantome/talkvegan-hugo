@@ -1,5 +1,8 @@
 # https://travis-ci.community/t/failed-to-deploy-because-of-ruby-error/1143/4
 dist: trusty
+language: python
+python:
+  - 3.6
 env:
   global:
     secure: "bsLix0MJXfUBgq/OpZ63k92dpIRQNMZA1VZRh1PYtUUzY4xz1zZg1Dki0YWTNvM9g38OIpl0we1ah+9bJ9PkxEw5m/1ulHVcqGukKVJf9YvqfPciLFbomPxQcFE+qnV8XmOl5tSGxNXOshMeD0TPoxu47ytflJ2ZU1NS5mj8ckqoJ4h06MW4EScTWT9oBUTTwUiDrlb9qzI3FHDjLYk92wVHCo+SggqYwU6ahvBHE0/BADsVn2TJMJJl1cLFA8Cwq8J4WZ+gDWh6U5V/u2ZTnkdURFXoppHfMyy3GKEwObndAtN3ZlJUzCO2wRvr/rQkh6LqAMFOeuqlZtsZBYw0FBb2dS86tqZT8q/caZQPnJzcDSyyRPcr3Iks2hiysiOIDb2C3WF3tQyO4BM2xyhH0ikTroJSCuBycFJrnzBDDVE+DbVN47Z0HzCdrKvGDa0Gf1roWL9xeb9DWOissGgT9oD4Vtb24ly3LjdcsrPuZ0TjcHbdmRSGCt9fMBACOG0xeKSkbp4cCJMzCq56s6uoWWJL3I/p+gLCKCK/zt0Q6kMezcE6GqiklwhOWgJLncu/f6mGOFdu1YG0OmplwvejxcKdvZEO7K/HhtdWMNF/QkkQH8O/ldB+p9v/hFED9sBZj4EzMOuVerK0KDjlc4KGpG3uKOfpkY+m2q0m7QAUJJE="
@@ -17,8 +20,8 @@ before_install:
     hugo version
     echo -e "\ntravis_fold:end:$1\r"
 before_script:
-  - python3 --version
-  - python3 ./misc_checks.py
+  - python --version
+  - python ./misc_checks.py
   - |
     wget https://github.com/errata-ai/vale/releases/download/v1.6.0/vale_1.6.0_Linux_64-bit.tar.gz &> /dev/null
     tar -xvf vale_1.6.0_Linux_64-bit.tar.gz
