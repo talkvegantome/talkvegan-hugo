@@ -11,12 +11,12 @@ contributors:
         role: co-author
     - 
         name: sam-martin
-        role: editor
+        role: proofreader
     -
         name: deb-hardwicke
         role: proofreader
 draft: false
-description: "How to respond to the argumnent: If it's just you and a pig on a desert island surely you would eat the pig to survive?"
+description: "How to respond to the argument: If it's just you and a pig on a desert island surely you would eat the pig to survive?"
 weight: 5
 ---
 # Argument
