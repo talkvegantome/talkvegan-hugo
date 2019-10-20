@@ -9,7 +9,7 @@ contributors:
         role: author
     -
         name: tery-hardwicke
-        role: editor
+        role: proofreader
     -
         name: valerie-redfern
         role: proofreader

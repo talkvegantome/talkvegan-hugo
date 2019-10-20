@@ -2,6 +2,16 @@
 title: "Soy is Bad for You"
 date: 2019-09-20T16:06:14+01:00
 draft: false
+contributors:
+    - 
+        name: sam-martin
+        role: author
+    -
+        name: tery-hardwicke
+        role: proofreader
+    -
+        name: valerie-redfern
+        role: proofreader
 description: "Is it true that: \"Soy's phytoestrogens can adversely affect humans?\""
 weight: 100
 ---
