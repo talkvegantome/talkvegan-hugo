@@ -17,16 +17,7 @@ before_install:
     hugo version
     echo -e "\ntravis_fold:end:$1\r"
 before_script:
-  - |
-    if [[ $(grep -R " " content) ]]; 
-      then echo "There is a non breaking space in $(grep -R " " content)"; 
-      exit 1;
-    fi
-  - |
-    if [[ $(grep -R '"../' content) ]]; 
-      then echo "There is a relative internal link in $(grep -R '"../' content)"; 
-      exit 1;
-    fi
+  - python ./misc_checks.py
   - |
     wget https://github.com/errata-ai/vale/releases/download/v1.6.0/vale_1.6.0_Linux_64-bit.tar.gz &> /dev/null
     tar -xvf vale_1.6.0_Linux_64-bit.tar.gz
