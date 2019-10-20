@@ -16,12 +16,12 @@ contributors:
         name: deb-hardwicke
         role: proofreader
 draft: false
-description: "If it's just you and a pig on a desert island surely you would eat the pig to survive?"
+description: "How to respond to the argumnent: If it's just you and a pig on a desert island surely you would eat the pig to survive?"
 weight: 5
 ---
 # Argument
 
-If it's just you and a pig on a desert island surely you would eat the pig to survive?
+> If it's just you and a pig on a desert island surely you would eat the pig to survive?
 
 # Rebuttal
 
@@ -31,7 +31,7 @@ If it's just you and a pig on a desert island surely you would eat the pig to su
 
 or
 
-> That’s an interesting thought experiment but I think you have misunderstood the implications. It is designed to test the Ethics of Emergencies and whether they differ in scope from everyday ethics. That the survivors of Flight 571 turned to cannabalism to survive in an emergency was not a mandate for cannabalism under everyday conditions. Similarly, even if a vegan did kill and eat the pig in an emergency this does not justify the unnecessary killing of animals under normal conditions.
+> That’s an interesting thought experiment. It is designed to test the Ethics of Emergencies and whether they differ in scope from everyday ethics. That the survivors of Flight 571 turned to cannabalism to survive in an emergency was not a mandate for cannabalism under everyday conditions. Similarly, even if a vegan did kill and eat the pig in an emergency this does not justify the unnecessary killing of animals under normal conditions.
 
 ## Detail - Analytic
 
@@ -42,7 +42,7 @@ This thought experiment is usually presented as some sort of *“Gotcha”*.
 > If it's just you and a pig on a desert island surely you would eat the pig so you could survive yourself? Then you wouldn't be vegan anymore would you?" *(snigger)*.  
 > Followed by: So if you (the vegan) choose to eat the pig, then that's no different from me eating pork when I choose.
 
-This line of reasoning is both fallacious (as discussed shortly) and shows a misunderstanding of the scope and nature of the thought experiment:
+This line of reasoning is both false (as discussed shortly) and shows a misunderstanding of the scope and nature of the thought experiment:
 
 ## The thought experiment
 
@@ -73,7 +73,7 @@ Some of the sidesteps that should be avoided:
 
 The temptation with thought experiments is to rush to an answer and then be forced to turn cartwheels in an attempt to justify that answer. Consider: 
 
-- Would you kill the animal but never the child? Why? Just because they are human, but without a specific reason or via some claim to human superiority? 
+- Would you kill the animal but not a child? Is that *just* because they are human? Are you making a claim of [human superiority]({{< ref "/anti-vegan/humans-are-superior" >}})? 
 - Does killing/eating the pig in any way show a weakness in veganism? (*No*, it doesn’t, as we’ll demonstrate shortly). 
 - Does killing and eating the child endorse cannabalism? 
 - What moral principle are you applying?
@@ -104,7 +104,7 @@ Once again, it is not necessary to answer these questions only to consider the m
 While a fascinating thought experiment, when presented as an anti-vegan argument, it reveals a fallacy. The carnist’s argument runs something like:
 
 >[Point 1] If it's just you and a pig on a desert island surely you would eat the pig so you could survive?  
-> [Point 2] Then you wouldn't be vegan anymore would you?" (snigger).  
+> [Point 2] Then you wouldn't be vegan anymore would you? (snigger).  
 > [Point 3] So if you (the vegan) choose to eat the pig, that's no different from me eating pork when I choose.
 
 In more analytical form; this implies that if you do a specific action under emergency conditions then that action is justified under any conditions. This is clearly false. As we noted earlier, the survivors of Flight 571 turned to cannabalism, eating the deceased to survive, but this was *not* a mandate for cannabalism under everyday conditions.
@@ -124,6 +124,11 @@ In our thought experiment it’s not possible to survive without killing the oth
 
 It is unfortunate this fascinating thought experiment is misused as an anti-vegan argument. When it is, it becomes a fallacy and the important implications for moral principles are lost.
 
-The Authors have no certainty about how they would act if marooned on an island with a pig; would their survival instincts or values prevail?  What we are certain about is that, regardless of what occurs on the island, it in no way justifies or condones the  unnecessary slaughter of billions of animals for nothing more than their taste.
+The Authors have no certainty about how they would act if marooned on an island with a pig; would their survival instincts or values prevail?  What we are certain about is that, regardless of what occurs on the island, it in no way justifies or condones the  unnecessary slaughter of millions of animals for nothing more than their taste.
+
+### Citations
+
+> * The Apology *by* Plato *translated by* Benjamin Jowett *also available* [online](http://web.archive.org/web/20190805122204/http://www.sjsu.edu/people/james.lindahl/courses/Phil70A/s3/apology.pdf).
+> * The Ethics of Emergencies *by* Ayn Rand *in* Normative Ethics: The Virtuos Egoist *also available* [online](https://web.archive.org/web/20191020181939/https://philosophyintrocourse.files.wordpress.com/2016/04/ayn-rand-the-ethics-of-emergencies.pdf).
 
 
