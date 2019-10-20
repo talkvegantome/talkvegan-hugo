@@ -17,6 +17,7 @@ before_install:
     hugo version
     echo -e "\ntravis_fold:end:$1\r"
 before_script:
+  - python3 --version
   - python3 ./misc_checks.py
   - |
     wget https://github.com/errata-ai/vale/releases/download/v1.6.0/vale_1.6.0_Linux_64-bit.tar.gz &> /dev/null
