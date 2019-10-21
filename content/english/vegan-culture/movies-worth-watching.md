@@ -7,6 +7,15 @@ contributors:
     - 
         name: tery-hardwicke
         role: author
+    - 
+        name: deb-hardwicke
+        role: proofreader
+    - 
+        name: valerie-redfern
+        role: proofreader
+    - 
+        name: sam-martin
+        role: proofreader
 description: "A list of movies worth watching with interesting insights into vegan philosophy and the human condition"
 weight: 5
 ---
@@ -41,7 +50,7 @@ Simon Amstell's **Carnage** could have been included here, but, as it's more moc
 ## Okja
 **By:**  Bong Joon Ho *as* Joon-ho Bong  
 **Country or Origin:** United States    
-**Genre:** Action, Adventure, Drama.  
+**Genre:** Action, Adventure, Drama   
 **Release Date:** 2017   
 **Critical reception:** With deep ache and hope in its heart *- Vanity Fair*. Okja will make you jump for joy and burst into tears *- Screen Anarchy*.   
 **Issues covered:** Consumerism, animal rights, [(in)humane slaughter]({{< ref "/anti-vegan/animals-are-slaughtered-humanely" >}}), [slaughter methods]({{< ref "/facts/animal-slaughter-methods" >}}), [animal life expectancy]({{< ref "/facts/animal-life-expectancy" >}}), corporate farming methods.    
@@ -52,7 +61,7 @@ A major reason why meat-eating is still the dominant culture is because corporat
 ## Dark City
 **By:** Alex Proyas (Director & Writer)    
 **Country or Origin:**  United States   
-**Genre:** Mystery, Sci-fi, Thriller.   
+**Genre:** Mystery, Sci-fi, Thriller     
 **Release Date:** 1998   
 **Issues covered:**  Vivisection, animal rights, [human superiority]({{< ref "/anti-vegan/humans-are-superior" >}}).  
 **Thoughts:** A dark, brooding, Cartesian nightmare where everything is filtered through a veil of doubt. Primarily aimed at the philosophical question 'are we more than the sum of our memories'. However, Dark City is also a useful thought experiment on vivisection and human justification for vivisection. *Gregory Sadler* notes that the experimenters are “'antagonists' rather than 'villains'. There is a reason for this – despite appearances, they are not actually evil, merely misguided. They have what seem to them perfectly good reasons for what they do, and they seem genuinely frightened and disturbed when their plans are disrupted... *- ([Dark City, Descartes, and Narrative Doubts](http://web.archive.org/web/20151002092115/https://gbsadler.blogspot.com/2011/09/dark-city-descartes-and-narrative.html))*.  Pay close attention to the human doctor (especially the mouse in the maze) and the film's final scenes.     
@@ -62,7 +71,7 @@ A major reason why meat-eating is still the dominant culture is because corporat
 ### The prequel trilogy: Rise of PotA, Dawn of PotA, War for PotA.
 **By:** Rupert Wyatt (Director for Rise) Matt Reeves (Director for Dawn & War)  
 **Country or Origin:** United States   
-**Genre:** Action, Drana, Sci-Fi   
+**Genre:** Action, Drama, Sci-Fi   
 **Release Date:** 2011+   
 **Issues covered:** Speciesism, human superiority, human arrogance, animal rebellion, human cruelty, vivisection, zoos/animal habitats.    
 **Thoughts:** “We see so much of the worst of humanity […]. Maintaining the superiority of the human species at all costs is the only thing of any importance […]  [offers] a mirror into the mindset of the modern human. We want to keep our control of the comforts of life, our dominance of the planet, and our power over nature. We want to continue to enslave and kill other species for food we don’t need and persist with unrestrained industry at the expense of wildlife, nature, and a livable planet. These movies are a dire warning, a wakeup call to the human race that we are going down a very dark path and our arrogance will be our downfall. We have to live differently on this planet, or we may not be able to live here at all. We must take Ceaser’s offer of peace and stop enslaving animals, destroying nature, and hating each other. In the meantime, I’m rooting for the apes!” *- Hope Bohanec ([Planet of the Apes: Speciesism Exposed](http://web.archive.org/web/20190716032256/https://freefromharm.org/animal-rights/planet-apes-speciesism-exposed/))*.   
