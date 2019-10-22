@@ -39,7 +39,7 @@ or
 
 This thought experiment is usually presented as some sort of *“Gotcha”*. 
 
-> If it's just you and a pig on a desert island surely you would eat the pig so you could survive yourself? Then you wouldn't be vegan anymore would you?" *(snigger)*.  
+> If it's just you and a pig on a desert island surely you would eat the pig so you could survive yourself? Then you wouldn't be vegan anymore would you?  
 > Followed by: So if you (the vegan) choose to eat the pig, then that's no different from me eating pork when I choose.
 
 This line of reasoning is both false (as discussed shortly) and shows a misunderstanding of the scope and nature of the thought experiment:
@@ -104,7 +104,7 @@ Once again, it is not necessary to answer these questions only to consider the m
 While a fascinating thought experiment, when presented as an anti-vegan argument, it reveals a fallacy. The carnist’s argument runs something like:
 
 >[Point 1] If it's just you and a pig on a desert island surely you would eat the pig so you could survive?  
-> [Point 2] Then you wouldn't be vegan anymore would you? (snigger).  
+> [Point 2] Then you wouldn't be vegan anymore would you?  
 > [Point 3] So if you (the vegan) choose to eat the pig, that's no different from me eating pork when I choose.
 
 In more analytical form; this implies that if you do a specific action under emergency conditions then that action is justified under any conditions. This is clearly false. As we noted earlier, the survivors of Flight 571 turned to cannabalism, eating the deceased to survive, but this was *not* a mandate for cannabalism under everyday conditions.
