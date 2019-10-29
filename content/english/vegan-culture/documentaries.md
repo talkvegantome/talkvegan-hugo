@@ -58,6 +58,14 @@ We describe documentaries based on:
 **Typical Citation Quality:** Academic  
 **Carnist Palatability:** Uncomfortable 
 
+## Lucent
+[Watch on Youtube](https://www.youtube.com/watch?v=KArL5YjaL5U)  
+**Release Date:** 2014  
+**Website:** [aussiepigs.com](www.aussiepigs.com/lucent)  
+**Activism Style:** Emotive  
+**Typical Citation Quality:** ?
+**Carnist Palatability:** Uncomfortable  
+
 ## Running for Good
 [Watch on Amazon Prime](https://www.amazon.com/Running-Good-Fiona-Oakes/dp/B07L5PJ728) - [Watch on Vimeo](https://vimeo.com/ondemand/runningforgood)   
 **Release Date:** 2018   
